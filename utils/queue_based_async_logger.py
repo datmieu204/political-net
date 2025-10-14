@@ -1,4 +1,4 @@
-# political-net/src/utils/queue_based_async_logger.py
+# ./src/utils/queue_based_async_logger.py
 
 import logging
 import logging.handlers
