@@ -84,8 +84,3 @@ def crawl_and_save_politician_names(terms, output_file):
     unique_names = extract_multiple_terms(terms)
     write_names_to_file(unique_names, output_file)
     log.info(f"Saved to file {output_file}")
-
-if __name__ == "__main__":
-    terms = ["XIII"]    
-    output_file = settings.OUTPUT_DIR_CRAWL_NAMES
-    crawl_and_save_politician_names(terms, output_file)
