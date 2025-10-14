@@ -11,3 +11,10 @@ wheels/
 
 # Environment variables file
 .env
+
+# Logs
+logs/
+*.log
+
+# Data files
+data/raw/
