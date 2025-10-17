@@ -67,6 +67,15 @@ def extract_names(term: str) -> list[str]:
                             names.append(name_href)
                         except Exception as e:
                             log.warning(f"Error extracting name from link {link}: {e}")
+                elif not name_cell.find("br") and not name_cell.find("p"):
+                    if link:
+                        try:
+                            name_href = unquote(link.get("href").replace("/wiki/", "").replace("_", " "))
+                            if name_href.startswith("/w/index.php?title="):
+                                continue
+                            names.append(name_href)
+                        except Exception as e:
+                            log.warning(f"Error extracting name from link {link}: {e}")
     except Exception as e:
         log.exception(f"Error processing table rows: {e}")
         return []
