@@ -10,6 +10,9 @@ import re
 from typing import List, Dict, Set, Tuple
 from datetime import datetime
 
+from utils.queue_based_async_logger import get_async_logger
+
+log = get_async_logger("build_knowledge_graph", log_file="logs/preprocessing/build_knowledge_graph.log")
 
 class KnowledgeGraphBuilder:
     """Class to build Knowledge Graph from infobox data"""
@@ -34,7 +37,6 @@ class KnowledgeGraphBuilder:
             'SERVED_IN': []
         }
         
-        # Sets to avoid duplicates
         self.unique_politicians = set()
         self.unique_positions = set()
         self.unique_locations = set()
@@ -48,23 +50,18 @@ class KnowledgeGraphBuilder:
         if not text or not isinstance(text, str):
             return ""
         
-        # Remove template {{...}}
         text = re.sub(r'\{\{[^}]+\}\}', '', text)
         
-        # Extract from wikilink [[Text]] or [[Link|Display]]
         def replace_wikilink(match):
             content = match.group(1)
             if '|' in content:
-                # Get the part after |
                 return content.split('|')[-1].strip()
             return content.strip()
         
         text = re.sub(r'\[\[([^\]]+)\]\]', replace_wikilink, text)
         
-        # Remove HTML tags
         text = re.sub(r'<[^>]+>', '', text)
         
-        # Remove references <ref>...</ref>
         text = re.sub(r'<ref[^>]*>.*?</ref>', '', text, flags=re.DOTALL)
         
         return text.strip()
@@ -83,7 +80,6 @@ class KnowledgeGraphBuilder:
         for match in matches:
             name = match.strip()
             
-            # Exclude special cases
             exclude_keywords = [
                 'tập tin:', 'file:', 'hình:', 'image:',
                 'thể loại:', 'category:',
@@ -370,51 +366,51 @@ class KnowledgeGraphBuilder:
         """
         Read JSON file and build knowledge graph
         """
-        print(f"{'='*60}")
-        print(f"BUILDING KNOWLEDGE GRAPH")
-        print(f"{'='*60}")
-        print(f"Reading data from: {input_file}")
+        log.info(f"{'='*60}")
+        log.info(f"BUILDING KNOWLEDGE GRAPH")
+        log.info(f"{'='*60}")
+        log.info(f"Reading data from: {input_file}")
         
         with open(input_file, 'r', encoding='utf-8') as f:
             politicians_data = json.load(f)
         
-        print(f"Number of politicians: {len(politicians_data)}")
-        print(f"{'='*60}\n")
+        log.info(f"Number of politicians: {len(politicians_data)}")
+        log.info(f"{'='*60}\n")
         
         for i, politician_data in enumerate(politicians_data, 1):
             title = politician_data.get('title', 'Unknown')
-            print(f"[{i}/{len(politicians_data)}] Processing: {title}")
+            log.info(f"[{i}/{len(politicians_data)}] Processing: {title}")
             self.process_politician(politician_data)
         
-        print(f"\n{'='*60}")
-        print(f"GRAPH CONSTRUCTION COMPLETED")
-        print(f"{'='*60}")
+        log.info(f"\n{'='*60}")
+        log.info(f"GRAPH CONSTRUCTION COMPLETED")
+        log.info(f"{'='*60}")
         self.print_statistics()
     
     def print_statistics(self):
         """
         Print graph statistics
         """
-        print(f"\nNode Statistics:")
+        log.info(f"\nNode Statistics:")
         for node_type, nodes in self.nodes.items():
-            print(f"  • {node_type}: {len(nodes)}")
+            log.info(f"  • {node_type}: {len(nodes)}")
         
-        print(f"\nEdge Statistics:")
+        log.info(f"\nEdge Statistics:")
         for edge_type, edges in self.edges.items():
-            print(f"  • {edge_type}: {len(edges)}")
+            log.info(f"  • {edge_type}: {len(edges)}")
         
         total_nodes = sum(len(nodes) for nodes in self.nodes.values())
         total_edges = sum(len(edges) for edges in self.edges.values())
         
-        print(f"\nTotal Nodes: {total_nodes}")
-        print(f"Total Edges: {total_edges}")
-        print(f"{'='*60}")
+        log.info(f"\nTotal Nodes: {total_nodes}")
+        log.info(f"Total Edges: {total_edges}")
+        log.info(f"{'='*60}")
     
     def export_to_json(self, output_file: str):
         """
         Export to JSON file in triplet format for Neo4j
         """
-        print(f"\nExporting data to: {output_file}")
+        log.info(f"\nExporting data to: {output_file}")
         
         graph_data = {
             'metadata': {
@@ -442,14 +438,14 @@ class KnowledgeGraphBuilder:
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(graph_data, f, ensure_ascii=False, indent=2)
         
-        print(f"✓ Exported {len(graph_data['triplets'])} triplets")
-        print(f"✓ Completed!")
+        log.info(f"✓ Exported {len(graph_data['triplets'])} triplets")
+        log.info(f"✓ Completed!")
     
     def export_to_neo4j_cypher(self, output_file: str):
         """
         Export to Cypher script file for Neo4j import
         """
-        print(f"\nCreating Cypher script: {output_file}")
+        log.info(f"\nCreating Cypher script: {output_file}")
         
         cypher_statements = []
         
@@ -558,8 +554,8 @@ class KnowledgeGraphBuilder:
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write('\n'.join(cypher_statements))
         
-        print(f"✓ Created Cypher script with {len(cypher_statements)} statements")
-        print(f"✓ Completed!")
+        log.info(f"✓ Created Cypher script with {len(cypher_statements)} statements")
+        log.info(f"✓ Completed!")
 
 
 def main():
@@ -577,12 +573,12 @@ def main():
     
     builder.export_to_neo4j_cypher(output_cypher_file)
     
-    print(f"\n{'='*60}")
-    print(f"✨ ALL COMPLETED!")
-    print(f"{'='*60}")
-    print(f"JSON file: {output_json_file}")
-    print(f"Cypher file: {output_cypher_file}")
-    print(f"{'='*60}\n")
+    log.info(f"\n{'='*60}")
+    log.info(f"ALL COMPLETED!")
+    log.info(f"{'='*60}")
+    log.info(f"JSON file: {output_json_file}")
+    log.info(f"Cypher file: {output_cypher_file}")
+    log.info(f"{'='*60}\n")
 
 
 if __name__ == "__main__":
