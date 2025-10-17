@@ -9,5 +9,8 @@ class Settings():
     OUTPUT_DIR_CRAWL_NAMES = OUTPUT_DIR + "/politicians_names.txt"
 
     # Crawl infobox settings
+    VIWIKI_XML_DUMP_DIR = "data/raw/viwiki-latest-pages-articles.xml"
+    INPUT_DIR_CRAWL_INFOBOX = OUTPUT_DIR_CRAWL_NAMES
+    OUTPUT_DIR_CRAWL_INFOBOX = OUTPUT_DIR + "/politicians_infoboxes.json"
 
 settings = Settings()
