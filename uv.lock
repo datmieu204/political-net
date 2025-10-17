@@ -437,6 +437,12 @@ wheels = [
 ]
 
 [[package]]
+name = "docopt"
+version = "0.6.2"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/a2/55/8f8cab2afd404cf578136ef2cc5dfb50baa1761b68c9da1fb1e4eed343c9/docopt-0.6.2.tar.gz", hash = "sha256:49b3a825280bd66b3aa83585ef59c4a8c82f2c8a522dbe754a8bc8d08c85c491", size = 25901, upload-time = "2014-06-16T11:18:57.406Z" }
+
+[[package]]
 name = "executing"
 version = "2.2.1"
 source = { registry = "https://pypi.org/simple" }
@@ -675,6 +681,15 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/12/ae/929aee9619e9eba9015207a9d2c1c54db18311da7eb4dcf6d41ad6f0eb67/json5-0.12.1.tar.gz", hash = "sha256:b2743e77b3242f8d03c143dd975a6ec7c52e2f2afe76ed934e53503dd4ad4990", size = 52191, upload-time = "2025-08-12T19:47:42.583Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/85/e2/05328bd2621be49a6fed9e3030b1e51a2d04537d3f816d211b9cc53c5262/json5-0.12.1-py3-none-any.whl", hash = "sha256:d9c9b3bc34a5f54d43c35e11ef7cb87d8bdd098c6ace87117a7b7e83e705c1d5", size = 36119, upload-time = "2025-08-12T19:47:41.131Z" },
+]
+
+[[package]]
+name = "jsonable"
+version = "0.3.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/47/f1/e02151747f823dc9f13900f19d9fd61cc6aa01a5e90b3f8c2b4131bd619c/jsonable-0.3.1.tar.gz", hash = "sha256:137b676e8e5819fa58518678c3d1f5463cab7e8466f69b3641cbc438042eaee4", size = 5528, upload-time = "2015-10-01T14:44:55.428Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/0e/55/c6bcb4ec7f93bf8f98b57d7e185cf5ee02b52473ed84d5611277f710cdcc/jsonable-0.3.1-py2.py3-none-any.whl", hash = "sha256:f7754dd27b4734e42e7f8a61c2336bc98082f715e31e29a061a95843b102dc3a", size = 11050, upload-time = "2015-10-01T14:45:04.942Z" },
 ]
 
 [[package]]
@@ -1287,6 +1302,20 @@ wheels = [
 ]
 
 [[package]]
+name = "mwcli"
+version = "0.0.3"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "docopt" },
+    { name = "mwxml" },
+    { name = "para" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/2a/f2/87d8a6ce3c2f0e124aefad313cebee5bce9703837c21685842a68b795b68/mwcli-0.0.3.tar.gz", hash = "sha256:00331bd0ff16b5721c9c6274d91e25fd355f45ec0773c8a0e3926eac058719a0", size = 6070, upload-time = "2020-01-14T19:11:40.947Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/d2/21/71ba94260e798e02adeeaa3be2dc81c5ba72d307af52da7b596869cb8a91/mwcli-0.0.3-py2.py3-none-any.whl", hash = "sha256:24a7e53730e6fa7e55626e4f2a61a0b016d5e0a9798306c1d8c71bcead0ab239", size = 8441, upload-time = "2020-01-14T19:11:39.34Z" },
+]
+
+[[package]]
 name = "mwparserfromhell"
 version = "0.7.2"
 source = { registry = "https://pypi.org/simple" }
@@ -1316,6 +1345,33 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/c1/06/b1cdc1844505fc1894ef1f94674193b9bbf7418b173586800eda8686442d/mwparserfromhell-0.7.2-cp313-cp313-musllinux_1_2_x86_64.whl", hash = "sha256:4ed1d61927d0ad618352732dc2a2218f3b14e19a6ee6e490b42a6ed535acc301", size = 254083, upload-time = "2025-07-01T05:26:55.829Z" },
     { url = "https://files.pythonhosted.org/packages/b2/b2/12810d49d24ea35e38ff008c539de49295137e98384433f6ee43502af94e/mwparserfromhell-0.7.2-cp313-cp313-win32.whl", hash = "sha256:0661642c78f8d13369d09401a5c4240f4c91b5af1317e66d7f6270b8b0aecd85", size = 153746, upload-time = "2025-07-01T05:26:57.002Z" },
     { url = "https://files.pythonhosted.org/packages/e2/eb/09a2201943390f2491df5a2fc1fe9abc06b0115116bef799e11725c65ced/mwparserfromhell-0.7.2-cp313-cp313-win_amd64.whl", hash = "sha256:52f193b59c1b6109b210ad85536ce3c569861c3bb9da7b1875618d8ba54c396f", size = 156401, upload-time = "2025-07-01T05:26:58.085Z" },
+]
+
+[[package]]
+name = "mwtypes"
+version = "0.4.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "jsonable" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/93/43/8c5969f9ab23d768062aecfd0126ad47c4ffb0f0ec418ed99cac6c37efc6/mwtypes-0.4.0.tar.gz", hash = "sha256:3e0706524ff6edc008bf37cbbd1a155f6bc738269be7d9bee1b7220cf9ad956f", size = 13869, upload-time = "2024-07-09T17:39:37.752Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/a5/fd/15e9b1e546ac702c316bd8c68dcde63452489a55896979d4f87bc7f8d96b/mwtypes-0.4.0-py2.py3-none-any.whl", hash = "sha256:b63fb06ba3ebd704aa2c6d504e71dfcbf49368ef1552791df8dd735ab321e423", size = 20145, upload-time = "2024-07-09T17:39:35.447Z" },
+]
+
+[[package]]
+name = "mwxml"
+version = "0.3.6"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "jsonschema" },
+    { name = "mwcli" },
+    { name = "mwtypes" },
+    { name = "para" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/a8/d3/78e0b7d2ac9a8e5e4af1157e30d3ae575edc0cdb618706ea4eb8649cc099/mwxml-0.3.6.tar.gz", hash = "sha256:5a53181d302152ad03ec513ff186a89e0c7e1fcc50c78330452a0872caa63935", size = 18536, upload-time = "2025-02-13T22:28:48.307Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/3b/e8/cf48d7e707faf85e5bcaaa08d02d5ee9dd4b64c45a6e4c11c5d71f798d86/mwxml-0.3.6-py2.py3-none-any.whl", hash = "sha256:f5e0cde46c7d4b0d1d921f8f0aa14d691b6eaa6532b901dacc6c7407be26c70a", size = 33198, upload-time = "2025-02-13T22:28:47.101Z" },
 ]
 
 [[package]]
@@ -1594,6 +1650,15 @@ wheels = [
 ]
 
 [[package]]
+name = "para"
+version = "0.0.8"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/a6/ac/192f715b8260eb05d7dfd822e9626583e2aa658f33afd407e2febbb37373/para-0.0.8.tar.gz", hash = "sha256:46c3232ae9d8ea9d886cfd08cdd112892202bed8645f40b6255597ba4cfef217", size = 5353, upload-time = "2020-01-17T15:12:29.984Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/71/62/55f612856021efa8fe7425289914f3641cca7eb9bc9374bf888597f37ce7/para-0.0.8-py3-none-any.whl", hash = "sha256:c63b030658cafd84f8fabfc000142324d51c7440e50ef5012fd1a54972ca25f4", size = 6502, upload-time = "2020-01-17T15:12:28.535Z" },
+]
+
+[[package]]
 name = "parso"
 version = "0.8.5"
 source = { registry = "https://pypi.org/simple" }
@@ -1717,6 +1782,7 @@ dependencies = [
     { name = "lxml" },
     { name = "matplotlib" },
     { name = "mwparserfromhell" },
+    { name = "mwxml" },
     { name = "neo4j" },
     { name = "networkx" },
     { name = "pandas" },
@@ -1731,6 +1797,7 @@ requires-dist = [
     { name = "lxml", specifier = ">=6.0.2" },
     { name = "matplotlib", specifier = ">=3.10.6" },
     { name = "mwparserfromhell", specifier = ">=0.7.2" },
+    { name = "mwxml", specifier = ">=0.3.6" },
     { name = "neo4j", specifier = ">=6.0.2" },
     { name = "networkx", specifier = ">=3.5" },
     { name = "pandas", specifier = ">=2.3.3" },
