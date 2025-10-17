@@ -57,6 +57,8 @@ COMPREHENSIVE_MAPPING = {
     "constituency": "constituency",
     "quê quán": "hometown",
     "hometown": "hometown",
+    "nơi_ở": "residence",
+    "nơi ở": "residence",
     
     # Birth/Death
     "ngày sinh": "birth_date",
@@ -102,6 +104,8 @@ COMPREHENSIVE_MAPPING = {
     
     # Education
     "học vấn": "education_level",
+    "giáo dục": "education",
+    "giáo_dục": "education",
     "education": "education",
     "học trường": "alma_mater",
     "alma_mater": "alma_mater",
@@ -140,4 +144,9 @@ COMPREHENSIVE_MAPPING = {
     "module": "module",
     "cont": "cont",
     "titlestyle": "titlestyle",
+
+    # others
+    "khác": "other",
+    "other": "other",
+    "thêm": "other",
 }
