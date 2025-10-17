@@ -1,0 +1,1981 @@
+{
+  "metadata": {
+    "created_at": "2025-10-17T11:50:00.390500",
+    "total_nodes": 64,
+    "total_edges": 108,
+    "node_types": [
+      "Politician",
+      "Position",
+      "Location",
+      "Award",
+      "MilitaryCareer"
+    ],
+    "edge_types": [
+      "SERVED_AS",
+      "SUCCEEDED",
+      "PRECEDED",
+      "BORN_AT",
+      "DIED_AT",
+      "AWARDED",
+      "SERVED_IN"
+    ]
+  },
+  "nodes": {
+    "Politician": [
+      {
+        "id": "Bùi Thiện Ngộ",
+        "type": "Politician",
+        "name": "Bùi Thiện Ngộ",
+        "full_name": "Bùi Thiện Ngộ",
+        "birth_date": "",
+        "death_date": "",
+        "party": "Đảng Cộng sản Việt Nam",
+        "ethnicity": "Kinh",
+        "religion": "không",
+        "nationality": "",
+        "image": "Bùi_Thiện_Ngộ.jpg",
+        "military_rank": "15px Thượng tướng"
+      },
+      {
+        "id": "Cù Thị Hậu",
+        "type": "Politician",
+        "name": "Cù Thị Hậu",
+        "full_name": "Cù Thị Hậu",
+        "birth_date": "",
+        "death_date": "",
+        "party": "Đảng Cộng sản Việt Nam",
+        "ethnicity": "Kinh",
+        "religion": "Không",
+        "nationality": "",
+        "image": "",
+        "military_rank": ""
+      },
+      {
+        "id": "Hoàng Bích Sơn",
+        "type": "Politician",
+        "name": "Hoàng Bích Sơn",
+        "full_name": "Hoàng Bích Sơn",
+        "birth_date": "20 tháng 1, 1924",
+        "death_date": "",
+        "party": "",
+        "ethnicity": "",
+        "religion": "",
+        "nationality": "",
+        "image": "Hoang_Bich_son.jpg",
+        "military_rank": ""
+      },
+      {
+        "id": "Cao Đăng Chiếm",
+        "type": "Politician",
+        "name": "Cao Đăng Chiếm",
+        "full_name": "Cao Đăng Chiếm",
+        "birth_date": "1 tháng 12 năm 1921",
+        "death_date": "",
+        "party": "Đảng Cộng sản Việt Nam",
+        "ethnicity": "",
+        "religion": "",
+        "nationality": "",
+        "image": "CaoDangChiem.jpg",
+        "military_rank": "15px Thượng tướng"
+      },
+      {
+        "id": "Hoàng Cầm (tướng)",
+        "type": "Politician",
+        "name": "Hoàng CầmNăm Thạch",
+        "full_name": "Hoàng Cầm (tướng)",
+        "birth_date": "30 tháng 4 năm 1920",
+        "death_date": "",
+        "party": "",
+        "ethnicity": "",
+        "religion": "",
+        "nationality": "22px Việt Nam",
+        "image": "Tướng Hoàng Cầm.jpg",
+        "military_rank": ""
+      },
+      {
+        "id": "Hồng Hà (nhà báo)",
+        "type": "Politician",
+        "name": "Hồng Hà",
+        "full_name": "Hồng Hà (nhà báo)",
+        "birth_date": "",
+        "death_date": "",
+        "party": "Đảng Cộng sản Việt Nam",
+        "ethnicity": "",
+        "religion": "",
+        "nationality": "",
+        "image": "HongHa.jpg",
+        "military_rank": ""
+      },
+      {
+        "id": "Bùi Danh Lưu",
+        "type": "Politician",
+        "name": "Bùi Danh Lưu",
+        "full_name": "Bùi Danh Lưu",
+        "birth_date": "",
+        "death_date": "",
+        "party": "",
+        "ethnicity": "Kinh",
+        "religion": "",
+        "nationality": "",
+        "image": "Bùi Danh Lưu.jpg",
+        "military_rank": ""
+      },
+      {
+        "id": "Hoàng Quy",
+        "type": "Politician",
+        "name": "Hoàng Quy",
+        "full_name": "Hoàng Quy",
+        "birth_date": "28 tháng 3 năm 1927",
+        "death_date": "2009",
+        "party": "Đảng Cộng sản Việt Nam",
+        "ethnicity": "",
+        "religion": "",
+        "nationality": "",
+        "image": "Ông Hoàng Quy.jpg",
+        "military_rank": ""
+      },
+      {
+        "id": "Hoàng Trường Minh",
+        "type": "Politician",
+        "name": "Hoàng Trường Minh",
+        "full_name": "Hoàng Trường Minh",
+        "birth_date": "",
+        "death_date": "",
+        "party": "Đảng Cộng sản Việt Nam",
+        "ethnicity": "Tày",
+        "religion": "",
+        "nationality": "",
+        "image": "Hoàng Trường Minh.jpg",
+        "military_rank": ""
+      },
+      {
+        "id": "Hoàng Minh Thắng",
+        "type": "Politician",
+        "name": "Hoàng Minh Thắng",
+        "full_name": "Hoàng Minh Thắng",
+        "birth_date": "",
+        "death_date": "",
+        "party": "",
+        "ethnicity": "",
+        "religion": "",
+        "nationality": "",
+        "image": "Hoàng Minh Thắng.jpg",
+        "military_rank": ""
+      }
+    ],
+    "Position": [
+      {
+        "id": "Bộ trưởng Bộ Nội vụ (Nay là Bộ Công an)",
+        "type": "Position",
+        "name": "Bộ trưởng Bộ Nội vụ (Nay là Bộ Công an)"
+      },
+      {
+        "id": "Ủy viên Bộ Chính trị",
+        "type": "Position",
+        "name": "Ủy viên Bộ Chính trị"
+      },
+      {
+        "id": "40pxChủ tịch Hội Người cao tuổi Việt Nam",
+        "type": "Position",
+        "name": "40pxChủ tịch Hội Người cao tuổi Việt Nam"
+      },
+      {
+        "id": "Phó Chủ tịch Hội Người cao tuổi Việt Nam",
+        "type": "Position",
+        "name": "Phó Chủ tịch Hội Người cao tuổi Việt Nam"
+      },
+      {
+        "id": "Chủ tịch Tổng Công đoàn Việt Nam",
+        "type": "Position",
+        "name": "Chủ tịch Tổng Công đoàn Việt Nam"
+      },
+      {
+        "id": "Phó Chủ tịch thường trực Tổng Công đoàn Việt Nam",
+        "type": "Position",
+        "name": "Phó Chủ tịch thường trực Tổng Công đoàn Việt Nam"
+      },
+      {
+        "id": "Ủy viên Trung ương Đảng khóa VI, VII, VIII, IX",
+        "type": "Position",
+        "name": "Ủy viên Trung ương Đảng khóa VI, VII, VIII, IX"
+      },
+      {
+        "id": "Trưởng ban Ban Đối ngoại Trung ương Đảng Cộng sản Việt Nam",
+        "type": "Position",
+        "name": "Trưởng ban Ban Đối ngoại Trung ương Đảng Cộng sản Việt Nam"
+      },
+      {
+        "id": "Ủy viên Ủy ban Thường vụ Quốc hội, Chủ nhiệm Ủy ban Đối ngoại Quốc hội",
+        "type": "Position",
+        "name": "Ủy viên Ủy ban Thường vụ Quốc hội, Chủ nhiệm Ủy ban Đối ngoại Quốc hội"
+      },
+      {
+        "id": "Thứ trưởng Thường trực Bộ Công an",
+        "type": "Position",
+        "name": "Thứ trưởng Thường trực Bộ Công an"
+      },
+      {
+        "id": "Tổng Thanh tra Quân đội",
+        "type": "Position",
+        "name": "Tổng Thanh tra Quân đội"
+      },
+      {
+        "id": "Tư lệnh Quân khu 4",
+        "type": "Position",
+        "name": "Tư lệnh Quân khu 4"
+      },
+      {
+        "id": "Phó Chủ tịch Ủy ban Quân quản Sài Gòn - Gia Định",
+        "type": "Position",
+        "name": "Phó Chủ tịch Ủy ban Quân quản Sài Gòn - Gia Định"
+      },
+      {
+        "id": "Tư lệnh Quân đoàn 4",
+        "type": "Position",
+        "name": "Tư lệnh Quân đoàn 4"
+      },
+      {
+        "id": "Phó Tư lệnh, Tham mưu trưởng Quân Giải phóng miền Nam Việt Nam",
+        "type": "Position",
+        "name": "Phó Tư lệnh, Tham mưu trưởng Quân Giải phóng miền Nam Việt Nam"
+      },
+      {
+        "id": "Sư đoàn trưởng Sư đoàn 9",
+        "type": "Position",
+        "name": "Sư đoàn trưởng Sư đoàn 9"
+      },
+      {
+        "id": "Sư đoàn trưởng Sư đoàn 312",
+        "type": "Position",
+        "name": "Sư đoàn trưởng Sư đoàn 312"
+      },
+      {
+        "id": "Trưởng ban Đối ngoại Trung ương",
+        "type": "Position",
+        "name": "Trưởng ban Đối ngoại Trung ương"
+      },
+      {
+        "id": "Chánh Văn phòng Trung ương Đảng",
+        "type": "Position",
+        "name": "Chánh Văn phòng Trung ương Đảng"
+      },
+      {
+        "id": "Tổng biên tập Báo Nhân dân",
+        "type": "Position",
+        "name": "Tổng biên tập Báo Nhân dân"
+      },
+      {
+        "id": "Bộ trưởng Bộ Giao thông Vận tải",
+        "type": "Position",
+        "name": "Bộ trưởng Bộ Giao thông Vận tải"
+      },
+      {
+        "id": "Bộ trưởng Bộ Tài chính",
+        "type": "Position",
+        "name": "Bộ trưởng Bộ Tài chính"
+      },
+      {
+        "id": "Phó Chủ nhiệm thứ nhất Ủy ban Kế hoạch Nhà nước",
+        "type": "Position",
+        "name": "Phó Chủ nhiệm thứ nhất Ủy ban Kế hoạch Nhà nước"
+      },
+      {
+        "id": "Bí thư Tỉnh ủy Vĩnh Phú",
+        "type": "Position",
+        "name": "Bí thư Tỉnh ủy Vĩnh Phú"
+      },
+      {
+        "id": "Bí thư Tỉnh ủy Lào Cai",
+        "type": "Position",
+        "name": "Bí thư Tỉnh ủy Lào Cai"
+      },
+      {
+        "id": "Phó Chủ tịch Quốc hội Việt Nam",
+        "type": "Position",
+        "name": "Phó Chủ tịch Quốc hội Việt Nam"
+      },
+      {
+        "id": "Trưởng ban Dân tộc Trung ương",
+        "type": "Position",
+        "name": "Trưởng ban Dân tộc Trung ương"
+      },
+      {
+        "id": "Chủ tịch Hội đồng Dân tộc của Quốc hội",
+        "type": "Position",
+        "name": "Chủ tịch Hội đồng Dân tộc của Quốc hội"
+      },
+      {
+        "id": "Chủ tịch Hội đồng Trung ương lâm thời các doanh nghiệp ngoài quốc doanh",
+        "type": "Position",
+        "name": "Chủ tịch Hội đồng Trung ương lâm thời các doanh nghiệp ngoài quốc doanh"
+      },
+      {
+        "id": "Đại biểu Quốc hội Việt Namkhóa VII, VIII, IX",
+        "type": "Position",
+        "name": "Đại biểu Quốc hội Việt Namkhóa VII, VIII, IX"
+      },
+      {
+        "id": "Bộ trưởng Bộ Thương nghiệp",
+        "type": "Position",
+        "name": "Bộ trưởng Bộ Thương nghiệp"
+      },
+      {
+        "id": "Bộ trưởng Bộ Nội thương",
+        "type": "Position",
+        "name": "Bộ trưởng Bộ Nội thương"
+      },
+      {
+        "id": "Bí thư Tỉnh ủy Quảng Nam – Đà Nẵng",
+        "type": "Position",
+        "name": "Bí thư Tỉnh ủy Quảng Nam – Đà Nẵng"
+      },
+      {
+        "id": "Phó Bí thư Tỉnh ủy Quảng Nam – Đà Nẵng",
+        "type": "Position",
+        "name": "Phó Bí thư Tỉnh ủy Quảng Nam – Đà Nẵng"
+      },
+      {
+        "id": "Bí thư Tỉnh ủy Quảng Nam",
+        "type": "Position",
+        "name": "Bí thư Tỉnh ủy Quảng Nam"
+      },
+      {
+        "id": "Phó Bí thư Tỉnh ủy Quảng Nam",
+        "type": "Position",
+        "name": "Phó Bí thư Tỉnh ủy Quảng Nam"
+      }
+    ],
+    "Location": [
+      {
+        "id": "Sài Gòn, Nam kỳ, Liên bang Đông Dương",
+        "type": "Location",
+        "name": "Sài Gòn, Nam kỳ, Liên bang Đông Dương"
+      },
+      {
+        "id": "Thành phố Hồ Chí Minh, Việt Nam",
+        "type": "Location",
+        "name": "Thành phố Hồ Chí Minh, Việt Nam"
+      },
+      {
+        "id": "Phú Thọ, Việt Nam Dân chủ Cộng hòa",
+        "type": "Location",
+        "name": "Phú Thọ, Việt Nam Dân chủ Cộng hòa"
+      },
+      {
+        "id": "Quảng Nam",
+        "type": "Location",
+        "name": "Quảng Nam"
+      },
+      {
+        "id": "Hà Nội",
+        "type": "Location",
+        "name": "Hà Nội"
+      },
+      {
+        "id": "Mỹ Tho, Liên bang Đông Dương",
+        "type": "Location",
+        "name": "Mỹ Tho, Liên bang Đông Dương"
+      },
+      {
+        "id": "Sơn Công, Ứng Hòa, tỉnh Hà Đông, Liên bang Đông Dương",
+        "type": "Location",
+        "name": "Sơn Công, Ứng Hòa, tỉnh Hà Đông, Liên bang Đông Dương"
+      },
+      {
+        "id": "thành phố Nam Định, tỉnh Nam Định, Liên bang Đông Dương",
+        "type": "Location",
+        "name": "thành phố Nam Định, tỉnh Nam Định, Liên bang Đông Dương"
+      },
+      {
+        "id": "Hà Nội, Việt Nam",
+        "type": "Location",
+        "name": "Hà Nội, Việt Nam"
+      },
+      {
+        "id": "Đào Xá, Thanh Thủy, Phú Thọ, Bắc Kỳ, Liên bang Đông Dương",
+        "type": "Location",
+        "name": "Đào Xá, Thanh Thủy, Phú Thọ, Bắc Kỳ, Liên bang Đông Dương"
+      },
+      {
+        "id": "Bệnh viện Hữu Nghị, Hà Nội, Việt Nam",
+        "type": "Location",
+        "name": "Bệnh viện Hữu Nghị, Hà Nội, Việt Nam"
+      },
+      {
+        "id": "tỉnh Hưng Yên, Liên bang Đông Dương",
+        "type": "Location",
+        "name": "tỉnh Hưng Yên, Liên bang Đông Dương"
+      },
+      {
+        "id": "Bắc Kạn, Bắc Kỳ, Liên bang Đông Dương",
+        "type": "Location",
+        "name": "Bắc Kạn, Bắc Kỳ, Liên bang Đông Dương"
+      },
+      {
+        "id": "Thăng Bình, Quảng Nam, Liên bang Đông Dương",
+        "type": "Location",
+        "name": "Thăng Bình, Quảng Nam, Liên bang Đông Dương"
+      },
+      {
+        "id": "Đà Nẵng, Việt Nam",
+        "type": "Location",
+        "name": "Đà Nẵng, Việt Nam"
+      }
+    ],
+    "Award": [
+      {
+        "id": "Huy hiệu 50 năm tuổi Đảng",
+        "type": "Award",
+        "name": "Huy hiệu 50 năm tuổi Đảng"
+      }
+    ],
+    "MilitaryCareer": [
+      {
+        "id": "Công an nhân dân Việt Nam",
+        "type": "MilitaryCareer",
+        "name": "Công an nhân dân Việt Nam"
+      },
+      {
+        "id": "22px Quân đội nhân dân Việt Nam",
+        "type": "MilitaryCareer",
+        "name": "22px Quân đội nhân dân Việt Nam"
+      }
+    ]
+  },
+  "edges": {
+    "SERVED_AS": [
+      {
+        "from": "Bùi Thiện Ngộ",
+        "to": "Bộ trưởng Bộ Nội vụ (Nay là Bộ Công an)",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "9 tháng 8 năm 1991",
+          "term_end": "6 tháng 11 năm 1996"
+        }
+      },
+      {
+        "from": "Bùi Thiện Ngộ",
+        "to": "Ủy viên Bộ Chính trị",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1991",
+          "term_end": "1996"
+        }
+      },
+      {
+        "from": "Cù Thị Hậu",
+        "to": "40pxChủ tịch Hội Người cao tuổi Việt Nam",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "11 tháng 11 năm 2011",
+          "term_end": "9 tháng 11 năm 2016"
+        }
+      },
+      {
+        "from": "Cù Thị Hậu",
+        "to": "Phó Chủ tịch Hội Người cao tuổi Việt Nam",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "30 tháng 12 năm 2006",
+          "term_end": "11 tháng 11 năm 2011"
+        }
+      },
+      {
+        "from": "Cù Thị Hậu",
+        "to": "Chủ tịch Tổng Công đoàn Việt Nam",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "3 tháng 11 năm 1998",
+          "term_end": "30 tháng 12 năm 2006"
+        }
+      },
+      {
+        "from": "Cù Thị Hậu",
+        "to": "Phó Chủ tịch thường trực Tổng Công đoàn Việt Nam",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "17 tháng 10 năm 1988",
+          "term_end": "6 tháng 11 năm 1998"
+        }
+      },
+      {
+        "from": "Cù Thị Hậu",
+        "to": "Ủy viên Trung ương Đảng khóa VI, VII, VIII, IX",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "18 tháng 12 năm 1986",
+          "term_end": "25 tháng 4 năm 2006"
+        }
+      },
+      {
+        "from": "Hoàng Bích Sơn",
+        "to": "Trưởng ban Ban Đối ngoại Trung ương Đảng Cộng sản Việt Nam",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "",
+          "term_end": ""
+        }
+      },
+      {
+        "from": "Hoàng Bích Sơn",
+        "to": "Ủy viên Ủy ban Thường vụ Quốc hội, Chủ nhiệm Ủy ban Đối ngoại Quốc hội",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1992",
+          "term_end": "1997"
+        }
+      },
+      {
+        "from": "Cao Đăng Chiếm",
+        "to": "Thứ trưởng Thường trực Bộ Công an",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "",
+          "term_end": ""
+        }
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Tổng Thanh tra Quân đội",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1987",
+          "term_end": "1992"
+        }
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Tư lệnh Quân khu 4",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1981",
+          "term_end": "1986"
+        }
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Phó Chủ tịch Ủy ban Quân quản Sài Gòn - Gia Định",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "3 tháng 5 năm 1975",
+          "term_end": "20 tháng 1 năm 1976"
+        }
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Tư lệnh Quân đoàn 4",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1974",
+          "term_end": "1981"
+        }
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Phó Tư lệnh, Tham mưu trưởng Quân Giải phóng miền Nam Việt Nam",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1970",
+          "term_end": "1974"
+        }
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Sư đoàn trưởng Sư đoàn 9",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1964",
+          "term_end": "1970"
+        }
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Sư đoàn trưởng Sư đoàn 312",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1955",
+          "term_end": "1964"
+        }
+      },
+      {
+        "from": "Hồng Hà (nhà báo)",
+        "to": "Trưởng ban Đối ngoại Trung ương",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "tháng 6 năm 1991",
+          "term_end": "tháng 6 năm 1996"
+        }
+      },
+      {
+        "from": "Hồng Hà (nhà báo)",
+        "to": "Chánh Văn phòng Trung ương Đảng",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "tháng 3 năm 1987",
+          "term_end": "1991"
+        }
+      },
+      {
+        "from": "Hồng Hà (nhà báo)",
+        "to": "Tổng biên tập Báo Nhân dân",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1982",
+          "term_end": "1987"
+        }
+      },
+      {
+        "from": "Bùi Danh Lưu",
+        "to": "Bộ trưởng Bộ Giao thông Vận tải",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "21 tháng 6 năm 1986",
+          "term_end": "6 tháng 11 năm 1996"
+        }
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Bộ trưởng Bộ Tài chính",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "16 tháng 2 năm 1987",
+          "term_end": "1 tháng 2 năm 1992"
+        }
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Phó Chủ nhiệm thứ nhất Ủy ban Kế hoạch Nhà nước",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "29 tháng 10 năm 1983",
+          "term_end": "16 tháng 2 năm 1987"
+        }
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Bí thư Tỉnh ủy Vĩnh Phú",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "Tháng 10, 1977",
+          "term_end": "Tháng 10, 1983"
+        }
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Bí thư Tỉnh ủy Lào Cai",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "Đầu 1949",
+          "term_end": "1954"
+        }
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Bí thư Tỉnh ủy Lào Cai",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "Cuối 1947",
+          "term_end": "Tháng 4, 1948"
+        }
+      },
+      {
+        "from": "Hoàng Trường Minh",
+        "to": "Phó Chủ tịch Quốc hội Việt Nam",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "19 tháng 4 năm 1987",
+          "term_end": "12 tháng 10 năm 1989"
+        }
+      },
+      {
+        "from": "Hoàng Trường Minh",
+        "to": "Trưởng ban Dân tộc Trung ương",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1 tháng 2 năm 1982",
+          "term_end": "1 tháng 8 năm 1989"
+        }
+      },
+      {
+        "from": "Hoàng Trường Minh",
+        "to": "Chủ tịch Hội đồng Dân tộc của Quốc hội",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "26 tháng 4 năm 1981",
+          "term_end": "19 tháng 4 năm 1987"
+        }
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Chủ tịch Hội đồng Trung ương lâm thời các doanh nghiệp ngoài quốc doanh",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1991",
+          "term_end": "1998"
+        }
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Đại biểu Quốc hội Việt Namkhóa VII, VIII, IX",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1981",
+          "term_end": "1997"
+        }
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Bộ trưởng Bộ Thương nghiệp",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1990",
+          "term_end": "1991"
+        }
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Bộ trưởng Bộ Nội thương",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1986",
+          "term_end": "1990"
+        }
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Bí thư Tỉnh ủy Quảng Nam – Đà Nẵng",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1982",
+          "term_end": "1986"
+        }
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Phó Bí thư Tỉnh ủy Quảng Nam – Đà Nẵng",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1975",
+          "term_end": "1982"
+        }
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Bí thư Tỉnh ủy Quảng Nam",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1970",
+          "term_end": "1975"
+        }
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Phó Bí thư Tỉnh ủy Quảng Nam",
+        "type": "SERVED_AS",
+        "properties": {
+          "term_start": "1967",
+          "term_end": "1969"
+        }
+      }
+    ],
+    "SUCCEEDED": [
+      {
+        "from": "Bùi Thiện Ngộ",
+        "to": "Mai Chí Thọ",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Bùi Thiện Ngộ",
+        "to": "Mai Chí Thọ",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Cù Thị Hậu",
+        "to": "Nguyễn Tấn Trịnh",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Cù Thị Hậu",
+        "to": "Nguyễn Văn Tư",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Bích Sơn",
+        "to": "Vũ Quang (định hướng)",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Bích Sơn",
+        "to": "Nguyễn Thị Bình",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Lê Quang Hòa",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Hoàng Minh Thi",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Nguyễn Minh Châu (thượng tướng)",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Lê Trọng Tấn",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hồng Hà (nhà báo)",
+        "to": "Hoàng Bích Sơn",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hồng Hà (nhà báo)",
+        "to": "Nguyễn Khánh (Phó Thủ tướng)",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hồng Hà (nhà báo)",
+        "to": "Hoàng Tùng",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Bùi Danh Lưu",
+        "to": "Đồng Sĩ Nguyên",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Vũ Tuân",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Kim Ngọc",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Vũ Nhất",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Lê Thanh (chính khách)",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Trường Minh",
+        "to": "Xuân Thủy",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Trường Minh",
+        "to": "Hoàng Văn Kiểu",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Trường Minh",
+        "to": "Chu Văn Tấn",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Hoàng Đức Nghi",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Lê Đức Thịnh",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Hồ Nghinh",
+        "type": "SUCCEEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Trần Thận",
+        "type": "SUCCEEDED",
+        "properties": {}
+      }
+    ],
+    "PRECEDED": [
+      {
+        "from": "Bùi Thiện Ngộ",
+        "to": "Lê Minh Hương",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Bùi Thiện Ngộ",
+        "to": "Lê Minh Hương",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Cù Thị Hậu",
+        "to": "Phạm Thị Hải Chuyền",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Cù Thị Hậu",
+        "to": "Đặng Ngọc Tùng",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Bích Sơn",
+        "to": "Hồng Hà (nhà báo)",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Bích Sơn",
+        "to": "Đỗ Văn Tài",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Nguyễn Kiệm",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Nguyễn Quốc Thước",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Nguyễn Văn Quảng",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Nguyễn Minh Châu (thượng tướng)",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Nguyễn Thăng Bình",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hồng Hà (nhà báo)",
+        "to": "Nguyễn Văn Son",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hồng Hà (nhà báo)",
+        "to": "Phan Diễn",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hồng Hà (nhà báo)",
+        "to": "Hà Đăng",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Bùi Danh Lưu",
+        "to": "Lê Ngọc Hoàn",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Hồ Tế",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Đậu Ngọc Xuân",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Nguyễn Văn Tôn",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Hoàng Trường Minh",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "Vũ Nhất",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Trường Minh",
+        "to": "Phùng Văn Tửu",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Trường Minh",
+        "to": "Nông Đức Mạnh",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Hồ Nghinh",
+        "type": "PRECEDED",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Đỗ Thế Chấp",
+        "type": "PRECEDED",
+        "properties": {}
+      }
+    ],
+    "BORN_AT": [
+      {
+        "from": "Bùi Thiện Ngộ",
+        "to": "Sài Gòn, Nam kỳ, Liên bang Đông Dương",
+        "type": "BORN_AT",
+        "properties": {}
+      },
+      {
+        "from": "Cù Thị Hậu",
+        "to": "Phú Thọ, Việt Nam Dân chủ Cộng hòa",
+        "type": "BORN_AT",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Bích Sơn",
+        "to": "Quảng Nam",
+        "type": "BORN_AT",
+        "properties": {}
+      },
+      {
+        "from": "Cao Đăng Chiếm",
+        "to": "Mỹ Tho, Liên bang Đông Dương",
+        "type": "BORN_AT",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "Sơn Công, Ứng Hòa, tỉnh Hà Đông, Liên bang Đông Dương",
+        "type": "BORN_AT",
+        "properties": {}
+      },
+      {
+        "from": "Hồng Hà (nhà báo)",
+        "to": "thành phố Nam Định, tỉnh Nam Định, Liên bang Đông Dương",
+        "type": "BORN_AT",
+        "properties": {}
+      },
+      {
+        "from": "Bùi Danh Lưu",
+        "to": "Đào Xá, Thanh Thủy, Phú Thọ, Bắc Kỳ, Liên bang Đông Dương",
+        "type": "BORN_AT",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Quy",
+        "to": "tỉnh Hưng Yên, Liên bang Đông Dương",
+        "type": "BORN_AT",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Trường Minh",
+        "to": "Bắc Kạn, Bắc Kỳ, Liên bang Đông Dương",
+        "type": "BORN_AT",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Thăng Bình, Quảng Nam, Liên bang Đông Dương",
+        "type": "BORN_AT",
+        "properties": {}
+      }
+    ],
+    "DIED_AT": [
+      {
+        "from": "Bùi Thiện Ngộ",
+        "to": "Thành phố Hồ Chí Minh, Việt Nam",
+        "type": "DIED_AT",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Bích Sơn",
+        "to": "Hà Nội",
+        "type": "DIED_AT",
+        "properties": {}
+      },
+      {
+        "from": "Cao Đăng Chiếm",
+        "to": "Thành phố Hồ Chí Minh, Việt Nam",
+        "type": "DIED_AT",
+        "properties": {}
+      },
+      {
+        "from": "Hồng Hà (nhà báo)",
+        "to": "Hà Nội, Việt Nam",
+        "type": "DIED_AT",
+        "properties": {}
+      },
+      {
+        "from": "Bùi Danh Lưu",
+        "to": "Bệnh viện Hữu Nghị, Hà Nội, Việt Nam",
+        "type": "DIED_AT",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Trường Minh",
+        "to": "Hà Nội, Việt Nam",
+        "type": "DIED_AT",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "Đà Nẵng, Việt Nam",
+        "type": "DIED_AT",
+        "properties": {}
+      }
+    ],
+    "AWARDED": [
+      {
+        "from": "Bùi Danh Lưu",
+        "to": "Huy hiệu 50 năm tuổi Đảng",
+        "type": "AWARDED",
+        "properties": {}
+      }
+    ],
+    "SERVED_IN": [
+      {
+        "from": "Bùi Thiện Ngộ",
+        "to": "Công an nhân dân Việt Nam",
+        "type": "SERVED_IN",
+        "properties": {}
+      },
+      {
+        "from": "Cao Đăng Chiếm",
+        "to": "Công an nhân dân Việt Nam",
+        "type": "SERVED_IN",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Cầm (tướng)",
+        "to": "22px Quân đội nhân dân Việt Nam",
+        "type": "SERVED_IN",
+        "properties": {}
+      },
+      {
+        "from": "Hoàng Minh Thắng",
+        "to": "22px Quân đội nhân dân Việt Nam",
+        "type": "SERVED_IN",
+        "properties": {}
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "subject": "Bùi Thiện Ngộ",
+      "predicate": "SERVED_AS",
+      "object": "Bộ trưởng Bộ Nội vụ (Nay là Bộ Công an)",
+      "properties": {
+        "term_start": "9 tháng 8 năm 1991",
+        "term_end": "6 tháng 11 năm 1996"
+      }
+    },
+    {
+      "subject": "Bùi Thiện Ngộ",
+      "predicate": "SERVED_AS",
+      "object": "Ủy viên Bộ Chính trị",
+      "properties": {
+        "term_start": "1991",
+        "term_end": "1996"
+      }
+    },
+    {
+      "subject": "Cù Thị Hậu",
+      "predicate": "SERVED_AS",
+      "object": "40pxChủ tịch Hội Người cao tuổi Việt Nam",
+      "properties": {
+        "term_start": "11 tháng 11 năm 2011",
+        "term_end": "9 tháng 11 năm 2016"
+      }
+    },
+    {
+      "subject": "Cù Thị Hậu",
+      "predicate": "SERVED_AS",
+      "object": "Phó Chủ tịch Hội Người cao tuổi Việt Nam",
+      "properties": {
+        "term_start": "30 tháng 12 năm 2006",
+        "term_end": "11 tháng 11 năm 2011"
+      }
+    },
+    {
+      "subject": "Cù Thị Hậu",
+      "predicate": "SERVED_AS",
+      "object": "Chủ tịch Tổng Công đoàn Việt Nam",
+      "properties": {
+        "term_start": "3 tháng 11 năm 1998",
+        "term_end": "30 tháng 12 năm 2006"
+      }
+    },
+    {
+      "subject": "Cù Thị Hậu",
+      "predicate": "SERVED_AS",
+      "object": "Phó Chủ tịch thường trực Tổng Công đoàn Việt Nam",
+      "properties": {
+        "term_start": "17 tháng 10 năm 1988",
+        "term_end": "6 tháng 11 năm 1998"
+      }
+    },
+    {
+      "subject": "Cù Thị Hậu",
+      "predicate": "SERVED_AS",
+      "object": "Ủy viên Trung ương Đảng khóa VI, VII, VIII, IX",
+      "properties": {
+        "term_start": "18 tháng 12 năm 1986",
+        "term_end": "25 tháng 4 năm 2006"
+      }
+    },
+    {
+      "subject": "Hoàng Bích Sơn",
+      "predicate": "SERVED_AS",
+      "object": "Trưởng ban Ban Đối ngoại Trung ương Đảng Cộng sản Việt Nam",
+      "properties": {
+        "term_start": "",
+        "term_end": ""
+      }
+    },
+    {
+      "subject": "Hoàng Bích Sơn",
+      "predicate": "SERVED_AS",
+      "object": "Ủy viên Ủy ban Thường vụ Quốc hội, Chủ nhiệm Ủy ban Đối ngoại Quốc hội",
+      "properties": {
+        "term_start": "1992",
+        "term_end": "1997"
+      }
+    },
+    {
+      "subject": "Cao Đăng Chiếm",
+      "predicate": "SERVED_AS",
+      "object": "Thứ trưởng Thường trực Bộ Công an",
+      "properties": {
+        "term_start": "",
+        "term_end": ""
+      }
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "SERVED_AS",
+      "object": "Tổng Thanh tra Quân đội",
+      "properties": {
+        "term_start": "1987",
+        "term_end": "1992"
+      }
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "SERVED_AS",
+      "object": "Tư lệnh Quân khu 4",
+      "properties": {
+        "term_start": "1981",
+        "term_end": "1986"
+      }
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "SERVED_AS",
+      "object": "Phó Chủ tịch Ủy ban Quân quản Sài Gòn - Gia Định",
+      "properties": {
+        "term_start": "3 tháng 5 năm 1975",
+        "term_end": "20 tháng 1 năm 1976"
+      }
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "SERVED_AS",
+      "object": "Tư lệnh Quân đoàn 4",
+      "properties": {
+        "term_start": "1974",
+        "term_end": "1981"
+      }
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "SERVED_AS",
+      "object": "Phó Tư lệnh, Tham mưu trưởng Quân Giải phóng miền Nam Việt Nam",
+      "properties": {
+        "term_start": "1970",
+        "term_end": "1974"
+      }
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "SERVED_AS",
+      "object": "Sư đoàn trưởng Sư đoàn 9",
+      "properties": {
+        "term_start": "1964",
+        "term_end": "1970"
+      }
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "SERVED_AS",
+      "object": "Sư đoàn trưởng Sư đoàn 312",
+      "properties": {
+        "term_start": "1955",
+        "term_end": "1964"
+      }
+    },
+    {
+      "subject": "Hồng Hà (nhà báo)",
+      "predicate": "SERVED_AS",
+      "object": "Trưởng ban Đối ngoại Trung ương",
+      "properties": {
+        "term_start": "tháng 6 năm 1991",
+        "term_end": "tháng 6 năm 1996"
+      }
+    },
+    {
+      "subject": "Hồng Hà (nhà báo)",
+      "predicate": "SERVED_AS",
+      "object": "Chánh Văn phòng Trung ương Đảng",
+      "properties": {
+        "term_start": "tháng 3 năm 1987",
+        "term_end": "1991"
+      }
+    },
+    {
+      "subject": "Hồng Hà (nhà báo)",
+      "predicate": "SERVED_AS",
+      "object": "Tổng biên tập Báo Nhân dân",
+      "properties": {
+        "term_start": "1982",
+        "term_end": "1987"
+      }
+    },
+    {
+      "subject": "Bùi Danh Lưu",
+      "predicate": "SERVED_AS",
+      "object": "Bộ trưởng Bộ Giao thông Vận tải",
+      "properties": {
+        "term_start": "21 tháng 6 năm 1986",
+        "term_end": "6 tháng 11 năm 1996"
+      }
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "SERVED_AS",
+      "object": "Bộ trưởng Bộ Tài chính",
+      "properties": {
+        "term_start": "16 tháng 2 năm 1987",
+        "term_end": "1 tháng 2 năm 1992"
+      }
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "SERVED_AS",
+      "object": "Phó Chủ nhiệm thứ nhất Ủy ban Kế hoạch Nhà nước",
+      "properties": {
+        "term_start": "29 tháng 10 năm 1983",
+        "term_end": "16 tháng 2 năm 1987"
+      }
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "SERVED_AS",
+      "object": "Bí thư Tỉnh ủy Vĩnh Phú",
+      "properties": {
+        "term_start": "Tháng 10, 1977",
+        "term_end": "Tháng 10, 1983"
+      }
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "SERVED_AS",
+      "object": "Bí thư Tỉnh ủy Lào Cai",
+      "properties": {
+        "term_start": "Đầu 1949",
+        "term_end": "1954"
+      }
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "SERVED_AS",
+      "object": "Bí thư Tỉnh ủy Lào Cai",
+      "properties": {
+        "term_start": "Cuối 1947",
+        "term_end": "Tháng 4, 1948"
+      }
+    },
+    {
+      "subject": "Hoàng Trường Minh",
+      "predicate": "SERVED_AS",
+      "object": "Phó Chủ tịch Quốc hội Việt Nam",
+      "properties": {
+        "term_start": "19 tháng 4 năm 1987",
+        "term_end": "12 tháng 10 năm 1989"
+      }
+    },
+    {
+      "subject": "Hoàng Trường Minh",
+      "predicate": "SERVED_AS",
+      "object": "Trưởng ban Dân tộc Trung ương",
+      "properties": {
+        "term_start": "1 tháng 2 năm 1982",
+        "term_end": "1 tháng 8 năm 1989"
+      }
+    },
+    {
+      "subject": "Hoàng Trường Minh",
+      "predicate": "SERVED_AS",
+      "object": "Chủ tịch Hội đồng Dân tộc của Quốc hội",
+      "properties": {
+        "term_start": "26 tháng 4 năm 1981",
+        "term_end": "19 tháng 4 năm 1987"
+      }
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "SERVED_AS",
+      "object": "Chủ tịch Hội đồng Trung ương lâm thời các doanh nghiệp ngoài quốc doanh",
+      "properties": {
+        "term_start": "1991",
+        "term_end": "1998"
+      }
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "SERVED_AS",
+      "object": "Đại biểu Quốc hội Việt Namkhóa VII, VIII, IX",
+      "properties": {
+        "term_start": "1981",
+        "term_end": "1997"
+      }
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "SERVED_AS",
+      "object": "Bộ trưởng Bộ Thương nghiệp",
+      "properties": {
+        "term_start": "1990",
+        "term_end": "1991"
+      }
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "SERVED_AS",
+      "object": "Bộ trưởng Bộ Nội thương",
+      "properties": {
+        "term_start": "1986",
+        "term_end": "1990"
+      }
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "SERVED_AS",
+      "object": "Bí thư Tỉnh ủy Quảng Nam – Đà Nẵng",
+      "properties": {
+        "term_start": "1982",
+        "term_end": "1986"
+      }
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "SERVED_AS",
+      "object": "Phó Bí thư Tỉnh ủy Quảng Nam – Đà Nẵng",
+      "properties": {
+        "term_start": "1975",
+        "term_end": "1982"
+      }
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "SERVED_AS",
+      "object": "Bí thư Tỉnh ủy Quảng Nam",
+      "properties": {
+        "term_start": "1970",
+        "term_end": "1975"
+      }
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "SERVED_AS",
+      "object": "Phó Bí thư Tỉnh ủy Quảng Nam",
+      "properties": {
+        "term_start": "1967",
+        "term_end": "1969"
+      }
+    },
+    {
+      "subject": "Bùi Thiện Ngộ",
+      "predicate": "SUCCEEDED",
+      "object": "Mai Chí Thọ",
+      "properties": {}
+    },
+    {
+      "subject": "Bùi Thiện Ngộ",
+      "predicate": "SUCCEEDED",
+      "object": "Mai Chí Thọ",
+      "properties": {}
+    },
+    {
+      "subject": "Cù Thị Hậu",
+      "predicate": "SUCCEEDED",
+      "object": "Nguyễn Tấn Trịnh",
+      "properties": {}
+    },
+    {
+      "subject": "Cù Thị Hậu",
+      "predicate": "SUCCEEDED",
+      "object": "Nguyễn Văn Tư",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Bích Sơn",
+      "predicate": "SUCCEEDED",
+      "object": "Vũ Quang (định hướng)",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Bích Sơn",
+      "predicate": "SUCCEEDED",
+      "object": "Nguyễn Thị Bình",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "SUCCEEDED",
+      "object": "Lê Quang Hòa",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "SUCCEEDED",
+      "object": "Hoàng Minh Thi",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "SUCCEEDED",
+      "object": "Nguyễn Minh Châu (thượng tướng)",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "SUCCEEDED",
+      "object": "Lê Trọng Tấn",
+      "properties": {}
+    },
+    {
+      "subject": "Hồng Hà (nhà báo)",
+      "predicate": "SUCCEEDED",
+      "object": "Hoàng Bích Sơn",
+      "properties": {}
+    },
+    {
+      "subject": "Hồng Hà (nhà báo)",
+      "predicate": "SUCCEEDED",
+      "object": "Nguyễn Khánh (Phó Thủ tướng)",
+      "properties": {}
+    },
+    {
+      "subject": "Hồng Hà (nhà báo)",
+      "predicate": "SUCCEEDED",
+      "object": "Hoàng Tùng",
+      "properties": {}
+    },
+    {
+      "subject": "Bùi Danh Lưu",
+      "predicate": "SUCCEEDED",
+      "object": "Đồng Sĩ Nguyên",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "SUCCEEDED",
+      "object": "Vũ Tuân",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "SUCCEEDED",
+      "object": "Kim Ngọc",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "SUCCEEDED",
+      "object": "Vũ Nhất",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "SUCCEEDED",
+      "object": "Lê Thanh (chính khách)",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Trường Minh",
+      "predicate": "SUCCEEDED",
+      "object": "Xuân Thủy",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Trường Minh",
+      "predicate": "SUCCEEDED",
+      "object": "Hoàng Văn Kiểu",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Trường Minh",
+      "predicate": "SUCCEEDED",
+      "object": "Chu Văn Tấn",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "SUCCEEDED",
+      "object": "Hoàng Đức Nghi",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "SUCCEEDED",
+      "object": "Lê Đức Thịnh",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "SUCCEEDED",
+      "object": "Hồ Nghinh",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "SUCCEEDED",
+      "object": "Trần Thận",
+      "properties": {}
+    },
+    {
+      "subject": "Bùi Thiện Ngộ",
+      "predicate": "PRECEDED",
+      "object": "Lê Minh Hương",
+      "properties": {}
+    },
+    {
+      "subject": "Bùi Thiện Ngộ",
+      "predicate": "PRECEDED",
+      "object": "Lê Minh Hương",
+      "properties": {}
+    },
+    {
+      "subject": "Cù Thị Hậu",
+      "predicate": "PRECEDED",
+      "object": "Phạm Thị Hải Chuyền",
+      "properties": {}
+    },
+    {
+      "subject": "Cù Thị Hậu",
+      "predicate": "PRECEDED",
+      "object": "Đặng Ngọc Tùng",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Bích Sơn",
+      "predicate": "PRECEDED",
+      "object": "Hồng Hà (nhà báo)",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Bích Sơn",
+      "predicate": "PRECEDED",
+      "object": "Đỗ Văn Tài",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "PRECEDED",
+      "object": "Nguyễn Kiệm",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "PRECEDED",
+      "object": "Nguyễn Quốc Thước",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "PRECEDED",
+      "object": "Nguyễn Văn Quảng",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "PRECEDED",
+      "object": "Nguyễn Minh Châu (thượng tướng)",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "PRECEDED",
+      "object": "Nguyễn Thăng Bình",
+      "properties": {}
+    },
+    {
+      "subject": "Hồng Hà (nhà báo)",
+      "predicate": "PRECEDED",
+      "object": "Nguyễn Văn Son",
+      "properties": {}
+    },
+    {
+      "subject": "Hồng Hà (nhà báo)",
+      "predicate": "PRECEDED",
+      "object": "Phan Diễn",
+      "properties": {}
+    },
+    {
+      "subject": "Hồng Hà (nhà báo)",
+      "predicate": "PRECEDED",
+      "object": "Hà Đăng",
+      "properties": {}
+    },
+    {
+      "subject": "Bùi Danh Lưu",
+      "predicate": "PRECEDED",
+      "object": "Lê Ngọc Hoàn",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "PRECEDED",
+      "object": "Hồ Tế",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "PRECEDED",
+      "object": "Đậu Ngọc Xuân",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "PRECEDED",
+      "object": "Nguyễn Văn Tôn",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "PRECEDED",
+      "object": "Hoàng Trường Minh",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "PRECEDED",
+      "object": "Vũ Nhất",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Trường Minh",
+      "predicate": "PRECEDED",
+      "object": "Phùng Văn Tửu",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Trường Minh",
+      "predicate": "PRECEDED",
+      "object": "Nông Đức Mạnh",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "PRECEDED",
+      "object": "Hồ Nghinh",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "PRECEDED",
+      "object": "Đỗ Thế Chấp",
+      "properties": {}
+    },
+    {
+      "subject": "Bùi Thiện Ngộ",
+      "predicate": "BORN_AT",
+      "object": "Sài Gòn, Nam kỳ, Liên bang Đông Dương",
+      "properties": {}
+    },
+    {
+      "subject": "Cù Thị Hậu",
+      "predicate": "BORN_AT",
+      "object": "Phú Thọ, Việt Nam Dân chủ Cộng hòa",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Bích Sơn",
+      "predicate": "BORN_AT",
+      "object": "Quảng Nam",
+      "properties": {}
+    },
+    {
+      "subject": "Cao Đăng Chiếm",
+      "predicate": "BORN_AT",
+      "object": "Mỹ Tho, Liên bang Đông Dương",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "BORN_AT",
+      "object": "Sơn Công, Ứng Hòa, tỉnh Hà Đông, Liên bang Đông Dương",
+      "properties": {}
+    },
+    {
+      "subject": "Hồng Hà (nhà báo)",
+      "predicate": "BORN_AT",
+      "object": "thành phố Nam Định, tỉnh Nam Định, Liên bang Đông Dương",
+      "properties": {}
+    },
+    {
+      "subject": "Bùi Danh Lưu",
+      "predicate": "BORN_AT",
+      "object": "Đào Xá, Thanh Thủy, Phú Thọ, Bắc Kỳ, Liên bang Đông Dương",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Quy",
+      "predicate": "BORN_AT",
+      "object": "tỉnh Hưng Yên, Liên bang Đông Dương",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Trường Minh",
+      "predicate": "BORN_AT",
+      "object": "Bắc Kạn, Bắc Kỳ, Liên bang Đông Dương",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "BORN_AT",
+      "object": "Thăng Bình, Quảng Nam, Liên bang Đông Dương",
+      "properties": {}
+    },
+    {
+      "subject": "Bùi Thiện Ngộ",
+      "predicate": "DIED_AT",
+      "object": "Thành phố Hồ Chí Minh, Việt Nam",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Bích Sơn",
+      "predicate": "DIED_AT",
+      "object": "Hà Nội",
+      "properties": {}
+    },
+    {
+      "subject": "Cao Đăng Chiếm",
+      "predicate": "DIED_AT",
+      "object": "Thành phố Hồ Chí Minh, Việt Nam",
+      "properties": {}
+    },
+    {
+      "subject": "Hồng Hà (nhà báo)",
+      "predicate": "DIED_AT",
+      "object": "Hà Nội, Việt Nam",
+      "properties": {}
+    },
+    {
+      "subject": "Bùi Danh Lưu",
+      "predicate": "DIED_AT",
+      "object": "Bệnh viện Hữu Nghị, Hà Nội, Việt Nam",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Trường Minh",
+      "predicate": "DIED_AT",
+      "object": "Hà Nội, Việt Nam",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "DIED_AT",
+      "object": "Đà Nẵng, Việt Nam",
+      "properties": {}
+    },
+    {
+      "subject": "Bùi Danh Lưu",
+      "predicate": "AWARDED",
+      "object": "Huy hiệu 50 năm tuổi Đảng",
+      "properties": {}
+    },
+    {
+      "subject": "Bùi Thiện Ngộ",
+      "predicate": "SERVED_IN",
+      "object": "Công an nhân dân Việt Nam",
+      "properties": {}
+    },
+    {
+      "subject": "Cao Đăng Chiếm",
+      "predicate": "SERVED_IN",
+      "object": "Công an nhân dân Việt Nam",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Cầm (tướng)",
+      "predicate": "SERVED_IN",
+      "object": "22px Quân đội nhân dân Việt Nam",
+      "properties": {}
+    },
+    {
+      "subject": "Hoàng Minh Thắng",
+      "predicate": "SERVED_IN",
+      "object": "22px Quân đội nhân dân Việt Nam",
+      "properties": {}
+    }
+  ]
+}
