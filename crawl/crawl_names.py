@@ -7,10 +7,38 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import unquote
 
-from utils.queue_based_async_logger import get_async_logger
 from utils.config import settings
+from utils.queue_based_async_logger import get_async_logger
 
 log = get_async_logger("crawl_names", log_file="logs/crawl/crawl_names.log")
+
+exclusion_keywords = [
+    "Việt Nam", "Đảng Cộng sản Việt Nam", 
+    "Ban Chấp hành Trung ương", "Danh sách", 
+    "Chính phủ", "Ủy ban", "Hội đồng", 
+    "Thành viên",
+    "Trung ương",
+    "TP", "TP.", "Thành phố", "Ban Bí thư", "Bộ Chính trị"
+]
+
+def connect_url(url: str) -> requests.Response:
+    """
+    Connect to a URL and return the response object.
+    """
+    try:
+        headers = {
+            "User-Agent": settings.USER_AGENT
+        }
+        response = requests.get(url, headers=headers)
+        response.encoding = "utf-8"
+        response.raise_for_status()
+        return response
+    except requests.RequestException as e:
+        log.error(f"Error fetching {url}: {e}")
+        return None
+    except Exception as e:
+        log.error(f"Unexpected error: {e}")
+        return None
 
 def extract_names(term: str) -> list[str]:
     """
@@ -19,18 +47,8 @@ def extract_names(term: str) -> list[str]:
     url = settings.URL_CRAWL_NAME + term
     log.info(f"Crawling names from {url}")
 
-    try:
-        headers = {
-            "User-Agent": settings.USER_AGENT
-        }
-        response = requests.get(url, headers=headers)
-        response.encoding = "utf-8"
-        response.raise_for_status()
-    except requests.RequestException as e:
-        log.error(f"Error fetching {url}: {e}")
-        return []
-    except Exception as e:
-        log.error(f"Unexpected error: {e}")
+    response = connect_url(url)
+    if response is None:
         return []
 
     try:
@@ -41,46 +59,148 @@ def extract_names(term: str) -> list[str]:
 
     try:
         tables = soup.find_all("table", class_="wikitable")
-        log.info(f"Find {len(tables)} table wikitable in {url}")
+        ordered_lists = soup.find_all("ol")
+        
+        log.info(f"Find {len(tables)} table wikitable and {len(ordered_lists)} ordered lists in {url}")
 
-        if not tables:
-            log.warning(f"Not found {url}, return empty list")
+        if not tables and not ordered_lists:
+            log.warning(f"Not found tables or lists in {url}, return empty list")
             return []
     
-        table = max(tables, key=lambda t: len(t.find_all("tr")))
+        top_level_tables = []
+        for table in tables:
+            parent_table = table.find_parent("table", class_="wikitable")
+            if parent_table is None:
+                top_level_tables.append(table)
+        
+        log.info(f"Found {len(top_level_tables)} top-level tables and {len(ordered_lists)} ordered lists")
+
     except Exception as e:
-        log.exception(f"Error finding table: {e}")
+        log.exception(f"Error finding tables/lists: {e}")
         return []
     
     names = []
 
     try:
-        for row in table.find_all("tr"):
-            cols = row.find_all("td")
-            if len(cols) > 1:
-                name_cell = cols[1]
-                link = name_cell.find("a")
-                if name_cell.find("br") or name_cell.find("p"):
-                    if link:
-                        try:
-                            name_href = unquote(link.get("href").replace("/wiki/", "").replace("_", " "))
-                            names.append(name_href)
-                        except Exception as e:
-                            log.warning(f"Error extracting name from link {link}: {e}")
-                elif not name_cell.find("br") and not name_cell.find("p"):
-                    if link:
-                        try:
-                            name_href = unquote(link.get("href").replace("/wiki/", "").replace("_", " "))
-                            if name_href.startswith("/w/index.php?title="):
-                                continue
-                            names.append(name_href)
-                        except Exception as e:
-                            log.warning(f"Error extracting name from link {link}: {e}")
+        for table in top_level_tables:
+            rows = table.find("tbody").find_all("tr", recursive=False) if table.find("tbody") else table.find_all("tr", recursive=False)
+            
+            log.info(f"Processing table with {len(rows)} direct rows")
+            
+            for row in rows:
+                cols = row.find_all("td", recursive=False)
+                
+                if len(cols) > 1:
+                    name_cell = cols[1]
+                    
+                    nested_table = name_cell.find("table", class_="wikitable")
+                    
+                    if nested_table:
+                        log.info(f"Found nested table in row, processing nested table")
+                        nested_rows = nested_table.find("tbody").find_all("tr", recursive=False) if nested_table.find("tbody") else nested_table.find_all("tr", recursive=False)
+                        
+                        for nested_row in nested_rows:
+                            nested_cols = nested_row.find_all("td", recursive=False)
+                            if len(nested_cols) > 1:
+                                nested_name_cell = nested_cols[1]
+                                nested_link = nested_name_cell.find("a")
+                                
+                                if nested_link:
+                                    try:
+                                        name_href = unquote(nested_link.get("href").replace("/wiki/", "").replace("_", " "))
+
+                                        if name_href.startswith("/w/index.php?title="):
+                                            match = re.search(r"/w/index\.php\?title=([^&]+)", name_href)
+                                            if match:
+                                                name_href = unquote(match.group(1)).replace("_", " ")
+
+                                        if name_href.startswith("#cite") or name_href.isdigit():
+                                            continue
+
+                                        if any(keyword in name_href for keyword in exclusion_keywords):
+                                            continue
+
+                                        names.append(name_href)
+
+                                    except Exception as e:
+                                        log.warning(f"Error extracting name from nested link {nested_link}: {e}")
+                    else:
+                        link = name_cell.find("a")
+
+                        if name_cell.find("br") or name_cell.find("p"):
+                            if link:
+                                try:
+                                    name_href = unquote(link.get("href").replace("/wiki/", "").replace("_", " "))
+
+                                    if name_href.startswith("/w/index.php?title="):
+                                        match = re.search(r"/w/index\.php\?title=([^&]+)", name_href)
+                                        if match:
+                                            name_href = unquote(match.group(1)).replace("_", " ")
+
+                                    if name_href.startswith("#cite") or name_href.isdigit():
+                                        continue
+
+                                    if any(keyword in name_href for keyword in exclusion_keywords):
+                                        continue
+
+                                    names.append(name_href)
+
+                                except Exception as e:
+                                    log.warning(f"Error extracting name from link {link}: {e}")
+
+                        elif not name_cell.find("br") and not name_cell.find("p") and link and len(name_cell.find_all("a")) == 1:
+                            if link:
+                                try:
+                                    name_href = unquote(link.get("href").replace("/wiki/", "").replace("_", " "))
+
+                                    if name_href.startswith("/w/index.php?title="):
+                                        match = re.search(r"/w/index\.php\?title=([^&]+)", name_href)
+                                        if match:
+                                            name_href = unquote(match.group(1)).replace("_", " ")
+
+                                    if name_href.startswith("#cite") or name_href.isdigit():
+                                        continue
+
+                                    if any(keyword in name_href for keyword in exclusion_keywords):
+                                        continue
+
+                                    names.append(name_href)
+
+                                except Exception as e:
+                                    log.warning(f"Error extracting name from link {link}: {e}")
+        
+        for ol in ordered_lists:
+            list_items = ol.find_all("li", recursive=False)
+            log.info(f"Processing ordered list with {len(list_items)} items")
+            
+            for li in list_items:
+                link = li.find("a")
+                if link:
+                    try:
+                        name_href = unquote(link.get("href").replace("/wiki/", "").replace("_", " "))
+
+                        if name_href.startswith("/w/index.php?title="):
+                            match = re.search(r"/w/index\.php\?title=([^&]+)", name_href)
+                            if match:
+                                name_href = unquote(match.group(1)).replace("_", " ")
+
+                        if name_href.startswith("#cite") or name_href.isdigit():
+                            continue
+
+                        if any(keyword in name_href for keyword in exclusion_keywords):
+                            continue
+
+                        names.append(name_href)
+
+                    except Exception as e:
+                        log.warning(f"Error extracting name from list link {link}: {e}")
+        
+        log.info(f"Successfully extracted {len(names)} politician names from {len(top_level_tables)} table(s) and {len(ordered_lists)} list(s)")
     except Exception as e:
         log.exception(f"Error processing table rows: {e}")
         return []
 
-    log.info(f"Extracted {len(names)} names from table")
+    log.info(f"Total politician names found: {len(names)}")
     return names
 
 def extract_multiple_terms(terms: list[str]) -> list[str]:
