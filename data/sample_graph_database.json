@@ -1,0 +1,109 @@
+{
+  "nodes": {
+    "Politician": [
+      {
+        "politicianId": "Po0001",
+        "type": "Politician",
+        "name": "Nguyễn Văn A",
+        "dob": "1960-10-14",
+        "dod": "2024-02-14"
+      }
+    ],
+    "Position": [
+      {
+        "positionId": "Ps0001",
+        "type": "Position",
+        "name": "Bộ trưởng Bộ Nội vụ"
+      }
+    ],
+    "Location": [
+      {
+        "locationId": "L0001",
+        "type": "Location",
+        "name": "Thường Tín, Hà Nội"
+      }
+    ],
+    "Award": [
+      {
+        "awardId": "AD0001",
+        "type": "Award",
+        "name": " Huân chương Quân công hạng Nhất"
+      }
+    ],
+    "MilitaryCareer": [
+      {
+        "militaryCareerId": "MC0001",
+        "type": "MilitaryCareer",
+        "service_years": "1950-nay",
+        "rank": "Thượng tướng",
+        "served_for": "Quân đội nhân dân Việt Nam",
+        "campaigns": "Kháng chiến chống Mỹ"
+      }
+    ],
+    "AcademicTitle": [
+      {
+        "academicTitleId": "AT0001",
+        "type": "Academic",
+        "name": "Giáo sư"
+      }
+    ],
+    "AlmaMater": [
+      {
+        "almaMaterId": "AM0001",
+        "type": "AlmaMater",
+        "name": "Học viện An ninh Nhân dân"
+      }
+    ]
+  },
+  "edges": {
+    "BORN_AT": [
+      { "from": "Po0001", "to": "L0001", "type": "BORN_AT" }
+    ],
+    "DIED_AT": [
+      { "from": "Po0001", "to": "L0001", "type": "DIED_AT" }
+    ],
+    "AWARDED": [
+      { "from": "Po0001", "to": "AD0001", "type": "AWARDED" }
+    ],
+    "SERVED_AS": [
+      {
+        "from": "Po0001",
+        "to": "Ps0001",
+        "type": "SERVED_AS",
+        "start_year": "2016-04-12",
+        "end_year": "2011-07-07"
+      }
+    ],
+    "SERVED_IN": [
+      {
+        "from": "Po0001",
+        "to": "MC0001",
+        "type": "SERVED_IN",
+        "start_year": 1950,
+        "end_year": "nay"
+      }
+    ],
+    "ALUMNUS_OF": [
+      { "from": "Po0001", "to": "AM0001", "type": "ALUMNUS_OF" }
+    ],
+    "HAS_ACADEMIC_TITLE": [
+      { "from": "Po0001", "to": "AT0001", "type": "HAS_ACADEMIC_TITLE" }
+    ],
+    "SUCCEEDED": [
+      {
+        "from": "Po0001",
+        "to": "Po0002",
+        "type": "SUCCEEDED",
+        "positionId": "Ps0001" 
+      }
+    ],
+    "PRECEDED": [
+      {
+        "from": "Po0001",
+        "to": "Po0003",
+        "type": "PRECEDED",
+        "positionId": "Ps0001" 
+      }
+    ]
+  }
+}
