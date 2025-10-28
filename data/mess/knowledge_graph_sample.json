@@ -1,0 +1,114 @@
+
+
+{
+  "nodes": {
+    "Politician": [
+      {
+        "id": "pol0l001",
+        "type": "Politician",
+        "name": "Nguyễn Văn A",
+        "birth_date": "1960-10-14",
+        "death_date": "2024-02-14",
+        "ethnicity": "Kinh",
+        "religion": "không"
+      }
+    ],
+    "Position": [
+      {
+        "id": "pos0001",
+        "type": "Position",
+        "name": "Bộ trưởng Bộ Nội vụ"
+      }
+    ],
+    "Location": [
+      {
+        "id": "loc0001",
+        "type": "Location",
+        "name": "Thường Tín, Hà Nội"
+      }
+    ],
+    "Award": [
+      {
+        "id": "awa0001",
+        "type": "Award",
+        "name": " Huân chương Quân công hạng Nhất"
+      }
+    ],
+    "MilitaryCareer": [
+      {
+        "id": "mil0001",
+        "type": "MilitaryCareer",
+        "service_years": "1950-nay",
+        "rank": "Thượng tướng",
+        "served_for": "Quân đội nhân dân Việt Nam",
+        "campaigns": "Kháng chiến chống Mỹ"
+      }
+    ],
+    "AcademicTitle": [
+      {
+        "id": "aca0001",
+        "type": "Academic",
+        "name": "Giáo sư"
+      }
+    ],
+    "AlmaMater": [
+      {
+        "id": "alm0001",
+        "type": "AlmaMater",
+        "name": "Học viện An ninh Nhân dân"
+      }
+    ]
+  },
+  "edges": {
+    "BORN_AT": [
+      { "from": "pol0001", "to": "loc0001", "type": "BORN_AT" }
+    ],
+    "DIED_AT": [
+      { "from": "pol0001", "to": "loc0001", "type": "DIED_AT" }
+    ],
+    "AWARDED": [
+      { "from": "pol0001", "to": "awa0001", "type": "AWARDED" }
+    ],
+    "SERVED_AS": [
+      {
+        "from": "pol0001",
+        "to": "pos0001",
+        "type": "SERVED_AS",
+        "start_year": "2016-04-12",
+        "end_year": "2011-07-07"
+      }
+    ],
+    "SERVED_IN": [
+      {
+        "from": "pol0001",
+        "to": "mil0001",
+        "type": "SERVED_IN",
+        "start_year": 1950,
+        "end_year": "nay"
+      }
+    ],
+    "ALUMNUS_OF": [
+      { "from": "pol0001", "to": "awa0001", "type": "ALUMNUS_OF" }
+    ],
+    "HAS_ACADEMIC_TITLE": [
+      { "from": "pol0001", "to": "aca0001", "type": "HAS_ACADEMIC_TITLE" }
+    ],
+    "SUCCEEDED": [
+      {
+        "from": "pol0001",
+        "to": "pol0002",
+        "type": "SUCCEEDED",
+        "positionId": "pos0001" 
+      }
+    ],
+    "PRECEDED": [
+      {
+        "from": "pol0001",
+        "to": "pol0003",
+        "type": "PRECEDED",
+        "positionId": "pos0001" 
+      }
+    ]
+  }
+}
+
