@@ -97,7 +97,7 @@ class PoliticianHandler(xml.sax.ContentHandler):
 
             for priority_name in priority_templates:
                 for tpl in parsed.templates:
-                    tpl_name = tpl.name.strip().lower()
+                    tpl_name = tpl.name.strip()
                     if tpl_name == priority_name:
                         infobox_template = tpl
                         template_name = tpl.name.strip()
@@ -155,7 +155,15 @@ class PoliticianHandler(xml.sax.ContentHandler):
         normalized = {}
         for key, value in infobox.items():
             normalized_key = self.normalize_key(key)
-            normalized[normalized_key] = value
+
+            value = str(value).strip()
+
+            if normalized_key in normalized:
+                existing_value = normalized[normalized_key]
+                if value not in existing_value:
+                    normalized[normalized_key] = f"{existing_value}; {value}"
+            else:
+                normalized[normalized_key] = value
         return normalized
 
 def build_politician(xml_file: str, output_db_file: str):

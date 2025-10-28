@@ -71,7 +71,9 @@ COMPREHENSIVE_MAPPING = {
     "death_place": "death_place",
     "nơi an táng": "resting_place",
     "resting_place": "resting_place",
-    
+    "năm_sinh": "birth_year",
+    "birth_year": "birth_date",
+
     # Personal
     "quốc tịch": "nationality",
     "nationality": "nationality",
@@ -82,10 +84,12 @@ COMPREHENSIVE_MAPPING = {
     "religion": "religion",
     "nghề nghiệp": "occupation",
     "occupation": "occupation",
+    "nghề": "occupation",
     
     # Political
     "đảng": "party",
     "party": "party",
+    "đảng_khác": "party",
     "ngày vào đảng": "party_entry_date",
     "party_entry_date": "party_entry_date",
     
@@ -103,17 +107,19 @@ COMPREHENSIVE_MAPPING = {
     "relatives": "relatives",
     
     # Education
-    "học vấn": "education_level",
+    "học vấn": "education",
     "giáo dục": "education",
     "giáo_dục": "education",
     "education": "education",
     "học trường": "alma_mater",
     "alma_mater": "alma_mater",
+    "trình_độ": "education",
     
     # Awards
     "giải thưởng": "awards",
     "khen thưởng": "awards",
     "awards": "awards",
+    "danh_hiệu": "awards",
     
     # Military
     "cấp bậc": "military_rank",
