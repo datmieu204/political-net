@@ -64,8 +64,6 @@ NON_VIETNAM_KEYWORDS = [
 FIELDS_TO_CHECK = [
     'birth_place', 'nơi_sinh',
     'nationality', 'quốc_tịch',
-    'death_place', 'nơi_chết',
-    'residence', 'cư_trú'
 ]
 
 INVALID_KEYWORDS = [
@@ -86,6 +84,8 @@ INVALID_KEYWORDS = [
     'settlement', 'địa điểm',
     'building', 'tòa nhà',
     'event', 'sự kiện',
+    'Thông tin nhân vật hoàng gia',
+    'hoàng gia', 'royalty',
 ]
 
 VALID_KEYWORDS = [
@@ -93,10 +93,10 @@ VALID_KEYWORDS = [
     'infobox officeholder',
     'military person',
     'infobox military person',
-    'royalty',
-    'infobox royalty',
     'person',
     'infobox person',
+    'infobox viên chức',
+    'infobox nhân vật',
     'nhân vật',
     'thông tin nhân vật',
     'Thông tin nhân vật',
@@ -104,7 +104,6 @@ VALID_KEYWORDS = [
     'Nhà Chính trị'
     'quân nhân',
     'Quân nhân',
-    'hoàng gia',
     'president',
     'prime minister',
     'viên chức',
@@ -114,4 +113,8 @@ VALID_KEYWORDS = [
     'Thông tin chính khách',
     'chính khách',
     'Chính khách',
+    'chức vụ',
+    'Chức vụ',
+    'Thông tin chức vụ',
+    'thông tin chức vụ'
 ]
