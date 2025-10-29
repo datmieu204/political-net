@@ -20,5 +20,5 @@ logs/
 data/raw/
 data/database/
 
-# Processed data files
+# Test
 crawl/test*
