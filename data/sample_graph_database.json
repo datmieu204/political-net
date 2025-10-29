@@ -34,10 +34,15 @@
       {
         "militaryCareerId": "MC0001",
         "type": "MilitaryCareer",
-        "service_years": "1950-nay",
         "rank": "Thượng tướng",
-        "served_for": "Quân đội nhân dân Việt Nam",
-        "campaigns": "Kháng chiến chống Mỹ"
+        "served_for": "Quân đội nhân dân Việt Nam"
+      }
+    ],
+    "Campaigns": [
+      {
+        "campaignId": "C0001",
+        "type": "Campaigns",
+        "name": "Chiến tranh biên giới phía Bắc"
       }
     ],
     "AcademicTitle": [
@@ -104,6 +109,9 @@
         "type": "PRECEDED",
         "positionId": "Ps0001" 
       }
+    ],
+    "PARTICIPATED_IN": [
+      { "from": "Po0001", "to": "C0001", "type": "PARTICIPATED_IN" }
     ]
   }
 }
