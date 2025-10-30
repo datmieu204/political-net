@@ -23,6 +23,14 @@ class Settings():
     OUTPUT_CLEAN_INFOBOX_FILE = OUTPUT_DIR + "/processed/infobox/politicians_data_cleaned.json"
     INPUT_PROVINCE_NORMALIZED_FILE = OUTPUT_CLEAN_INFOBOX_FILE
     OUTPUT_PROVINCE_NORMALIZED_FILE = OUTPUT_DIR + "/processed/infobox/politicians_data_provinces_normalized.json"
+    INPUT_AWARDS_NORMALIZED_FILE = OUTPUT_PROVINCE_NORMALIZED_FILE
+    OUTPUT_AWARDS_NORMALIZED_FILE = OUTPUT_DIR + "/processed/infobox/politicians_data_awards_normalized.json"
+    INPUT_EDUCATION_NORMALIZED_FILE = OUTPUT_AWARDS_NORMALIZED_FILE
+    OUTPUT_EDUCATION_NORMALIZED_FILE = OUTPUT_DIR + "/processed/infobox/politicians_data_education_normalized.json"
+    INPUT_BATTLES_NORMALIZED_FILE = OUTPUT_EDUCATION_NORMALIZED_FILE
+    OUTPUT_BATTLES_NORMALIZED_FILE = OUTPUT_DIR + "/processed/infobox/politicians_data_battles_normalized.json"
+    INPUT_FINAL_POLITICIAN_FILE = OUTPUT_BATTLES_NORMALIZED_FILE
+    OUTPUT_FINAL_POLITICIAN_FILE = OUTPUT_DIR + "/processed/infobox/politicians_data_final.json"
 
     # Neo4j settings
     NEO4J_URI = "bolt://localhost:7687"
