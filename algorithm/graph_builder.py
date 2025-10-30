@@ -1,16 +1,12 @@
 # ./algorithm/graph_builder.py
-"""
-BƯỚC 2: GRAPH BUILDER - XÂY DỰNG MẠNG LƯỚI
-Đọc file "database" (JSON) đã xử lý và file hạt giống,
-sau đó chạy thuật toán BFS/DFS trong bộ nhớ (in-memory)
-để duyệt đồ thị và trích xuất mạng lưới.
-"""
 
 import json
 import re
+
 from typing import Dict, Set
 from collections import deque
 
+from utils.config import settings
 from utils.queue_based_async_logger import get_async_logger
 from utils.external import EXCLUDE_KEYWORDS, VIETNAM_KEYWORDS, NON_VIETNAM_KEYWORDS, FIELDS_TO_CHECK, INVALID_KEYWORDS, VALID_KEYWORDS
 
@@ -121,12 +117,9 @@ def build_network(initial_titles_file: str, db_file: str, output_file: str, max_
     2. Check birth year >= 1850.
     3. Check Vietnamese politician only.
     """
-    log.info(f"BƯỚC 2: XÂY DỰNG MẠNG LƯỚI (BFS)")
-    log.info(f"Input DB: {db_file}")
     log.info(f"Seed file: {initial_titles_file}")
     log.info(f"Max depth: {max_depth}")
-
-    log.info(f"Loading politician db from {db_file}...") # load db
+    log.info(f"Loading input politician db from {db_file}...") # load db
 
     try:
         with open(db_file, 'r', encoding='utf-8') as f:
@@ -146,11 +139,9 @@ def build_network(initial_titles_file: str, db_file: str, output_file: str, max_
     visited_titles = set()
     extracted_data = []
 
-    # 4. Thêm các nút hạt giống vào hàng đợi
     for title in initial_titles:
         if title in politician_db and title not in visited_titles:
             
-            # --- CHỈNH SỬA: KIỂM TRA TEMPLATE, NĂM SINH VÀ QUỐC TỊCH CỦA HẠT GIỐNG ---
             politician_data = politician_db[title]
             template = politician_data.get('template', '')
             infobox = politician_data.get('infobox', {})
@@ -160,8 +151,8 @@ def build_network(initial_titles_file: str, db_file: str, output_file: str, max_
                 log.warning(f"Seed title '{title}' is filtered out (Invalid template: '{template}').")
                 continue
 
-            if birth_year and birth_year < 1850:
-                log.warning(f"Seed title '{title}' is filtered out (Birth year: {birth_year} < 1850).")
+            if birth_year and birth_year < 1900:
+                log.warning(f"Seed title '{title}' is filtered out (Birth year: {birth_year} < 1900).")
                 continue
             
             if not is_vietnamese_politician(infobox):
@@ -174,7 +165,7 @@ def build_network(initial_titles_file: str, db_file: str, output_file: str, max_
         elif title not in politician_db:
             log.warning(f"Seed title '{title}' not found in database.")
 
-    log.info(f"Starting BFS crawl from {len(extracted_data)} valid seed nodes...")
+    log.info(f"BFS crawl from {len(extracted_data)} valid seed nodes...")
     
     while queue:
         current_title, current_depth = queue.popleft()
@@ -228,22 +219,12 @@ def build_network(initial_titles_file: str, db_file: str, output_file: str, max_
     log.info(f"Saving results to: {output_file}")
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(extracted_data, f, ensure_ascii=False, indent=4)
-    
-    log.info(f"Successfully saved!")
+    log.info(f"Saved")
 
 if __name__ == "__main__":
-    initial_titles_file = 'data/mess/seed_politicians.txt'
-    db_file = 'data/database/politicians_db.json'
-    output_file = 'data/processed/infobox/politicians_data.json'
-    max_depth = 4
-
-    with open(output_file, 'r', encoding='utf-8') as f:
-        output_data = json.load(f)
-    log.info(f"Output file length: {len(output_data)} politicians")
-
     build_network(
-        initial_titles_file=initial_titles_file,
-        db_file=db_file,
-        output_file=output_file,
-        max_depth=max_depth
+        initial_titles_file=settings.INPUT_SEED_TITLES_FILE,
+        db_file=settings.INPUT_POLITICIAN_DB_FILE,
+        output_file=settings.OUTPUT_POLITICIAN_INFOBOX,
+        max_depth=4
     )
