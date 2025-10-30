@@ -73,6 +73,8 @@ COMPREHENSIVE_MAPPING = {
     "resting_place": "resting_place",
     "năm_sinh": "birth_year",
     "birth_year": "birth_date",
+    "ngày_chết": "death_date",
+    "nơi_chết": "death_place",
 
     # Personal
     "quốc tịch": "nationality",
@@ -128,6 +130,7 @@ COMPREHENSIVE_MAPPING = {
     "thuộc": "branch",
     "branch": "branch",
     "năm phục vụ": "years_of_service",
+    "năm tại ngũ": "years_of_service",
     "years_of_service": "years_of_service",
     "đơn vị": "unit",
     "unit": "unit",
