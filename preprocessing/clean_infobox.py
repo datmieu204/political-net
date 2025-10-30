@@ -1,3 +1,5 @@
+# ./preprocessing/clean_infobox.py
+
 import json
 import re
 from typing import Dict, Any
@@ -15,20 +17,11 @@ class InfoboxCleaner:
         self.stats['promoted_leaked_fields'] = 0
         self.stats['dates_normalized'] = 0
         
-        # --- START MODIFICATION ---
-        # Thay thế `date_key_suffixes` bằng một pattern regex duy nhất
-        # Pattern này khớp với:
-        # 1. term_start, term_start1, term_start2, ...
-        # 2. term_end, term_end1, term_end2, ...
-        # 3. Bất cứ gì kết thúc bằng _date (vd: birth_date, death_date)
-        # 4. Bất cứ gì kết thúc bằng date (vd: birthdate, deathdate, date)
         self.date_key_pattern = re.compile(
             r'(term_start\d*|term_end\d*|.*_date|.*date)', 
             re.IGNORECASE
         )
-        # --- END MODIFICATION ---
 
-        # Các pattern regex đã được biên dịch trước để chuẩn hóa ngày
         self.date_patterns = [
             (re.compile(r'(?:ngày\s+)?(\d{1,2})\s+tháng\s+(\d{1,2})(?:,\s*|\s+năm\s+)(\d{4})', re.IGNORECASE), 
              lambda m: f"{int(m.group(3)):04d}-{int(m.group(2)):02d}-{int(m.group(1)):02d}"),
@@ -43,10 +36,6 @@ class InfoboxCleaner:
         ]
 
     def clean_wiki_markup(self, text: str) -> str:
-        """
-        Làm sạch markup cơ bản của Wiki.
-        Hàm này giữ nguyên như ban đầu.
-        """
         if not text or not isinstance(text, str):
             return ""
         
@@ -86,10 +75,6 @@ class InfoboxCleaner:
         return text
 
     def _normalize_date(self, date_string: str) -> str:
-        """
-        Cố gắng chuẩn hóa chuỗi ngày tháng về dạng ISO (YYYY-MM-DD hoặc YYYY-MM hoặc YYYY).
-        Nếu thất bại, trả về chuỗi gốc đã được làm sạch.
-        """
         if not date_string:
             return ""
         
@@ -109,34 +94,26 @@ class InfoboxCleaner:
         return original_string
 
     def clean_infobox(self, infobox: Dict[str, Any]) -> Dict[str, Any]:
-        """
-        Làm sạch đệ quy một infobox, với logic mới để xử lý các trường "rò rỉ"
-        VÀ chuẩn hóa ngày tháng.
-        """
         if not infobox:
             return {}
 
-        # Bước 1: Làm sạch nông (shallow clean) tất cả các trường
         shallow_cleaned = {}
         for key, value in infobox.items():
             if value is None:
                 continue
             
-            key_lower = key.lower().strip() # Kiểm tra key thường và đã strip
+            key_lower = key.lower().strip()
             
             if isinstance(value, str):
                 cleaned_value = self.clean_wiki_markup(value)
                 if not cleaned_value:
                     continue
-                
-                # --- START MODIFICATION ---
-                # Kiểm tra xem key có khớp với pattern ngày tháng không
+
                 if self.date_key_pattern.fullmatch(key_lower):
                     normalized_value = self._normalize_date(cleaned_value)
                     shallow_cleaned[key] = normalized_value
                 else:
                     shallow_cleaned[key] = cleaned_value
-                # --- END MODIFICATION ---
                     
             elif isinstance(value, (int, float, bool)):
                 shallow_cleaned[key] = value
@@ -151,15 +128,12 @@ class InfoboxCleaner:
                         cleaned_item = self.clean_wiki_markup(item)
                         if not cleaned_item:
                             continue
-                        
-                        # --- START MODIFICATION ---
-                        # Áp dụng logic tương tự cho list, dựa trên key của list
+
                         if self.date_key_pattern.fullmatch(key_lower):
                             normalized_item = self._normalize_date(cleaned_item)
                             cleaned_list.append(normalized_item)
                         else:
                             cleaned_list.append(cleaned_item)
-                        # --- END MODIFICATION ---
                             
                     elif isinstance(item, dict):
                         cleaned_item = self.clean_infobox(item)
@@ -170,7 +144,6 @@ class InfoboxCleaner:
                 if cleaned_list:
                     shallow_cleaned[key] = cleaned_list
         
-        # Bước 2: Xử lý sau để tìm và "thăng cấp" các trường bị rò rỉ
         final_cleaned = {}
         for key, value in shallow_cleaned.items():
             if not isinstance(value, str) or '=' not in value or '|' not in value:
@@ -208,15 +181,12 @@ class InfoboxCleaner:
                     new_val_cleaned = self.clean_wiki_markup(new_val_raw)
                     
                     if new_key and new_val_cleaned:
-                        # --- START MODIFICATION ---
                         new_key_lower = new_key.lower()
-                        # Kiểm tra date cho các trường rò rỉ được thăng cấp
                         if self.date_key_pattern.fullmatch(new_key_lower):
                             normalized_val = self._normalize_date(new_val_cleaned)
                             new_fields_to_add[new_key] = normalized_val
                         else:
                             new_fields_to_add[new_key] = new_val_cleaned
-                        # --- END MODIFICATION ---
                         self.stats['promoted_leaked_fields'] += 1
 
             if new_fields_to_add:
@@ -230,10 +200,6 @@ class InfoboxCleaner:
         return final_cleaned
 
     def clean_politician(self, politician_data: Dict[str, Any]) -> Dict[str, Any]:
-        """
-        Làm sạch dữ liệu của một chính trị gia.
-        Hàm này giữ nguyên như ban đầu.
-        """
         if not politician_data:
             return None
         
@@ -291,17 +257,6 @@ class InfoboxCleaner:
             json.dump(cleaned_data, f, ensure_ascii=False, indent=4)
         
         log.info(f"CLEANING COMPLETED")
-        log.info(f"--- Stats ---")
-        log.info(f"Total processed: {self.stats['processed']}")
-        log.info(f"Skipped (no title): {self.stats['skipped_no_title']}")
-        log.info(f"Skipped (no infobox): {self.stats['skipped_no_infobox']}")
-        log.info(f"Skipped (empty infobox): {self.stats['skipped_empty_infobox']}")
-        log.info(f"Total fields cleaned: {self.stats['fields_cleaned']}")
-        log.info(f"Dates normalized: {self.stats['dates_normalized']}")
-        log.info(f"Leaked field blocks parsed: {self.stats['leaked_fields_parsed']}")
-        log.info(f"Promoted leaked fields: {self.stats['promoted_leaked_fields']}")
-        log.info(f"---------------")
-
 
 if __name__ == "__main__":
     cleaner = InfoboxCleaner()
