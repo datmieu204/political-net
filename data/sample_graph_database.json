@@ -2,59 +2,62 @@
   "nodes": {
     "Politician": [
       {
-        "politicianId": "Po0001",
+        "id": "pol0001",
         "type": "Politician",
         "name": "Nguyễn Văn A",
-        "dob": "1960-10-14",
-        "dod": "2024-02-14"
+        "properties": {
+          "birth_date": "1960-10-14",
+          "death_date": "2024-02-14",
+          "party": "bị khai trừ" or "Đảng Cộng Sản Việt Nam"
+        }
       }
     ],
     "Position": [
       {
-        "positionId": "Ps0001",
+        "id": "pos0001",
         "type": "Position",
         "name": "Bộ trưởng Bộ Nội vụ"
       }
     ],
     "Location": [
       {
-        "locationId": "L0001",
+        "id": "loc0001",
         "type": "Location",
-        "name": "Thường Tín, Hà Nội"
+        "name": "Hà Nội"
       }
     ],
     "Award": [
       {
-        "awardId": "AD0001",
+        "id": "awa0001",
         "type": "Award",
         "name": " Huân chương Quân công hạng Nhất"
       }
     ],
     "MilitaryCareer": [
       {
-        "militaryCareerId": "MC0001",
+        "id": "mil0001",
         "type": "MilitaryCareer",
         "rank": "Thượng tướng",
         "served_for": "Quân đội nhân dân Việt Nam"
       }
     ],
-    "Campaigns": [
+    "Campaign": [
       {
-        "campaignId": "C0001",
+        "id": "cam0001",
         "type": "Campaigns",
         "name": "Chiến tranh biên giới phía Bắc"
       }
     ],
     "AcademicTitle": [
       {
-        "academicTitleId": "AT0001",
+        "id": "aca0001",
         "type": "Academic",
         "name": "Giáo sư"
       }
     ],
     "AlmaMater": [
       {
-        "almaMaterId": "AM0001",
+        "id": "alm0001",
         "type": "AlmaMater",
         "name": "Học viện An ninh Nhân dân"
       }
@@ -62,56 +65,66 @@
   },
   "edges": {
     "BORN_AT": [
-      { "from": "Po0001", "to": "L0001", "type": "BORN_AT" }
+      { "from": "pol0001", "to": "loc0001", "type": "BORN_AT" }
     ],
     "DIED_AT": [
-      { "from": "Po0001", "to": "L0001", "type": "DIED_AT" }
+      { "from": "pol0001", "to": "loc0001", "type": "DIED_AT" }
     ],
     "AWARDED": [
-      { "from": "Po0001", "to": "AD0001", "type": "AWARDED" }
+      { "from": "pol0001", "to": "awa0001", "type": "AWARDED" }
     ],
     "SERVED_AS": [
       {
-        "from": "Po0001",
-        "to": "Ps0001",
+        "from": "pol0001",
+        "to": "pos0001",
         "type": "SERVED_AS",
-        "start_year": "2016-04-12",
-        "end_year": "2011-07-07"
+        "properties": {
+          "term_start": "2016-04-12",
+          "term_end": "2011-07-07",
+          "status": "bãi nhiệm" | ""
+        }
       }
     ],
     "SERVED_IN": [
       {
-        "from": "Po0001",
-        "to": "MC0001",
+        "from": "pol0001",
+        "to": "mil0001",
         "type": "SERVED_IN",
-        "start_year": 1950,
-        "end_year": "nay"
+        "properties": {
+          "term_start": 1950,
+          "term_end": "nay",
+          "status": "bãi nhiệm" | ""
+        }
       }
     ],
     "ALUMNUS_OF": [
-      { "from": "Po0001", "to": "AM0001", "type": "ALUMNUS_OF" }
+      { "from": "pol0001", "to": "alm0001", "type": "ALUMNUS_OF" }
     ],
     "HAS_ACADEMIC_TITLE": [
-      { "from": "Po0001", "to": "AT0001", "type": "HAS_ACADEMIC_TITLE" }
+      { "from": "pol0001", "to": "aca0001", "type": "HAS_ACADEMIC_TITLE" }
     ],
     "SUCCEEDED": [
       {
-        "from": "Po0001",
-        "to": "Po0002",
+        "from": "pol0001",
+        "to": "pol0002",
         "type": "SUCCEEDED",
-        "positionId": "Ps0001" 
+        "properties": {
+          "positionId": "pos0001" 
+        }
       }
     ],
     "PRECEDED": [
       {
-        "from": "Po0001",
-        "to": "Po0003",
+        "from": "pol0001",
+        "to": "pol0003",
         "type": "PRECEDED",
-        "positionId": "Ps0001" 
+        "properties": {
+          "positionId": "pos0001" 
+        }
       }
     ],
-    "PARTICIPATED_IN": [
-      { "from": "Po0001", "to": "C0001", "type": "PARTICIPATED_IN" }
+    "FOUGHT_IN": [
+      { "from": "pol0001", "to": "cam0001", "type": "PARTICIPATED_IN" }
     ]
   }
 }
