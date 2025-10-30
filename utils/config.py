@@ -32,6 +32,11 @@ class Settings():
     INPUT_FINAL_POLITICIAN_FILE = OUTPUT_BATTLES_NORMALIZED_FILE
     OUTPUT_FINAL_POLITICIAN_FILE = OUTPUT_DIR + "/processed/infobox/politicians_data_final.json"
 
+    # Graph settings
+    INPUT_GRAPH_POLITICIAN_FILE = OUTPUT_FINAL_POLITICIAN_FILE
+    OUTPUT_CYPHER_FILE = OUTPUT_DIR + "/processed/graph/neo4j_import.cypher"
+    OUTPUT_GRAPH_FILE = OUTPUT_DIR + "/processed/graph/knowledge_graph.json"
+
     # Neo4j settings
     NEO4J_URI = "bolt://localhost:7687"
     NEO4J_USER = "neo4j"
