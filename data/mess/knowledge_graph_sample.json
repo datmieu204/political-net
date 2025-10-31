@@ -1,16 +1,15 @@
-
-
 {
   "nodes": {
     "Politician": [
       {
-        "id": "pol0l001",
+        "id": "pol19498354",
         "type": "Politician",
-        "name": "Nguyễn Văn A",
-        "birth_date": "1960-10-14",
-        "death_date": "2024-02-14",
-        "ethnicity": "Kinh",
-        "religion": "không"
+        "name": "Ngô Văn Tuấn",
+        "properties": {
+          "birth_date": "1971-08-02",
+          "death_date": "",
+          "party": "Đảng Cộng sản Việt Nam"
+        }
       }
     ],
     "Position": [
@@ -38,10 +37,7 @@
       {
         "id": "mil0001",
         "type": "MilitaryCareer",
-        "service_years": "1950-nay",
-        "rank": "Thượng tướng",
-        "served_for": "Quân đội nhân dân Việt Nam",
-        "campaigns": "Kháng chiến chống Mỹ"
+        "name": "Quân đội nhân dân Việt Nam",
       }
     ],
     "AcademicTitle": [
@@ -57,56 +53,120 @@
         "type": "AlmaMater",
         "name": "Học viện An ninh Nhân dân"
       }
+    ],
+    "Campaigns": [
+      {
+        "id": "cam3161938_001",
+        "type": "Campaigns",
+        "name": "Chiến tranh biên giới Tây Nam"
+      }
+    ],
+    "MilitaryRank": [
+      {
+        "id": "mil1463498_001",
+        "type": "MilitaryRank",
+        "name": "Đại tá"
+      }
     ]
   },
   "edges": {
     "BORN_AT": [
-      { "from": "pol0001", "to": "loc0001", "type": "BORN_AT" }
+      {
+        "from": "pol436788",
+        "to": "loc436788_001",
+        "type": "BORN_AT",
+        "properties": {}
+      }    
     ],
     "DIED_AT": [
-      { "from": "pol0001", "to": "loc0001", "type": "DIED_AT" }
+      {
+        "from": "pol46636",
+        "to": "loc3698506_001",
+        "type": "DIED_AT",
+        "properties": {}
+      }
     ],
     "AWARDED": [
-      { "from": "pol0001", "to": "awa0001", "type": "AWARDED" }
+      {
+        "from": "pol436788",
+        "to": "awa436788_001",
+        "type": "AWARDED",
+        "properties": {}
+      } 
     ],
     "SERVED_AS": [
       {
-        "from": "pol0001",
-        "to": "pos0001",
+        "from": "pol19498354",
+        "to": "pos19498354_001",
         "type": "SERVED_AS",
-        "start_year": "2016-04-12",
-        "end_year": "2011-07-07"
+        "properties": {
+          "term_start": "2022-10-21",
+          "term_end": "nay",
+          "status": ""
+        }
       }
     ],
     "SERVED_IN": [
       {
-        "from": "pol0001",
-        "to": "mil0001",
+        "from": "pol436788",
+        "to": "mil436788_001",
         "type": "SERVED_IN",
-        "start_year": 1950,
-        "end_year": "nay"
+        "properties": {
+          "year_start": 1985,
+          "year_end": 2011
+        }
       }
     ],
     "ALUMNUS_OF": [
-      { "from": "pol0001", "to": "awa0001", "type": "ALUMNUS_OF" }
+      {
+        "from": "pol19547607",
+        "to": "alm19547607_001",
+        "type": "ALUMNUS_OF",
+        "properties": {}
+      }
     ],
     "HAS_ACADEMIC_TITLE": [
-      { "from": "pol0001", "to": "aca0001", "type": "HAS_ACADEMIC_TITLE" }
+      {
+        "from": "pol19498354",
+        "to": "aca19498354_001",
+        "type": "HAS_ACADEMIC_TITLE",
+        "properties": {}
+      }
     ],
     "SUCCEEDED": [
       {
-        "from": "pol0001",
-        "to": "pol0002",
+        "from": "pol19498354",
+        "to": "pol1325815",
         "type": "SUCCEEDED",
-        "positionId": "pos0001" 
+        "properties": {
+          "position_id": "pos19498354_005"
+        }
       }
     ],
     "PRECEDED": [
       {
-        "from": "pol0001",
-        "to": "pol0003",
+        "from": "pol19498354",
+        "to": "pol3696804",
         "type": "PRECEDED",
-        "positionId": "pos0001" 
+        "properties": {
+          "position_id": "pos19498354_010"
+        }
+      }
+    ],
+    "HAS_RANK": [
+      {
+        "from": "pol1463498",
+        "to": "mil1463498_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      }
+    ],
+    "FOUGHT_IN": [
+      {
+        "from": "pol3161938",
+        "to": "cam3161938_001",
+        "type": "FOUGHT_IN",
+        "properties": {}
       }
     ]
   }
