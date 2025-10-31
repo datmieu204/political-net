@@ -1,8 +1,8 @@
 {
   "metadata": {
     "created_at": "2025-10-30T23:16:15.057944",
-    "total_nodes": 5127,
-    "total_edges": 12222,
+    "total_nodes": 5100,
+    "total_edges": 12162,
     "node_types": [
       "Politician",
       "Position",
@@ -27,7 +27,7 @@
       "ALUMNUS_OF",
       "HAS_ACADEMIC_TITLE"
     ],
-    "updated_at": "2025-10-30T23:16:18.582940"
+    "updated_at": "2025-10-31T00:00:00.000000"
   },
   "nodes": {
     "Politician": [
@@ -6336,8 +6336,8 @@
         "type": "Politician",
         "name": "Nguyễn Thái Học",
         "properties": {
-          "birth_date": "",
-          "death_date": "",
+          "birth_date": "1902-12-01",
+          "death_date": "1930-06-17",
           "party": "Đảng Cộng sản Việt Nam"
         }
       },
@@ -9704,7 +9704,7 @@
       {
         "id": "pol453094",
         "type": "Politician",
-        "name": "Trung tướng Đào Trọng Lịch",
+        "name": "Đào Trọng Lịch",
         "properties": {
           "birth_date": "1939-01-01",
           "death_date": "1998-05-25",
@@ -27721,11 +27721,6 @@
         "name": "Yên Bái"
       },
       {
-        "id": "loc13056084_001",
-        "type": "Location",
-        "name": "Việt Nam Dân chủ Cộng hòa"
-      },
-      {
         "id": "loc239291_001",
         "type": "Location",
         "name": "Quảng Bình"
@@ -27841,11 +27836,6 @@
         "name": "Hà Nam"
       },
       {
-        "id": "loc19428675_001",
-        "type": "Location",
-        "name": "An Xuyên Cộng hòa"
-      },
-      {
         "id": "loc3280811_001",
         "type": "Location",
         "name": "Hà Giang"
@@ -27859,11 +27849,6 @@
         "id": "loc3708911_001",
         "type": "Location",
         "name": "Khánh Hòa"
-      },
-      {
-        "id": "loc3708911_002",
-        "type": "Location",
-        "name": "Khánh Hoà"
       },
       {
         "id": "loc1463194_001",
@@ -27901,11 +27886,6 @@
         "name": "Đồng Tháp"
       },
       {
-        "id": "loc19769137_001",
-        "type": "Location",
-        "name": "Việt Nam"
-      },
-      {
         "id": "loc19788108_001",
         "type": "Location",
         "name": "Bà Rịa-Vũng Tàu"
@@ -27921,24 +27901,9 @@
         "name": "Đắk Nông"
       },
       {
-        "id": "loc19753111_001",
-        "type": "Location",
-        "name": "Yên Trung, Yên Phong, Hà Bắc"
-      },
-      {
-        "id": "loc3244844_001",
-        "type": "Location",
-        "name": "xã Long Thuận, quận Hồng Ngự, tỉnh Kiến Phong Cộng hòa"
-      },
-      {
         "id": "loc3701927_001",
         "type": "Location",
         "name": "Điện Biên"
-      },
-      {
-        "id": "loc3698489_001",
-        "type": "Location",
-        "name": "Thanh Hoá"
       },
       {
         "id": "loc19938867_001",
@@ -27959,11 +27924,6 @@
         "id": "loc19433288_001",
         "type": "Location",
         "name": "chưa rõ"
-      },
-      {
-        "id": "loc19757894_001",
-        "type": "Location",
-        "name": "Biên Hòa"
       },
       {
         "id": "loc7712532_001",
@@ -28710,11 +28670,6 @@
         "name": "Quân đội nhân dân Việt Nam"
       },
       {
-        "id": "mil41593_001",
-        "type": "MilitaryCareer",
-        "name": "Quân đội nhân dân Việt Nam, Quân Giải phóng miền Nam Việt Nam, Công an nhân dân Việt Nam"
-      },
-      {
         "id": "mil11496410_001",
         "type": "MilitaryCareer",
         "name": "Bộ Công An"
@@ -28723,11 +28678,6 @@
         "id": "mil3394631_001",
         "type": "MilitaryCareer",
         "name": "Bộ Tư lệnh Bộ đội Biên phòng"
-      },
-      {
-        "id": "mil19855883_001",
-        "type": "MilitaryCareer",
-        "name": "Nước Cộng hòa xã hội chủ nghĩa Việt Nam"
       },
       {
         "id": "mil19856753_001",
@@ -28743,26 +28693,6 @@
         "id": "mil19610724_001",
         "type": "MilitaryCareer",
         "name": "Quân chủng Hải quân Việt Nam"
-      },
-      {
-        "id": "mil66633_001",
-        "type": "MilitaryCareer",
-        "name": "Việt Nam Dân chủ Cộng hòa"
-      },
-      {
-        "id": "mil170953_001",
-        "type": "MilitaryCareer",
-        "name": "Quân Giải phóng miền Nam Việt Nam Quân đội nhân dân Việt Nam"
-      },
-      {
-        "id": "mil818500_001",
-        "type": "MilitaryCareer",
-        "name": "Cán bộ Sư đoàn, Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh, Phó Tư lệnh chính trị và Tư lệnh quân khu 3, Giám đốc Học viện quốc phòng"
-      },
-      {
-        "id": "mil3172362_001",
-        "type": "MilitaryCareer",
-        "name": "Quân chủng Hải quân"
       }
     ],
     "MilitaryRank": [
@@ -28817,11 +28747,6 @@
         "name": "Thượng tá"
       },
       {
-        "id": "mil3634775_001",
-        "type": "MilitaryRank",
-        "name": "Thiếu tướng Công an nhân dân Việt Nam"
-      },
-      {
         "id": "mil13375468_001",
         "type": "MilitaryRank",
         "name": "Trung tá"
@@ -28836,7 +28761,7 @@
       {
         "id": "cam3161938_002",
         "type": "Campaigns",
-        "name": "Chiến tranh biên giới Việt–Trung"
+        "name": "Chiến tranh biên giới Việt-Trung"
       },
       {
         "id": "cam591117_001",
@@ -28922,11 +28847,6 @@
         "id": "cam103854_002",
         "type": "Campaigns",
         "name": "Chiến dịch Tết Mậu Thân 1968"
-      },
-      {
-        "id": "cam103854_003",
-        "type": "Campaigns",
-        "name": "Chiến tranh biên giới Việt-Trung"
       },
       {
         "id": "cam453094_001",
@@ -29993,11 +29913,6 @@
         "name": "Cao cấp lí luận chính trị"
       },
       {
-        "id": "aca436788_005",
-        "type": "AcademicTitle",
-        "name": "Trung tướng"
-      },
-      {
         "id": "aca436788_006",
         "type": "AcademicTitle",
         "name": "Phó Giáo sư"
@@ -30038,11 +29953,6 @@
         "name": "Cử nhân Xây dựng Đảng và chính quyền Nhà nước"
       },
       {
-        "id": "aca3161938_002",
-        "type": "AcademicTitle",
-        "name": "Đại tướng"
-      },
-      {
         "id": "aca3161938_003",
         "type": "AcademicTitle",
         "name": "Chủ tịch nước"
@@ -30051,11 +29961,6 @@
         "id": "aca3706537_001",
         "type": "AcademicTitle",
         "name": "Kĩ sư Cơ khí giao thông"
-      },
-      {
-        "id": "aca3156606_001",
-        "type": "AcademicTitle",
-        "name": "Thượng tướng"
       },
       {
         "id": "aca11441242_001",
@@ -30121,11 +30026,6 @@
         "id": "aca1463245_002",
         "type": "AcademicTitle",
         "name": "Thạc sĩ Kinh tế chuyên ngành Tài chính-Tín dụng"
-      },
-      {
-        "id": "aca806867_001",
-        "type": "AcademicTitle",
-        "name": "Thiếu tướng"
       },
       {
         "id": "aca3698506_001",
@@ -30348,11 +30248,6 @@
         "name": "Thạc sĩ Kế toán kiểm toán"
       },
       {
-        "id": "aca19856286_001",
-        "type": "AcademicTitle",
-        "name": "'Thiếu tướng'"
-      },
-      {
         "id": "aca19856286_002",
         "type": "AcademicTitle",
         "name": "'Tiến sĩ'"
@@ -30501,11 +30396,6 @@
         "id": "aca591117_001",
         "type": "AcademicTitle",
         "name": "Cử nhân Xây dựng Đảng"
-      },
-      {
-        "id": "aca3234340_001",
-        "type": "AcademicTitle",
-        "name": "'Thượng tướng'"
       },
       {
         "id": "aca3699827_001",
@@ -30833,11 +30723,6 @@
         "name": "Thạc sĩ nghiệp vụ cảnh sát"
       },
       {
-        "id": "aca19729427_002",
-        "type": "AcademicTitle",
-        "name": "'Thượng tướng"
-      },
-      {
         "id": "aca19729427_003",
         "type": "AcademicTitle",
         "name": "Thạc sĩ'"
@@ -30988,11 +30873,6 @@
         "name": "Tiến sỹ Ngữ văn"
       },
       {
-        "id": "aca19549830_001",
-        "type": "AcademicTitle",
-        "name": "'Đại tá'"
-      },
-      {
         "id": "aca1463203_001",
         "type": "AcademicTitle",
         "name": "Cử nhân đại học luật"
@@ -31136,11 +31016,6 @@
         "id": "aca32687_001",
         "type": "AcademicTitle",
         "name": "Anh hùng LLVTND"
-      },
-      {
-        "id": "aca13002548_001",
-        "type": "AcademicTitle",
-        "name": "'Trung tướng'"
       },
       {
         "id": "aca13002548_002",
@@ -31558,11 +31433,6 @@
         "name": "'Chuẩn Đô đốc'"
       },
       {
-        "id": "aca15254839_001",
-        "type": "AcademicTitle",
-        "name": "'Phó Đô đốc'"
-      },
-      {
         "id": "aca591162_001",
         "type": "AcademicTitle",
         "name": "'Đô đốc'"
@@ -31575,7 +31445,7 @@
       {
         "id": "aca2422020_001",
         "type": "AcademicTitle",
-        "name": "'Thượng tướng'. 'PGS'"
+        "name": "PGS"
       },
       {
         "id": "aca2422020_002",
@@ -32208,11 +32078,6 @@
         "name": "Cử nhân Xã hội học"
       },
       {
-        "id": "aca16602_001",
-        "type": "AcademicTitle",
-        "name": "Đại tá"
-      },
-      {
         "id": "aca62117_001",
         "type": "AcademicTitle",
         "name": "Học viện Quân sự Bắc Kinh"
@@ -32240,7 +32105,7 @@
       {
         "id": "aca645933_002",
         "type": "AcademicTitle",
-        "name": "Hà Nội)"
+        "name": "Hà Nội"
       },
       {
         "id": "aca3700616_001",
@@ -108030,7 +107895,7 @@
       },
       {
         "from": "pol13056084",
-        "to": "loc13056084_001",
+        "to": "loc841947_001",
         "type": "BORN_AT",
         "properties": {}
       },
@@ -108486,7 +108351,7 @@
       },
       {
         "from": "pol19428675",
-        "to": "loc19428675_001",
+        "to": "loc592361_001",
         "type": "BORN_AT",
         "properties": {}
       },
@@ -108666,6 +108531,12 @@
       },
       {
         "from": "pol55980",
+        "to": "loc75041_001",
+        "type": "BORN_AT",
+        "properties": {}
+      },
+      {
+        "from": "pol23672",
         "to": "loc75041_001",
         "type": "BORN_AT",
         "properties": {}
@@ -109026,7 +108897,7 @@
       },
       {
         "from": "pol19769137",
-        "to": "loc19769137_001",
+        "to": "loc3698506_001",
         "type": "BORN_AT",
         "properties": {}
       },
@@ -109584,7 +109455,7 @@
       },
       {
         "from": "pol19795666",
-        "to": "loc19769137_001",
+        "to": "loc19433288_001",
         "type": "BORN_AT",
         "properties": {}
       },
@@ -109656,7 +109527,7 @@
       },
       {
         "from": "pol11496410",
-        "to": "loc13056084_001",
+        "to": "loc324793_001",
         "type": "BORN_AT",
         "properties": {}
       },
@@ -109698,7 +109569,7 @@
       },
       {
         "from": "pol19753111",
-        "to": "loc19753111_001",
+        "to": "loc794793_001",
         "type": "BORN_AT",
         "properties": {}
       },
@@ -109764,7 +109635,7 @@
       },
       {
         "from": "pol3244844",
-        "to": "loc3244844_001",
+        "to": "loc7536750_001",
         "type": "BORN_AT",
         "properties": {}
       },
@@ -110292,7 +110163,7 @@
       },
       {
         "from": "pol3698489",
-        "to": "loc3698489_001",
+        "to": "loc436788_001",
         "type": "BORN_AT",
         "properties": {}
       },
@@ -111156,7 +111027,7 @@
       },
       {
         "from": "pol19757894",
-        "to": "loc19757894_001",
+        "to": "loc3309885_001",
         "type": "BORN_AT",
         "properties": {}
       },
@@ -114050,7 +113921,7 @@
       },
       {
         "from": "pol3708911",
-        "to": "loc3708911_002",
+        "to": "loc3708911_001",
         "type": "DIED_AT",
         "properties": {}
       },
@@ -114104,6 +113975,12 @@
       },
       {
         "from": "pol3700536",
+        "to": "loc3696804_001",
+        "type": "DIED_AT",
+        "properties": {}
+      },
+      {
+        "from": "pol23672",
         "to": "loc3696804_001",
         "type": "DIED_AT",
         "properties": {}
@@ -114830,7 +114707,7 @@
       },
       {
         "from": "pol555240",
-        "to": "loc19769137_001",
+        "to": "loc3169162_001",
         "type": "DIED_AT",
         "properties": {}
       },
@@ -116320,12 +116197,6 @@
       },
       {
         "from": "pol46740",
-        "to": "awa1463198_001",
-        "type": "AWARDED",
-        "properties": {}
-      },
-      {
-        "from": "pol46740",
         "to": "awa11474320_002",
         "type": "AWARDED",
         "properties": {}
@@ -116795,12 +116666,6 @@
       {
         "from": "pol495324",
         "to": "awa46636_001",
-        "type": "AWARDED",
-        "properties": {}
-      },
-      {
-        "from": "pol495324",
-        "to": "awa1462803_001",
         "type": "AWARDED",
         "properties": {}
       },
@@ -118115,7 +117980,16 @@
       },
       {
         "from": "pol41593",
-        "to": "mil41593_001",
+        "to": "mil436788_001",
+        "type": "SERVED_IN",
+        "properties": {
+          "year_start": 1961,
+          "year_end": 1981
+        }
+      },
+      {
+        "from": "pol41593",
+        "to": "mil3161938_001",
         "type": "SERVED_IN",
         "properties": {
           "year_start": 1961,
@@ -118695,7 +118569,7 @@
       },
       {
         "from": "pol19855883",
-        "to": "mil19855883_001",
+        "to": "mil436788_001",
         "type": "SERVED_IN",
         "properties": {}
       },
@@ -119705,7 +119579,7 @@
       },
       {
         "from": "pol66633",
-        "to": "mil66633_001",
+        "to": "mil436788_001",
         "type": "SERVED_IN",
         "properties": {}
       },
@@ -119726,7 +119600,7 @@
       },
       {
         "from": "pol170953",
-        "to": "mil170953_001",
+        "to": "mil3161938_001",
         "type": "SERVED_IN",
         "properties": {
           "year_start": 1946,
@@ -119839,7 +119713,7 @@
       },
       {
         "from": "pol818500",
-        "to": "mil818500_001",
+        "to": "mil3161938_001",
         "type": "SERVED_IN",
         "properties": {
           "year_start": 1958,
@@ -119917,7 +119791,7 @@
       },
       {
         "from": "pol3172362",
-        "to": "mil3172362_001",
+        "to": "mil19610724_001",
         "type": "SERVED_IN",
         "properties": {
           "year_start": 1963,
@@ -120636,7 +120510,7 @@
       },
       {
         "from": "pol3634775",
-        "to": "mil3634775_001",
+        "to": "mil18603364_001",
         "type": "HAS_RANK",
         "properties": {}
       },
@@ -120768,7 +120642,7 @@
       },
       {
         "from": "pol12840085",
-        "to": "mil3634775_001",
+        "to": "mil18603364_001",
         "type": "HAS_RANK",
         "properties": {}
       },
@@ -120925,6 +120799,600 @@
       {
         "from": "pol13463635",
         "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol436788",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol239291",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol1394758",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19551863",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol12871956",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol55006",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3158226",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19431755",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol15793581",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19784314",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3700868",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3699248",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol15817082",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19412950",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19431162",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol49209",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19860168",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19863262",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19691285",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19856181",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19784215",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19492645",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19425439",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol16877577",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol13365812",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19857341",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol17593208",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19861542",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol15540946",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol15275253",
+        "to": "mil13191158_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19549830",
+        "to": "mil1463498_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol16602",
+        "to": "mil1463498_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3229307",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19813142",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol1463492",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3234339",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3349816",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3309882",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol13806127",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3702513",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol521999",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol24330",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol579647",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3350468",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3207889",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol1463296",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3698645",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol396890",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol1465094",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol7503705",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol13024",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol66516",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3234340",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3234336",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19835684",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3349815",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19705848",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol7504697",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19729427",
+        "to": "mil3156606_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3161938",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol808289",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol8741",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol591117",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol55273",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol102743",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol49761",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol8742",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol8312",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol41586",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol103854",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol46740",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol42320",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol1271",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol13018",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol46742",
+        "to": "mil3169162_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol806867",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3171950",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol1463198",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol12845705",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3394631",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19853716",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19604880",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol16021491",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol13831263",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19579742",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol16721828",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3700596",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3210169",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol1464779",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19856286",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19949566",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19855883",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19621738",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19495051",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19856753",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol11763021",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol66633",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol19695921",
+        "to": "mil18603364_001",
+        "type": "HAS_RANK",
+        "properties": {}
+      },
+      {
+        "from": "pol3172362",
+        "to": "mil15254839_001",
         "type": "HAS_RANK",
         "properties": {}
       }
@@ -121130,7 +121598,7 @@
       },
       {
         "from": "pol103854",
-        "to": "cam103854_003",
+        "to": "cam3161938_002",
         "type": "FOUGHT_IN",
         "properties": {}
       },
@@ -121346,7 +121814,7 @@
       },
       {
         "from": "pol867",
-        "to": "cam103854_003",
+        "to": "cam3161938_002",
         "type": "FOUGHT_IN",
         "properties": {}
       },
@@ -123936,12 +124404,6 @@
       },
       {
         "from": "pol436788",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol436788",
         "to": "aca436788_006",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -124020,12 +124482,6 @@
       },
       {
         "from": "pol3161938",
-        "to": "aca3161938_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3161938",
         "to": "aca3161938_003",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -124033,12 +124489,6 @@
       {
         "from": "pol3706537",
         "to": "aca3706537_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3156606",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -124098,12 +124548,6 @@
       },
       {
         "from": "pol808289",
-        "to": "aca3161938_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol808289",
         "to": "aca808289_002",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -124129,12 +124573,6 @@
       {
         "from": "pol3169162",
         "to": "aca3169162_003",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3169162",
-        "to": "aca3161938_002",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -124195,18 +124633,6 @@
       {
         "from": "pol806867",
         "to": "aca436788_004",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol806867",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol806867",
-        "to": "aca808289_002",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -124289,12 +124715,6 @@
         "properties": {}
       },
       {
-        "from": "pol3229307",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol13653301",
         "to": "aca13653301_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -124339,12 +124759,6 @@
       {
         "from": "pol787326",
         "to": "aca642061_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol787326",
-        "to": "aca808289_002",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -124501,12 +124915,6 @@
       {
         "from": "pol3229399",
         "to": "aca19498354_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol239291",
-        "to": "aca436788_005",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -124793,12 +125201,6 @@
         "properties": {}
       },
       {
-        "from": "pol8741",
-        "to": "aca3161938_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol3281001",
         "to": "aca19498354_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -124813,12 +125215,6 @@
       {
         "from": "pol19856286",
         "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19856286",
-        "to": "aca19856286_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -125231,12 +125627,6 @@
         "properties": {}
       },
       {
-        "from": "pol1464922",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol591117",
         "to": "aca19604408_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -125255,24 +125645,6 @@
         "properties": {}
       },
       {
-        "from": "pol591117",
-        "to": "aca3161938_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol1394758",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3234340",
-        "to": "aca3234340_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol7492813",
         "to": "aca3161938_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -125281,18 +125653,6 @@
       {
         "from": "pol7492813",
         "to": "aca19547607_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol7492813",
-        "to": "aca3161938_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19551863",
-        "to": "aca436788_005",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -125465,12 +125825,6 @@
         "properties": {}
       },
       {
-        "from": "pol3171950",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol19819255",
         "to": "aca19819255_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -125568,12 +125922,6 @@
       },
       {
         "from": "pol808757",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol808757",
         "to": "aca436788_007",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -125587,24 +125935,6 @@
       {
         "from": "pol15256601",
         "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15256601",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15256601",
-        "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19813142",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -125874,25 +126204,7 @@
       },
       {
         "from": "pol3157979",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3157979",
-        "to": "aca436788_006",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3157979",
         "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol1463492",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -125915,20 +126227,8 @@
         "properties": {}
       },
       {
-        "from": "pol3234339",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol3170095",
         "to": "aca19815676_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3349816",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -125952,31 +126252,7 @@
       },
       {
         "from": "pol3234336",
-        "to": "aca3234340_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3234336",
         "to": "aca19856286_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3309882",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19835684",
-        "to": "aca3234340_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol55273",
-        "to": "aca3161938_002",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -125994,19 +126270,7 @@
       },
       {
         "from": "pol3349815",
-        "to": "aca3234340_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3349815",
         "to": "aca3349815_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3309885",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -126061,12 +126325,6 @@
       {
         "from": "pol571721",
         "to": "aca1749503_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol571721",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -126187,12 +126445,6 @@
       {
         "from": "pol105962",
         "to": "aca105962_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol105962",
-        "to": "aca436788_005",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -126456,25 +126708,7 @@
       },
       {
         "from": "pol808558",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol808558",
-        "to": "aca436788_006",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol808558",
         "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol12871956",
-        "to": "aca436788_005",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -126492,19 +126726,7 @@
       },
       {
         "from": "pol19729427",
-        "to": "aca19729427_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19729427",
         "to": "aca19729427_003",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol13806127",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -126696,12 +126918,6 @@
       },
       {
         "from": "pol19949566",
-        "to": "aca19856286_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19949566",
         "to": "aca19856286_002",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -126727,12 +126943,6 @@
       {
         "from": "pol3702513",
         "to": "aca3702513_003",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3702513",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -126877,12 +127087,6 @@
       {
         "from": "pol1463198",
         "to": "aca1463335_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol1463198",
-        "to": "aca806867_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -127074,12 +127278,6 @@
       },
       {
         "from": "pol19549830",
-        "to": "aca19549830_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19549830",
         "to": "aca19856286_002",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -127117,12 +127315,6 @@
       {
         "from": "pol521999",
         "to": "aca3306915_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol521999",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -127302,12 +127494,6 @@
       },
       {
         "from": "pol13782575",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol13782575",
         "to": "aca11441242_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -127339,12 +127525,6 @@
       {
         "from": "pol182735",
         "to": "aca182735_003",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol55006",
-        "to": "aca436788_005",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -127566,12 +127746,6 @@
       },
       {
         "from": "pol32687",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol32687",
         "to": "aca32687_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -127579,18 +127753,6 @@
       {
         "from": "pol49101",
         "to": "aca13653301_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15279718",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol13002548",
-        "to": "aca13002548_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -127607,12 +127769,6 @@
         "properties": {}
       },
       {
-        "from": "pol19551556",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol19860168",
         "to": "aca436788_007",
         "type": "HAS_ACADEMIC_TITLE",
@@ -127620,25 +127776,7 @@
       },
       {
         "from": "pol19860168",
-        "to": "aca13002548_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19860168",
         "to": "aca19856286_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19551547",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15277275",
-        "to": "aca806867_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -128015,12 +128153,6 @@
         "properties": {}
       },
       {
-        "from": "pol1463021",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol50013",
         "to": "aca50013_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -128087,12 +128219,6 @@
         "properties": {}
       },
       {
-        "from": "pol102743",
-        "to": "aca3161938_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol3174140",
         "to": "aca3306915_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -128106,12 +128232,6 @@
       },
       {
         "from": "pol49761",
-        "to": "aca3161938_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol49761",
         "to": "aca32687_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -128119,12 +128239,6 @@
       {
         "from": "pol59548",
         "to": "aca59548_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol59548",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -128573,12 +128687,6 @@
         "properties": {}
       },
       {
-        "from": "pol13716271",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol19757262",
         "to": "aca13653301_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -128627,12 +128735,6 @@
         "properties": {}
       },
       {
-        "from": "pol13831235",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol3699665",
         "to": "aca3699665_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -128653,12 +128755,6 @@
       {
         "from": "pol3692841",
         "to": "aca3719093_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol24330",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -128706,12 +128802,6 @@
       },
       {
         "from": "pol2448814",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol2448814",
         "to": "aca436788_006",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -128724,37 +128814,7 @@
       },
       {
         "from": "pol12845705",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol12845705",
         "to": "aca32687_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol579647",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3350468",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3158226",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol13773064",
-        "to": "aca436788_005",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -128767,12 +128827,6 @@
       {
         "from": "pol19705848",
         "to": "aca19705848_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19705848",
-        "to": "aca3234340_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -129065,12 +129119,6 @@
         "properties": {}
       },
       {
-        "from": "pol3207889",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol10572623",
         "to": "aca436788_007",
         "type": "HAS_ACADEMIC_TITLE",
@@ -129089,12 +129137,6 @@
         "properties": {}
       },
       {
-        "from": "pol1463296",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol56514",
         "to": "aca56514_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -129107,12 +129149,6 @@
         "properties": {}
       },
       {
-        "from": "pol15254839",
-        "to": "aca15254839_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol591162",
         "to": "aca591162_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -129121,12 +129157,6 @@
       {
         "from": "pol7529641",
         "to": "aca7529641_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol7504697",
-        "to": "aca3234340_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -129151,24 +129181,6 @@
       {
         "from": "pol2422020",
         "to": "aca2422020_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19863262",
-        "to": "aca13002548_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19431755",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3394631",
-        "to": "aca806867_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -129210,12 +129222,6 @@
       },
       {
         "from": "pol19691285",
-        "to": "aca13002548_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19691285",
         "to": "aca19856286_002",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -129223,12 +129229,6 @@
       {
         "from": "pol3698645",
         "to": "aca436788_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3698645",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -129421,12 +129421,6 @@
       {
         "from": "pol19433288",
         "to": "aca19433288_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19853716",
-        "to": "aca806867_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -129702,12 +129696,6 @@
       },
       {
         "from": "pol19855883",
-        "to": "aca19856286_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19855883",
         "to": "aca19856286_002",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -129715,12 +129703,6 @@
       {
         "from": "pol19621738",
         "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19621738",
-        "to": "aca19856286_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -129738,19 +129720,7 @@
       },
       {
         "from": "pol19604880",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19604880",
         "to": "aca11441242_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19495051",
-        "to": "aca19856286_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -129762,31 +129732,7 @@
       },
       {
         "from": "pol19856181",
-        "to": "aca13002548_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19856181",
         "to": "aca19856286_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15406091",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19415886",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15793581",
-        "to": "aca436788_005",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -129810,12 +129756,6 @@
       },
       {
         "from": "pol19784215",
-        "to": "aca13002548_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19784215",
         "to": "aca3698506_003",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -129823,24 +129763,6 @@
       {
         "from": "pol15274804",
         "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15274804",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15274804",
-        "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15793716",
-        "to": "aca806867_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -129929,18 +129851,6 @@
         "properties": {}
       },
       {
-        "from": "pol19492645",
-        "to": "aca13002548_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19856753",
-        "to": "aca19856286_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol19789813",
         "to": "aca19789813_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -130019,12 +129929,6 @@
         "properties": {}
       },
       {
-        "from": "pol3350466",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol969392",
         "to": "aca1749503_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -130093,12 +129997,6 @@
       {
         "from": "pol2389689",
         "to": "aca2389689_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol37618",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -130223,18 +130121,6 @@
         "properties": {}
       },
       {
-        "from": "pol15780310",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol11763021",
-        "to": "aca19856286_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol19940217",
         "to": "aca19940217_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -130253,12 +130139,6 @@
         "properties": {}
       },
       {
-        "from": "pol8742",
-        "to": "aca3161938_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol808147",
         "to": "aca642061_002",
         "type": "HAS_ACADEMIC_TITLE",
@@ -130267,24 +130147,6 @@
       {
         "from": "pol15563354",
         "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15256793",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol13794954",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19425439",
-        "to": "aca13002548_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -130333,12 +130195,6 @@
       {
         "from": "pol1407145",
         "to": "aca622175_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol8312",
-        "to": "aca3161938_002",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -130542,12 +130398,6 @@
       },
       {
         "from": "pol41586",
-        "to": "aca3161938_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol41586",
         "to": "aca3161938_003",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -130577,12 +130427,6 @@
         "properties": {}
       },
       {
-        "from": "pol16877577",
-        "to": "aca13002548_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol13555588",
         "to": "aca1749503_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -130591,12 +130435,6 @@
       {
         "from": "pol3692765",
         "to": "aca3692765_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol1463277",
-        "to": "aca19856286_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -130717,12 +130555,6 @@
       {
         "from": "pol362594",
         "to": "aca808289_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol103854",
-        "to": "aca3161938_002",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -130849,18 +130681,6 @@
       {
         "from": "pol509015",
         "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol396890",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol46740",
-        "to": "aca3161938_002",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -131039,12 +130859,6 @@
         "properties": {}
       },
       {
-        "from": "pol19784314",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol3700127",
         "to": "aca3700127_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -131111,20 +130925,8 @@
         "properties": {}
       },
       {
-        "from": "pol15275258",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol3694828",
         "to": "aca3696868_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3694828",
-        "to": "aca806867_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -131178,25 +130980,7 @@
       },
       {
         "from": "pol558938",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol558938",
         "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol16021491",
-        "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol16021491",
-        "to": "aca806867_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -131261,18 +131045,6 @@
         "properties": {}
       },
       {
-        "from": "pol19741999",
-        "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol803211",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol19912125",
         "to": "aca3340042_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -131291,20 +131063,8 @@
         "properties": {}
       },
       {
-        "from": "pol12964544",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol1462765",
         "to": "aca3234339_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol13365812",
-        "to": "aca13002548_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -131328,12 +131088,6 @@
       },
       {
         "from": "pol1465094",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol1465094",
         "to": "aca32687_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -131347,18 +131101,6 @@
       {
         "from": "pol1465094",
         "to": "aca2440174_004",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol7503705",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19857341",
-        "to": "aca13002548_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -131377,12 +131119,6 @@
       {
         "from": "pol3692861",
         "to": "aca3692861_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3692861",
-        "to": "aca436788_005",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -131412,12 +131148,6 @@
       },
       {
         "from": "pol3634774",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3634774",
         "to": "aca11441242_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
@@ -131425,12 +131155,6 @@
       {
         "from": "pol3700868",
         "to": "aca1465089_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3700868",
-        "to": "aca436788_005",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -131495,12 +131219,6 @@
         "properties": {}
       },
       {
-        "from": "pol3699248",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol15817082",
         "to": "aca3719093_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -131509,12 +131227,6 @@
       {
         "from": "pol15817082",
         "to": "aca15817082_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15817082",
-        "to": "aca436788_005",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -131569,12 +131281,6 @@
       {
         "from": "pol3697466",
         "to": "aca7551160_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol53087",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -131675,20 +131381,8 @@
         "properties": {}
       },
       {
-        "from": "pol17593208",
-        "to": "aca13002548_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol19492434",
         "to": "aca436788_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19492434",
-        "to": "aca13002548_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -131707,24 +131401,6 @@
       {
         "from": "pol13831263",
         "to": "aca19547607_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol13831263",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19579742",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol16721828",
-        "to": "aca806867_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -131874,25 +131550,7 @@
       },
       {
         "from": "pol1463387",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol1463387",
         "to": "aca11441242_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19412950",
-        "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19412950",
-        "to": "aca436788_005",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -131928,19 +131586,7 @@
       },
       {
         "from": "pol3700596",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3700596",
         "to": "aca11441242_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19861542",
-        "to": "aca13002548_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -131976,31 +131622,13 @@
       },
       {
         "from": "pol19431162",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19431162",
         "to": "aca436788_007",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol16602",
-        "to": "aca16602_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
       {
         "from": "pol62117",
         "to": "aca62117_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol62117",
-        "to": "aca436788_005",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -132101,18 +131729,6 @@
         "properties": {}
       },
       {
-        "from": "pol42320",
-        "to": "aca3161938_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol49209",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol55279",
         "to": "aca808289_002",
         "type": "HAS_ACADEMIC_TITLE",
@@ -132155,12 +131771,6 @@
         "properties": {}
       },
       {
-        "from": "pol13024",
-        "to": "aca3156606_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol43380",
         "to": "aca43380_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -132185,20 +131795,8 @@
         "properties": {}
       },
       {
-        "from": "pol1271",
-        "to": "aca3161938_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol13585",
         "to": "aca46636_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol66633",
-        "to": "aca19856286_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -132217,12 +131815,6 @@
       {
         "from": "pol65045",
         "to": "aca3268492_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol66516",
-        "to": "aca3156606_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -132311,30 +131903,6 @@
         "properties": {}
       },
       {
-        "from": "pol13018",
-        "to": "aca3161938_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol46742",
-        "to": "aca3161938_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15540946",
-        "to": "aca13002548_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15556845",
-        "to": "aca436788_005",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol3691294",
         "to": "aca3691294_001",
         "type": "HAS_ACADEMIC_TITLE",
@@ -132349,12 +131917,6 @@
       {
         "from": "pol19695921",
         "to": "aca3719093_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol19695921",
-        "to": "aca19856286_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -132379,12 +131941,6 @@
       {
         "from": "pol19703379",
         "to": "aca19547607_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol8349",
-        "to": "aca3161938_002",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -132521,12 +132077,6 @@
         "properties": {}
       },
       {
-        "from": "pol3210169",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol15275253",
         "to": "aca436788_007",
         "type": "HAS_ACADEMIC_TITLE",
@@ -132534,19 +132084,7 @@
       },
       {
         "from": "pol15275253",
-        "to": "aca13002548_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15275253",
         "to": "aca19856286_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol13190832",
-        "to": "aca436788_005",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -132571,12 +132109,6 @@
       {
         "from": "pol19790571",
         "to": "aca19547607_002",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol3172362",
-        "to": "aca15254839_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -132647,20 +132179,8 @@
         "properties": {}
       },
       {
-        "from": "pol15279080",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
         "from": "pol15273063",
         "to": "aca3373734_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15273063",
-        "to": "aca19856286_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
@@ -132673,18 +132193,6 @@
       {
         "from": "pol1464779",
         "to": "aca1749503_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol1464779",
-        "to": "aca806867_001",
-        "type": "HAS_ACADEMIC_TITLE",
-        "properties": {}
-      },
-      {
-        "from": "pol15273040",
-        "to": "aca19856286_001",
         "type": "HAS_ACADEMIC_TITLE",
         "properties": {}
       },
