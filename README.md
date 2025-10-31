@@ -349,6 +349,8 @@ Dự án này được phân phối dưới MIT License.
 ## 👥 Tác giả
 
 - **datmieu204** - [GitHub](https://github.com/datmieu204)
+- **HungIsWorking** - [GitHub](https://github.com/HungIsWorking)
+- **chocoyeni** - [GitHub](https://github.com/chocoyeni)
 
 ## 📧 Liên hệ
 
