@@ -30,7 +30,7 @@ class Settings():
     INPUT_BATTLES_NORMALIZED_FILE = OUTPUT_EDUCATION_NORMALIZED_FILE
     OUTPUT_BATTLES_NORMALIZED_FILE = OUTPUT_DIR + "/processed/infobox/politicians_data_battles_normalized.json"
     INPUT_FINAL_POLITICIAN_FILE = OUTPUT_BATTLES_NORMALIZED_FILE
-    OUTPUT_FINAL_POLITICIAN_FILE = OUTPUT_DIR + "/processed/infobox/politicians_data_final.json"
+    OUTPUT_FINAL_POLITICIAN_FILE = OUTPUT_DIR + "/processed/infobox/politicians_data_normalized.json"
 
     # Graph settings
     INPUT_GRAPH_POLITICIAN_FILE = OUTPUT_FINAL_POLITICIAN_FILE
