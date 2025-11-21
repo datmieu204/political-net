@@ -99,7 +99,7 @@ if __name__ == "__main__":
     
     if result:
         # Save to file for easier viewing
-        output_file = "xml_output.txt"
+        output_file = ".\data\mess\xml_output.txt"
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(f"Title: {target_title}\n")
             f.write("="*80 + "\n\n")
