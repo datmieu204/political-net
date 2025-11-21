@@ -32,6 +32,10 @@ class Settings():
     INPUT_FINAL_POLITICIAN_FILE = OUTPUT_BATTLES_NORMALIZED_FILE
     OUTPUT_FINAL_POLITICIAN_FILE = OUTPUT_DIR + "/processed/infobox/politicians_data_normalized.json"
 
+    # Expand settings (crawl summary)
+    INPUT_EXPAND_POLITICIAN_FILE = OUTPUT_FINAL_POLITICIAN_FILE
+    OUTPUT_EXPAND_POLITICIAN_FILE = OUTPUT_DIR + "/processed/expand/politicians_data_normalized.json"
+
     # Graph settings
     INPUT_GRAPH_POLITICIAN_FILE = OUTPUT_FINAL_POLITICIAN_FILE
     OUTPUT_CYPHER_FILE = OUTPUT_DIR + "/processed/graph/neo4j_import.cypher"
