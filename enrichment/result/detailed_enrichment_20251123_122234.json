@@ -1,0 +1,64 @@
+{
+  "timestamp": "20251123_122234",
+  "statistics": {
+    "processed": 1,
+    "positions_added": 1,
+    "locations_added": 0,
+    "alma_mater_added": 0,
+    "military_careers_added": 0,
+    "military_ranks_added": 0,
+    "awards_added": 0,
+    "campaigns_added": 0,
+    "academic_titles_added": 0,
+    "edges_added": 4,
+    "errors": 0
+  },
+  "detailed_data": {
+    "positions": [
+      {
+        "id": "pos19498354_002",
+        "name": "Bí thư Ban Cán sự Đảng Kiểm toán Nhà nước",
+        "politician_id": "pol19498354",
+        "politician_name": "Ngô Văn Tuấn",
+        "organization": ""
+      }
+    ],
+    "locations": [],
+    "alma_mater": [],
+    "military_careers": [],
+    "military_ranks": [],
+    "awards": [],
+    "campaigns": [],
+    "academic_titles": [],
+    "edges": [
+      {
+        "type": "SERVED_AS",
+        "from": "pol19498354",
+        "to": "pos3696712_003",
+        "properties": {}
+      },
+      {
+        "type": "SERVED_AS",
+        "from": "pol19498354",
+        "to": "pos19498354_002",
+        "properties": {}
+      },
+      {
+        "type": "SERVED_AS",
+        "from": "pol19498354",
+        "to": "pos19498354_001",
+        "properties": {}
+      },
+      {
+        "type": "SERVED_AS",
+        "from": "pol19498354",
+        "to": "pos19498354_006",
+        "properties": {
+          "term_start": "2020",
+          "source": "llm_enrichment",
+          "type": "SERVED_AS"
+        }
+      }
+    ]
+  }
+}
