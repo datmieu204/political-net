@@ -42,9 +42,9 @@ class Settings():
     OUTPUT_GRAPH_FILE = OUTPUT_DIR + "/processed/graph/knowledge_graph.json"
 
     # Neo4j settings
-    NEO4J_URI = "bolt://localhost:7687"
+    NEO4J_URI = "neo4j://127.0.0.1:7687"
     NEO4J_USER = "neo4j"
     NEO4J_PASSWORD = "12345678"
-    NEO4J_DATABASE = "neo4j"
+    NEO4J_DATABASE = "mxh"
 
 settings = Settings()
