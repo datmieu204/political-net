@@ -14,11 +14,10 @@ load_dotenv()
 
 from utils.config import settings
 from utils._logger import get_logger
+from utils.api_key_rotator import get_api_key_rotator
+
 logger = get_logger("enrichment.enrich_neo4j", log_file="logs/enrichment/enrich_neo4j.log")
 
-genai.configure(api_key=os.environ.get("GOOGLE_API_KEY"))
-
-# ENRICHMENT_SCHEMA = 
 with open('enrichment/schema.json', 'r', encoding='utf-8') as f:
     ENRICHMENT_SCHEMA = json.load(f)
 
@@ -26,6 +25,9 @@ with open('enrichment/schema.json', 'r', encoding='utf-8') as f:
 class Neo4jEnrichment:
     
     def __init__(self):
+        self.api_rotator = get_api_key_rotator()
+        logger.info(f"Using API key: {self.api_rotator.get_current_key_name()}")
+        
         self.driver = GraphDatabase.driver(
             settings.NEO4J_URI,
             auth=(settings.NEO4J_USER, settings.NEO4J_PASSWORD)
@@ -150,7 +152,6 @@ Bạn là chuyên gia phân tích tiểu sử chính trị gia. Hãy trích xu�
             response = self.model.generate_content(prompt)
             self.last_request_time = time.time()
             
-            # Parse JSON response
             try:
                 result = json.loads(response.text)
             except json.JSONDecodeError as json_err:
@@ -171,10 +172,40 @@ Bạn là chuyên gia phân tích tiểu sử chính trị gia. Hãy trích xu�
             return result
             
         except Exception as e:
-            logger.error(f"Error extracting summary for {politician_name}: {e}")
-            print(f"Error extracting summary for {politician_name}: {e}")
-            self.stats["errors"] += 1
-            return None
+            error_str = str(e).lower()
+            
+            if any(err in error_str for err in ["quota", "rate limit", "429", "resource_exhausted", "too many requests"]):
+                logger.warning(f"Quota error detected for {politician_name}: {e}")
+                
+                if self.api_rotator.handle_api_error(e):
+                    self.model = genai.GenerativeModel(
+                        model_name="gemini-2.5-flash-lite",
+                        generation_config={
+                            "response_mime_type": "application/json",
+                            "response_schema": ENRICHMENT_SCHEMA,
+                            "temperature": 0.1
+                        }
+                    )
+                    logger.info(f"Retrying with new key: {self.api_rotator.get_current_key_name()}")
+                    
+                    time.sleep(2)
+                    try:
+                        response = self.model.generate_content(prompt)
+                        result = json.loads(response.text)
+                        logger.info(f"Successfully extracted data for {politician_name} with rotated key")
+                        return result
+                    except Exception as retry_error:
+                        logger.error(f"Retry failed for {politician_name}: {retry_error}")
+                        self.stats["errors"] += 1
+                        return None
+                else:
+                    logger.error(f"All API keys exhausted!")
+                    self.stats["errors"] += 1
+                    return None
+            else:
+                logger.error(f"Error extracting summary for {politician_name}: {e}")
+                self.stats["errors"] += 1
+                return None
     
     def check_node_exists(self, session, label: str, name: str = None, node_id: str = None) -> str:
         if node_id:
