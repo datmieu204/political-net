@@ -1,0 +1,117 @@
+{
+    "type": "OBJECT",
+    "properties": {
+        "positions": {
+            "type": "ARRAY",
+            "description": "Các chức vụ được nhắc đến trong văn bản",
+            "items": {
+                "type": "OBJECT",
+                "properties": {
+                    "name": {"type": "STRING", "description": "Tên chức vụ đầy đủ"},
+                    "organization": {"type": "STRING", "description": "Tổ chức/cơ quan (nếu có)"},
+                    "term_start": {"type": "STRING", "description": "Năm bắt đầu (format: YYYY hoặc YYYY-MM-DD)"},
+                    "term_end": {"type": "STRING", "description": "Năm kết thúc hoặc 'nay'"},
+                    "status": {"type": "STRING", "description": "bị cách chức/miễn nhiệm/bãi bỏ/thôi việc/từ chức/nghỉ việc"},
+                    "reason": {"type": "STRING", "description": "Lý do (nếu có kỷ luật, miễn nhiệm, bị cách chức, bãi bỏ, thôi việc, từ chức, nghỉ việc)"}
+                },
+                "required": ["name"]
+            }
+        },
+        "locations": {
+            "type": "ARRAY",
+            "description": "Các địa danh được nhắc đến (nơi sinh, nơi mất, quê quán)",
+            "items": {
+                "type": "OBJECT",
+                "properties": {
+                    "name": {"type": "STRING"},
+                    "relation": {"type": "STRING", "description": "BORN_AT/DIED_AT"}
+                },
+                "required": ["name"]
+            }
+        },
+        "alma_mater": {
+            "type": "ARRAY",
+            "description": "Trường học, học viện nơi chính trị gia theo học",
+            "items": {
+                "type": "OBJECT",
+                "properties": {
+                    "name": {"type": "STRING", "description": "Tên trường/học viện"}
+                },
+                "required": ["name"]
+            }
+        },
+        "military_careers": {
+            "type": "ARRAY",
+            "description": "Sự nghiệp quân đội/công an và đơn vị phục vụ",
+            "items": {
+                "type": "OBJECT",
+                "properties": {
+                    "name": {"type": "STRING", "description": "Tên đơn vị quân đội/công an"},
+                    "year_start": {"type": "STRING", "description": "Năm bắt đầu phục vụ"},
+                    "year_end": {"type": "STRING", "description": "Năm kết thúc phục vụ"}
+                },
+                "required": ["name"]
+            }
+        },
+        "military_ranks": {
+            "type": "ARRAY",
+            "description": "Cấp bậc trong quân đội/công an",
+            "items": {
+                "type": "OBJECT",
+                "properties": {
+                    "name": {"type": "STRING", "description": "Tên cấp bậc (VD: Đại tướng, Thượng tướng, Trung tướng...)"}
+                },
+                "required": ["name"]
+            }
+        },
+        "awards": {
+            "type": "ARRAY",
+            "description": "Các huân chương, giải thưởng, danh hiệu",
+            "items": {
+                "type": "OBJECT",
+                "properties": {
+                    "name": {"type": "STRING"},
+                    "year": {"type": "STRING", "description": "Năm nhận (nếu có)"}
+                },
+                "required": ["name"]
+            }
+        },
+        "campaigns": {
+            "type": "ARRAY",
+            "description": "Các chiến dịch quân sự đã tham chiến",
+            "items": {
+                "type": "OBJECT",
+                "properties": {
+                    "name": {"type": "STRING", "description": "Tên chiến dịch"},
+                    "year": {"type": "STRING", "description": "Năm diễn ra"}
+                },
+                "required": ["name"]
+            }
+        },
+        "academic_titles": {
+            "type": "ARRAY",
+            "description": "Học hàm hoặc học vị của chính trị gia",
+            "items": {
+                "type": "OBJECT",
+                "properties": {
+                    "name": {"type": "STRING", "description": "Tên học hàm/học vị (VD: Tiến sĩ, Phó giáo sư, Giáo sư...)"}
+                },
+                "required": ["name"]
+            }
+        },
+        "succession_relations": {
+            "type": "ARRAY",
+            "description": "Quan hệ kế nhiệm/tiền nhiệm với chính trị gia khác",
+            "items": {
+                "type": "OBJECT",
+                "properties": {
+                    "person_name": {"type": "STRING", "description": "Tên người có quan hệ"},
+                    "relation_type": {"type": "STRING", "description": "SUCCEEDED/PRECEDED"},
+                    "position": {"type": "STRING", "description": "Chức vụ liên quan"},
+                    "context": {"type": "STRING", "description": "Ngữ cảnh quan hệ"}
+                },
+                "required": ["person_name", "relation_type"]
+            }
+        }
+    }
+}
