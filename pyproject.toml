@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "beautifulsoup4>=4.14.2",
+    "google-generativeai>=0.8.5",
     "jupyter>=1.1.1",
     "lxml>=6.0.2",
     "matplotlib>=3.10.6",
@@ -14,7 +15,11 @@ dependencies = [
     "neo4j>=6.0.2",
     "networkx>=3.5",
     "pandas>=2.3.3",
+    "pydantic>=2.12.3",
     "pydantic-settings>=2.11.0",
     "requests>=2.32.5",
+    "torch>=2.9.1",
+    "transformers>=4.57.1",
+    "underthesea>=8.3.0",
     "wikitextparser>=0.56.4",
 ]
