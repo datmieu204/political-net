@@ -1,10 +1,12 @@
+# analysis/small_world.py
+
 import networkx as nx
 import numpy as np
 import json
 from tqdm import tqdm
 import random
 
-with open('data/processed/graph/knowledge_graph.json', 'r', encoding='utf-8') as f:
+with open('data/processed/graph/knowledge_graph_enriched.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 G = nx.Graph()
