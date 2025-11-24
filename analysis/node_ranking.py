@@ -16,7 +16,7 @@ class GraphRankingAnalyzer:
         self.node_info = node_info or {}
     
     def load_graph(self, source: str, **kwargs):
-        loader = GraphLoader(use_neo4j=(source == "json"))
+        loader = GraphLoader(use_neo4j=(source == "neo4j"))
         
         try:
             if source == "neo4j":
@@ -206,7 +206,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--source", "-s",
         type=str,
-        default="neo4j",
+        default="data/processed/graph/knowledge_graph_enriched.json",
     )
     parser.add_argument(
         "--output", "-o",
