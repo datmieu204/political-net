@@ -85,7 +85,7 @@ if sigma > 1:
 else:
     status = "KHÔNG PHẢI SMALL-WORLD"
 
-with open('data/processed/analysis/small_world_results.txt', 'w', encoding='utf-8') as f:  
+with open('analysis/results/small_world_results.txt', 'w', encoding='utf-8') as f:  
     f.write("NETWORK STATISTICS\n")
     f.write(f"Number of nodes (N) = {N}\n")
     f.write(f"Number of edges (M) = {M}\n")
