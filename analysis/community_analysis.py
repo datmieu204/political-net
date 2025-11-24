@@ -81,7 +81,7 @@ class PoliticalCommunityAnalyzer:
         
         return partition
     
-    def _merge_small_communities(self, min_size=100):
+    def _merge_small_communities(self, min_size=10):
         while True:
             small_comm = min((c for c, m in self.communities.items() if len(m) < min_size),
                            key=lambda c: len(self.communities[c]), default=None)
