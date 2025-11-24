@@ -1,0 +1,1560 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-24T22:12:54.484272",
+    "total_nodes": 6223,
+    "total_edges": 16807,
+    "algorithms": [
+      "PageRank",
+      "HITS",
+      "Betweenness",
+      "Degree",
+      "Closeness"
+    ]
+  },
+  "rankings": {
+    "pagerank": {
+      "description": "PageRank - Xếp hạng dựa trên cấu trúc liên kết",
+      "top_20_all": [
+        {
+          "node_id": "mil436788_001",
+          "score": 0.003065084573616009,
+          "name": "Công an nhân dân Việt Nam",
+          "type": "MilitaryCareer"
+        },
+        {
+          "node_id": "loc3698506_001",
+          "score": 0.002729217592337398,
+          "name": "Hà Nội",
+          "type": "Location"
+        },
+        {
+          "node_id": "mil3161938_001",
+          "score": 0.0017556130467793441,
+          "name": "Quân đội nhân dân Việt Nam",
+          "type": "MilitaryCareer"
+        },
+        {
+          "node_id": "mil18603364_001",
+          "score": 0.0017458739354314701,
+          "name": "Thiếu tướng",
+          "type": "MilitaryRank"
+        },
+        {
+          "node_id": "mil13191158_001",
+          "score": 0.001568995174659339,
+          "name": "Trung tướng",
+          "type": "MilitaryRank"
+        },
+        {
+          "node_id": "pos1464738_001",
+          "score": 0.0014826754109668306,
+          "name": "Phó Bí thư Tỉnh ủy",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos475335_011",
+          "score": 0.0011167716256846262,
+          "name": "Chủ tịch Ủy ban nhân dân tỉnh",
+          "type": "Position"
+        },
+        {
+          "node_id": "aca436788_007",
+          "score": 0.0010633940274554984,
+          "name": "Tiến sĩ",
+          "type": "AcademicTitle"
+        },
+        {
+          "node_id": "pos3696712_003",
+          "score": 0.0010030065224602353,
+          "name": "Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XIII",
+          "type": "Position"
+        },
+        {
+          "node_id": "aca1749503_001",
+          "score": 0.0009616953115591046,
+          "name": "Cử nhân Luật",
+          "type": "AcademicTitle"
+        },
+        {
+          "node_id": "pos24330_001",
+          "score": 0.0009587752212180286,
+          "name": "Đại biểu Quốc hội",
+          "type": "Position"
+        },
+        {
+          "node_id": "loc3169162_001",
+          "score": 0.0009435404646700882,
+          "name": "Nam Định",
+          "type": "Location"
+        },
+        {
+          "node_id": "aca19547607_002",
+          "score": 0.0009160427983767891,
+          "name": "Cao cấp lý luận chính trị",
+          "type": "AcademicTitle"
+        },
+        {
+          "node_id": "pos3698499_001",
+          "score": 0.0008681934669646811,
+          "name": "Đại biểu Quốc hội Việt Nam",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos808161_005",
+          "score": 0.000867093826178084,
+          "name": "Đại biểu Quốc hội Việt Nam khóa XIV",
+          "type": "Position"
+        },
+        {
+          "node_id": "alm19547607_002",
+          "score": 0.0008499666205602082,
+          "name": "Học viện Chính trị Quốc gia Hồ Chí Minh",
+          "type": "AlmaMater"
+        },
+        {
+          "node_id": "pos13464785_003",
+          "score": 0.0008452377465493474,
+          "name": "Đại biểu Quốc hội Việt Nam khóa XV",
+          "type": "Position"
+        },
+        {
+          "node_id": "loc1749503_001",
+          "score": 0.0007887329030569715,
+          "name": "Hồ Chí Minh",
+          "type": "Location"
+        },
+        {
+          "node_id": "pos436788_012",
+          "score": 0.0007550400193318855,
+          "name": "Bí thư Tỉnh ủy",
+          "type": "Position"
+        },
+        {
+          "node_id": "mil3156606_001",
+          "score": 0.0007367555750005881,
+          "name": "Thượng tướng",
+          "type": "MilitaryRank"
+        }
+      ],
+      "top_20_politicians": [
+        {
+          "node_id": "pol46636",
+          "score": 0.00031604131798167846,
+          "name": "Nguyễn Phú Trọng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol444902",
+          "score": 0.0003071148655505246,
+          "name": "Nguyễn Thanh Bình",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3709721",
+          "score": 0.0002674705618995728,
+          "name": "Nguyễn Tiến Hải",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol106424",
+          "score": 0.0002616768393026727,
+          "name": "Trương Tấn Sang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol459014",
+          "score": 0.00025909224055315394,
+          "name": "Nguyễn Xuân Phúc",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol248258",
+          "score": 0.0002579178343295497,
+          "name": "Võ Văn Thưởng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol46336",
+          "score": 0.00025151089311070235,
+          "name": "Võ Văn Kiệt",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol6298",
+          "score": 0.00025021269797140245,
+          "name": "Nguyễn Văn Linh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3711741",
+          "score": 0.00024954297748436055,
+          "name": "Nguyễn Văn Quang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol7569462",
+          "score": 0.00024849861302927496,
+          "name": "Đinh Hữu Cường",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol798260",
+          "score": 0.0002464624020740731,
+          "name": "Trần Lưu Quang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3350468",
+          "score": 0.0002431563251228662,
+          "name": "Nguyễn Văn Sơn",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol13470599",
+          "score": 0.00024216228294842996,
+          "name": "Nguyễn Huy Tiến",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1463209",
+          "score": 0.0002383409729569782,
+          "name": "Bùi Văn Cường",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3702842",
+          "score": 0.0002382262582327935,
+          "name": "Nguyễn Quang Dũng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol10572671",
+          "score": 0.00023778479529539676,
+          "name": "Nguyễn Chí Dũng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3700975",
+          "score": 0.00023722553237160923,
+          "name": "Nguyễn Mạnh Hùng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol13954206",
+          "score": 0.0002367972102360126,
+          "name": "Trần Đại Quang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol14378859",
+          "score": 0.00023367070776390413,
+          "name": "Tăng Ngọc Tuấn",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol14383148",
+          "score": 0.00023365429994406462,
+          "name": "Nguyễn Tiến Sơn",
+          "type": "Politician"
+        }
+      ],
+      "top_10_positions": [
+        {
+          "node_id": "pos1464738_001",
+          "score": 0.0014826754109668306,
+          "name": "Phó Bí thư Tỉnh ủy",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos475335_011",
+          "score": 0.0011167716256846262,
+          "name": "Chủ tịch Ủy ban nhân dân tỉnh",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos3696712_003",
+          "score": 0.0010030065224602353,
+          "name": "Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XIII",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos24330_001",
+          "score": 0.0009587752212180286,
+          "name": "Đại biểu Quốc hội",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos3698499_001",
+          "score": 0.0008681934669646811,
+          "name": "Đại biểu Quốc hội Việt Nam",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos808161_005",
+          "score": 0.000867093826178084,
+          "name": "Đại biểu Quốc hội Việt Nam khóa XIV",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos13464785_003",
+          "score": 0.0008452377465493474,
+          "name": "Đại biểu Quốc hội Việt Nam khóa XV",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos436788_012",
+          "score": 0.0007550400193318855,
+          "name": "Bí thư Tỉnh ủy",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos19498354_005",
+          "score": 0.0007232450149358965,
+          "name": "Ủy viên Trung ương Đảng khóa XIII",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos1735774_003",
+          "score": 0.0007037236398063166,
+          "name": "Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam",
+          "type": "Position"
+        }
+      ]
+    },
+    "hubs": {
+      "description": "HITS Hubs - Nodes có nhiều liên kết đi ra quan trọng",
+      "top_20_all": [
+        {
+          "node_id": "pol13018",
+          "score": 0.01598527069822984,
+          "name": "Lê Trọng Tấn",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol49761",
+          "score": 0.0051570555724248695,
+          "name": "Phùng Quang Thanh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol8349",
+          "score": 0.004532120412577653,
+          "name": "Hoàng Văn Thái",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol59548",
+          "score": 0.004230023190370677,
+          "name": "Nguyễn Chí Vịnh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1271",
+          "score": 0.004178650682057681,
+          "name": "Văn Tiến Dũng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol46636",
+          "score": 0.003843377350284297,
+          "name": "Nguyễn Phú Trọng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol66510",
+          "score": 0.003837371176195854,
+          "name": "Lê Hiến Mai",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol53401",
+          "score": 0.0036150780838039567,
+          "name": "Trần Quý Hai, (Bùi Chấn)",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1463021",
+          "score": 0.0036041247095080515,
+          "name": "Nguyễn Phúc Thanh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol30735",
+          "score": 0.003597336923787245,
+          "name": "Đỗ Mười",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol10656",
+          "score": 0.0035831135425140946,
+          "name": "Đinh Đức Thiện",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol49209",
+          "score": 0.003551293791906476,
+          "name": "Vương Thừa Vũ",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol41586",
+          "score": 0.003495451734101774,
+          "name": "Lê Đức Anh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol645933",
+          "score": 0.0033322366698958373,
+          "name": "Vũ Oanh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol42320",
+          "score": 0.0032582209535710733,
+          "name": "Chu Huy Mân",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol46742",
+          "score": 0.003196885288943656,
+          "name": "Đoàn Khuê",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3162342",
+          "score": 0.0031598350473429357,
+          "name": "Hà Kế Tấn",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol436788",
+          "score": 0.003153654158408583,
+          "name": "Phạm Minh Chính",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol55273",
+          "score": 0.003142942577276925,
+          "name": "Đỗ Bá Tỵ",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1334343",
+          "score": 0.00313664061224187,
+          "name": "Nguyễn Trọng Xuyên",
+          "type": "Politician"
+        }
+      ],
+      "top_20_politicians": [
+        {
+          "node_id": "pol13018",
+          "score": 0.01598527069822984,
+          "name": "Lê Trọng Tấn",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol49761",
+          "score": 0.0051570555724248695,
+          "name": "Phùng Quang Thanh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol8349",
+          "score": 0.004532120412577653,
+          "name": "Hoàng Văn Thái",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol59548",
+          "score": 0.004230023190370677,
+          "name": "Nguyễn Chí Vịnh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1271",
+          "score": 0.004178650682057681,
+          "name": "Văn Tiến Dũng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol46636",
+          "score": 0.003843377350284297,
+          "name": "Nguyễn Phú Trọng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol66510",
+          "score": 0.003837371176195854,
+          "name": "Lê Hiến Mai",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol53401",
+          "score": 0.0036150780838039567,
+          "name": "Trần Quý Hai, (Bùi Chấn)",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1463021",
+          "score": 0.0036041247095080515,
+          "name": "Nguyễn Phúc Thanh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol30735",
+          "score": 0.003597336923787245,
+          "name": "Đỗ Mười",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol10656",
+          "score": 0.0035831135425140946,
+          "name": "Đinh Đức Thiện",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol49209",
+          "score": 0.003551293791906476,
+          "name": "Vương Thừa Vũ",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol41586",
+          "score": 0.003495451734101774,
+          "name": "Lê Đức Anh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol645933",
+          "score": 0.0033322366698958373,
+          "name": "Vũ Oanh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol42320",
+          "score": 0.0032582209535710733,
+          "name": "Chu Huy Mân",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol46742",
+          "score": 0.003196885288943656,
+          "name": "Đoàn Khuê",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3162342",
+          "score": 0.0031598350473429357,
+          "name": "Hà Kế Tấn",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol436788",
+          "score": 0.003153654158408583,
+          "name": "Phạm Minh Chính",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol55273",
+          "score": 0.003142942577276925,
+          "name": "Đỗ Bá Tỵ",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1334343",
+          "score": 0.00313664061224187,
+          "name": "Nguyễn Trọng Xuyên",
+          "type": "Politician"
+        }
+      ]
+    },
+    "authorities": {
+      "description": "HITS Authorities - Nodes được nhiều hubs quan trọng trỏ đến",
+      "top_20_all": [
+        {
+          "node_id": "loc3698506_001",
+          "score": 0.024513308754171976,
+          "name": "Hà Nội",
+          "type": "Location"
+        },
+        {
+          "node_id": "mil3161938_001",
+          "score": 0.013091135296162135,
+          "name": "Quân đội nhân dân Việt Nam",
+          "type": "MilitaryCareer"
+        },
+        {
+          "node_id": "mil436788_001",
+          "score": 0.008719856759688354,
+          "name": "Công an nhân dân Việt Nam",
+          "type": "MilitaryCareer"
+        },
+        {
+          "node_id": "alm19547607_002",
+          "score": 0.006115485379406399,
+          "name": "Học viện Chính trị Quốc gia Hồ Chí Minh",
+          "type": "AlmaMater"
+        },
+        {
+          "node_id": "aca19547607_002",
+          "score": 0.005373384110994891,
+          "name": "Cao cấp lý luận chính trị",
+          "type": "AcademicTitle"
+        },
+        {
+          "node_id": "mil13191158_001",
+          "score": 0.005269390607192336,
+          "name": "Trung tướng",
+          "type": "MilitaryRank"
+        },
+        {
+          "node_id": "aca436788_007",
+          "score": 0.004771647840177217,
+          "name": "Tiến sĩ",
+          "type": "AcademicTitle"
+        },
+        {
+          "node_id": "pos13464785_003",
+          "score": 0.004732836484374428,
+          "name": "Đại biểu Quốc hội Việt Nam khóa XV",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos3696712_003",
+          "score": 0.00418744839768336,
+          "name": "Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XIII",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos19551863_001",
+          "score": 0.004033756305604023,
+          "name": "Thứ trưởng Bộ Quốc phòng",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos24330_001",
+          "score": 0.004014689927860504,
+          "name": "Đại biểu Quốc hội",
+          "type": "Position"
+        },
+        {
+          "node_id": "mil3156606_001",
+          "score": 0.0038225629794851257,
+          "name": "Thượng tướng",
+          "type": "MilitaryRank"
+        },
+        {
+          "node_id": "awa1462803_001",
+          "score": 0.0038002739548857263,
+          "name": "Huân chương Hồ Chí Minh",
+          "type": "Award"
+        },
+        {
+          "node_id": "mil18603364_001",
+          "score": 0.003766058915436053,
+          "name": "Thiếu tướng",
+          "type": "MilitaryRank"
+        },
+        {
+          "node_id": "mil3169162_001",
+          "score": 0.0035041736786303036,
+          "name": "Đại tướng",
+          "type": "MilitaryRank"
+        },
+        {
+          "node_id": "pos55271_001",
+          "score": 0.0030872338516165915,
+          "name": "Ủy viên Bộ Chính trị",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos808161_005",
+          "score": 0.003076841094060954,
+          "name": "Đại biểu Quốc hội Việt Nam khóa XIV",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos3169162_007",
+          "score": 0.0030560691427155154,
+          "name": "Phó Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam",
+          "type": "Position"
+        },
+        {
+          "node_id": "awa11474320_001",
+          "score": 0.0029625955990447653,
+          "name": "Huân chương Quân công hạng Nhất",
+          "type": "Award"
+        },
+        {
+          "node_id": "loc3169162_001",
+          "score": 0.002848211938238412,
+          "name": "Nam Định",
+          "type": "Location"
+        }
+      ],
+      "top_20_politicians": [
+        {
+          "node_id": "pol444902",
+          "score": 0.002268038890649037,
+          "name": "Nguyễn Thanh Bình",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1271",
+          "score": 0.0020866736806232794,
+          "name": "Văn Tiến Dũng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol791916",
+          "score": 0.001672712835323075,
+          "name": "Hoàng Anh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol41586",
+          "score": 0.0015491544905143874,
+          "name": "Lê Đức Anh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol99226",
+          "score": 0.0015380399244625893,
+          "name": "Lê Thanh Nghị",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol13954206",
+          "score": 0.0014939670356050425,
+          "name": "Trần Đại Quang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol798260",
+          "score": 0.0014299567989645733,
+          "name": "Trần Lưu Quang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol49761",
+          "score": 0.001340272836983303,
+          "name": "Phùng Quang Thanh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol645614",
+          "score": 0.0013211780818164177,
+          "name": "Phan Diễn",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol90538",
+          "score": 0.0012918302032908125,
+          "name": "Đàm Quang Trung",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol106424",
+          "score": 0.0012770168009369797,
+          "name": "Trương Tấn Sang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1463021",
+          "score": 0.0012752882139537914,
+          "name": "Nguyễn Phúc Thanh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol109020",
+          "score": 0.001272010723634517,
+          "name": "Phạm Quang Nghị",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3307080",
+          "score": 0.0012705772466372865,
+          "name": "Lâm Thị Phương Thanh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol477120",
+          "score": 0.0012515593486475747,
+          "name": "Trần Đình Hoan",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol22501",
+          "score": 0.001197371791139869,
+          "name": "Nguyễn Văn An",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3169162",
+          "score": 0.0011800118054182897,
+          "name": "Phan Văn Giang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol11474320",
+          "score": 0.0011667870285456288,
+          "name": "Lương Tam Quang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol185443",
+          "score": 0.0011638706946493454,
+          "name": "Nguyễn Khang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol12840108",
+          "score": 0.0011218668794853543,
+          "name": "Nguyễn Anh Tuấn",
+          "type": "Politician"
+        }
+      ]
+    },
+    "betweenness": {
+      "description": "Betweenness Centrality - Nodes nằm trên nhiều đường đi ngắn nhất",
+      "top_20_all": [
+        {
+          "node_id": "pol13018",
+          "score": 0.03125752537657411,
+          "name": "Lê Trọng Tấn",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol41586",
+          "score": 0.025440774796193905,
+          "name": "Lê Đức Anh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3161938",
+          "score": 0.016572927066587046,
+          "name": "Lương Cường",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol248258",
+          "score": 0.009992961627249684,
+          "name": "Võ Văn Thưởng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol436788",
+          "score": 0.009893909864989536,
+          "name": "Phạm Minh Chính",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol475335",
+          "score": 0.009847539185015554,
+          "name": "Vũ Đức Đam",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol808289",
+          "score": 0.009012087904167704,
+          "name": "Tô Lâm",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol6298",
+          "score": 0.008052353549857312,
+          "name": "Nguyễn Văn Linh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol798260",
+          "score": 0.007021964878011849,
+          "name": "Trần Lưu Quang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol459014",
+          "score": 0.006938786154833269,
+          "name": "Nguyễn Xuân Phúc",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3340042",
+          "score": 0.006601574747484737,
+          "name": "Phan Văn Mãi",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol841947",
+          "score": 0.006544476406625442,
+          "name": "Trương Thị Mai",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol46336",
+          "score": 0.006502971112960879,
+          "name": "Võ Văn Kiệt",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol46636",
+          "score": 0.0056710969014208,
+          "name": "Nguyễn Phú Trọng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1463209",
+          "score": 0.005161209131996306,
+          "name": "Bùi Văn Cường",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol2425798",
+          "score": 0.0050142052479887995,
+          "name": "Trương Quang Nghĩa",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1271",
+          "score": 0.004928875013982606,
+          "name": "Văn Tiến Dũng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol622249",
+          "score": 0.004835269754625434,
+          "name": "Trần Cẩm Tú",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol65893",
+          "score": 0.004328972809834341,
+          "name": "Nguyễn Thiện Nhân",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol660401",
+          "score": 0.004214569853809962,
+          "name": "Nguyễn Đắc Vinh",
+          "type": "Politician"
+        }
+      ],
+      "top_20_politicians": [
+        {
+          "node_id": "pol13018",
+          "score": 0.03125752537657411,
+          "name": "Lê Trọng Tấn",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol41586",
+          "score": 0.025440774796193905,
+          "name": "Lê Đức Anh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3161938",
+          "score": 0.016572927066587046,
+          "name": "Lương Cường",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol248258",
+          "score": 0.009992961627249684,
+          "name": "Võ Văn Thưởng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol436788",
+          "score": 0.009893909864989536,
+          "name": "Phạm Minh Chính",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol475335",
+          "score": 0.009847539185015554,
+          "name": "Vũ Đức Đam",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol808289",
+          "score": 0.009012087904167704,
+          "name": "Tô Lâm",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol6298",
+          "score": 0.008052353549857312,
+          "name": "Nguyễn Văn Linh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol798260",
+          "score": 0.007021964878011849,
+          "name": "Trần Lưu Quang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol459014",
+          "score": 0.006938786154833269,
+          "name": "Nguyễn Xuân Phúc",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3340042",
+          "score": 0.006601574747484737,
+          "name": "Phan Văn Mãi",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol841947",
+          "score": 0.006544476406625442,
+          "name": "Trương Thị Mai",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol46336",
+          "score": 0.006502971112960879,
+          "name": "Võ Văn Kiệt",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol46636",
+          "score": 0.0056710969014208,
+          "name": "Nguyễn Phú Trọng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1463209",
+          "score": 0.005161209131996306,
+          "name": "Bùi Văn Cường",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol2425798",
+          "score": 0.0050142052479887995,
+          "name": "Trương Quang Nghĩa",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1271",
+          "score": 0.004928875013982606,
+          "name": "Văn Tiến Dũng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol622249",
+          "score": 0.004835269754625434,
+          "name": "Trần Cẩm Tú",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol65893",
+          "score": 0.004328972809834341,
+          "name": "Nguyễn Thiện Nhân",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol660401",
+          "score": 0.004214569853809962,
+          "name": "Nguyễn Đắc Vinh",
+          "type": "Politician"
+        }
+      ]
+    },
+    "degree": {
+      "description": "Degree Centrality - Số lượng kết nối",
+      "top_20_total": [
+        {
+          "node_id": "pol13018",
+          "score": 275,
+          "name": "Lê Trọng Tấn",
+          "type": "Politician"
+        },
+        {
+          "node_id": "loc3698506_001",
+          "score": 226,
+          "name": "Hà Nội",
+          "type": "Location"
+        },
+        {
+          "node_id": "mil436788_001",
+          "score": 185,
+          "name": "Công an nhân dân Việt Nam",
+          "type": "MilitaryCareer"
+        },
+        {
+          "node_id": "mil3161938_001",
+          "score": 146,
+          "name": "Quân đội nhân dân Việt Nam",
+          "type": "MilitaryCareer"
+        },
+        {
+          "node_id": "alm19547607_002",
+          "score": 101,
+          "name": "Học viện Chính trị Quốc gia Hồ Chí Minh",
+          "type": "AlmaMater"
+        },
+        {
+          "node_id": "pos1464738_001",
+          "score": 99,
+          "name": "Phó Bí thư Tỉnh ủy",
+          "type": "Position"
+        },
+        {
+          "node_id": "aca19547607_002",
+          "score": 98,
+          "name": "Cao cấp lý luận chính trị",
+          "type": "AcademicTitle"
+        },
+        {
+          "node_id": "mil13191158_001",
+          "score": 95,
+          "name": "Trung tướng",
+          "type": "MilitaryRank"
+        },
+        {
+          "node_id": "pos3696712_003",
+          "score": 94,
+          "name": "Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XIII",
+          "type": "Position"
+        },
+        {
+          "node_id": "mil18603364_001",
+          "score": 92,
+          "name": "Thiếu tướng",
+          "type": "MilitaryRank"
+        },
+        {
+          "node_id": "pos13464785_003",
+          "score": 85,
+          "name": "Đại biểu Quốc hội Việt Nam khóa XV",
+          "type": "Position"
+        },
+        {
+          "node_id": "aca436788_007",
+          "score": 79,
+          "name": "Tiến sĩ",
+          "type": "AcademicTitle"
+        },
+        {
+          "node_id": "pos808161_005",
+          "score": 77,
+          "name": "Đại biểu Quốc hội Việt Nam khóa XIV",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos24330_001",
+          "score": 77,
+          "name": "Đại biểu Quốc hội",
+          "type": "Position"
+        },
+        {
+          "node_id": "pol8349",
+          "score": 74,
+          "name": "Hoàng Văn Thái",
+          "type": "Politician"
+        },
+        {
+          "node_id": "aca1749503_001",
+          "score": 74,
+          "name": "Cử nhân Luật",
+          "type": "AcademicTitle"
+        },
+        {
+          "node_id": "pos475335_011",
+          "score": 72,
+          "name": "Chủ tịch Ủy ban nhân dân tỉnh",
+          "type": "Position"
+        },
+        {
+          "node_id": "loc3169162_001",
+          "score": 65,
+          "name": "Nam Định",
+          "type": "Location"
+        },
+        {
+          "node_id": "pos19498354_005",
+          "score": 64,
+          "name": "Ủy viên Trung ương Đảng khóa XIII",
+          "type": "Position"
+        },
+        {
+          "node_id": "pol436788",
+          "score": 62,
+          "name": "Phạm Minh Chính",
+          "type": "Politician"
+        }
+      ],
+      "top_20_in_degree": [
+        {
+          "node_id": "loc3698506_001",
+          "score": 226,
+          "name": "Hà Nội",
+          "type": "Location"
+        },
+        {
+          "node_id": "mil436788_001",
+          "score": 185,
+          "name": "Công an nhân dân Việt Nam",
+          "type": "MilitaryCareer"
+        },
+        {
+          "node_id": "mil3161938_001",
+          "score": 146,
+          "name": "Quân đội nhân dân Việt Nam",
+          "type": "MilitaryCareer"
+        },
+        {
+          "node_id": "alm19547607_002",
+          "score": 101,
+          "name": "Học viện Chính trị Quốc gia Hồ Chí Minh",
+          "type": "AlmaMater"
+        },
+        {
+          "node_id": "pos1464738_001",
+          "score": 99,
+          "name": "Phó Bí thư Tỉnh ủy",
+          "type": "Position"
+        },
+        {
+          "node_id": "aca19547607_002",
+          "score": 98,
+          "name": "Cao cấp lý luận chính trị",
+          "type": "AcademicTitle"
+        },
+        {
+          "node_id": "mil13191158_001",
+          "score": 95,
+          "name": "Trung tướng",
+          "type": "MilitaryRank"
+        },
+        {
+          "node_id": "pos3696712_003",
+          "score": 94,
+          "name": "Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XIII",
+          "type": "Position"
+        },
+        {
+          "node_id": "mil18603364_001",
+          "score": 92,
+          "name": "Thiếu tướng",
+          "type": "MilitaryRank"
+        },
+        {
+          "node_id": "pos13464785_003",
+          "score": 85,
+          "name": "Đại biểu Quốc hội Việt Nam khóa XV",
+          "type": "Position"
+        },
+        {
+          "node_id": "aca436788_007",
+          "score": 79,
+          "name": "Tiến sĩ",
+          "type": "AcademicTitle"
+        },
+        {
+          "node_id": "pos808161_005",
+          "score": 77,
+          "name": "Đại biểu Quốc hội Việt Nam khóa XIV",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos24330_001",
+          "score": 77,
+          "name": "Đại biểu Quốc hội",
+          "type": "Position"
+        },
+        {
+          "node_id": "aca1749503_001",
+          "score": 74,
+          "name": "Cử nhân Luật",
+          "type": "AcademicTitle"
+        },
+        {
+          "node_id": "pos475335_011",
+          "score": 72,
+          "name": "Chủ tịch Ủy ban nhân dân tỉnh",
+          "type": "Position"
+        },
+        {
+          "node_id": "loc3169162_001",
+          "score": 65,
+          "name": "Nam Định",
+          "type": "Location"
+        },
+        {
+          "node_id": "pos19498354_005",
+          "score": 64,
+          "name": "Ủy viên Trung ương Đảng khóa XIII",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos3698499_001",
+          "score": 62,
+          "name": "Đại biểu Quốc hội Việt Nam",
+          "type": "Position"
+        },
+        {
+          "node_id": "pos436788_012",
+          "score": 57,
+          "name": "Bí thư Tỉnh ủy",
+          "type": "Position"
+        },
+        {
+          "node_id": "loc1749503_001",
+          "score": 54,
+          "name": "Hồ Chí Minh",
+          "type": "Location"
+        }
+      ],
+      "top_20_out_degree": [
+        {
+          "node_id": "pol13018",
+          "score": 271,
+          "name": "Lê Trọng Tấn",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol8349",
+          "score": 71,
+          "name": "Hoàng Văn Thái",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol436788",
+          "score": 49,
+          "name": "Phạm Minh Chính",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol42159",
+          "score": 49,
+          "name": "Hoàng Thế Thiện",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol49761",
+          "score": 47,
+          "name": "Phùng Quang Thanh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol248258",
+          "score": 46,
+          "name": "Võ Văn Thưởng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol46740",
+          "score": 43,
+          "name": "Phạm Văn Trà",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3161938",
+          "score": 36,
+          "name": "Lương Cường",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol841947",
+          "score": 36,
+          "name": "Trương Thị Mai",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol30735",
+          "score": 36,
+          "name": "Đỗ Mười",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3171725",
+          "score": 36,
+          "name": "Trần Văn Hiển",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol867",
+          "score": 36,
+          "name": "Võ Nguyên Giáp",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol798260",
+          "score": 35,
+          "name": "Trần Lưu Quang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol806050",
+          "score": 35,
+          "name": "Nguyễn Văn Nên",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol55006",
+          "score": 35,
+          "name": "Lê Quang Đạo",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol102743",
+          "score": 35,
+          "name": "Lê Văn Dũng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol41586",
+          "score": 35,
+          "name": "Lê Đức Anh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol10656",
+          "score": 35,
+          "name": "Đinh Đức Thiện",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3354765",
+          "score": 34,
+          "name": "Trần Quốc Vượng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol106424",
+          "score": 34,
+          "name": "Trương Tấn Sang",
+          "type": "Politician"
+        }
+      ]
+    },
+    "closeness": {
+      "description": "Closeness Centrality - Khoảng cách trung bình đến các nodes khác",
+      "top_20_all": [
+        {
+          "node_id": "pol436788",
+          "score": 0.21811344406142275,
+          "name": "Phạm Minh Chính",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol459014",
+          "score": 0.21488113615313367,
+          "name": "Nguyễn Xuân Phúc",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol46636",
+          "score": 0.21395634798647403,
+          "name": "Nguyễn Phú Trọng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol248258",
+          "score": 0.21330064357952805,
+          "name": "Võ Văn Thưởng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol798260",
+          "score": 0.2100181050090525,
+          "name": "Trần Lưu Quang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol109020",
+          "score": 0.20488666470415073,
+          "name": "Phạm Quang Nghị",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol475335",
+          "score": 0.20410557184750733,
+          "name": "Vũ Đức Đam",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1464924",
+          "score": 0.198913975421549,
+          "name": "Tất Thành Cang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol808289",
+          "score": 0.19851682829435255,
+          "name": "Tô Lâm",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol46336",
+          "score": 0.1954507160909857,
+          "name": "Võ Văn Kiệt",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol579243",
+          "score": 0.19473978735310576,
+          "name": "Đào Ngọc Dung",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol65893",
+          "score": 0.19457646072127482,
+          "name": "Nguyễn Thiện Nhân",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol660401",
+          "score": 0.19408812046848856,
+          "name": "Nguyễn Đắc Vinh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol841947",
+          "score": 0.19194704908990623,
+          "name": "Trương Thị Mai",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol13954206",
+          "score": 0.19141914191419143,
+          "name": "Trần Đại Quang",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol3702677",
+          "score": 0.1913665108605994,
+          "name": "Phạm Viết Thanh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol318392",
+          "score": 0.19105133132034038,
+          "name": "Tô Huy Rứa",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol47134",
+          "score": 0.19063270336894,
+          "name": "Nguyễn Sinh Hùng",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol6293",
+          "score": 0.19021590598524188,
+          "name": "Nông Đức Mạnh",
+          "type": "Politician"
+        },
+        {
+          "node_id": "pol1463335",
+          "score": 0.1896457765667575,
+          "name": "Nguyễn Phước Lộc",
+          "type": "Politician"
+        }
+      ]
+    }
+  }
+}
