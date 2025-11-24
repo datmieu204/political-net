@@ -42,6 +42,10 @@ class Settings():
     OUTPUT_GRAPH_FILE = OUTPUT_DIR + "/processed/graph/knowledge_graph.json"
     OUTPUT_ENRICHED_GRAPH_FILE = OUTPUT_DIR + "/processed/graph/knowledge_graph_enriched.json"
 
+    #Analysis settings
+    OUTPUT_ANALYSIS_DIR = OUTPUT_DIR + "/processed/analysis"
+    OUTPUT_LIST_MEMBERS = OUTPUT_ANALYSIS_DIR + "/list_members"
+
     # Neo4j settings
     NEO4J_URI = "bolt://localhost:7687"
     NEO4J_USER = "neo4j"
