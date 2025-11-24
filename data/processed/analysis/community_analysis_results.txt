@@ -1,0 +1,2042 @@
+====================================================================================================
+POLITICAL COMMUNITY ANALYSIS (Louvain)
+====================================================================================================
+
+OVERVIEW
+----------------------------------------------------------------------------------------------------
+Communities: 14
+Nodes: 1332
+Edges: 44054
+Density: 0.0497
+
+====================================================================================================
+COMMUNITY #1
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 178
+Edges: 969
+Density: 0.0615
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 174 (97.75%)
+  • Đã bị khai trừ khỏi Đảng: 4 (2.25%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 86
+Top 10:
+   1. Hà Nội                                            :  12 (13.95%)
+   2. Quảng Bình                                        :   7 ( 8.14%)
+   3. Hồ Chí Minh                                       :   6 ( 6.98%)
+   4. Thanh Hóa                                         :   5 ( 5.81%)
+   5. Nam Định                                          :   5 ( 5.81%)
+   6. Long An                                           :   4 ( 4.65%)
+   7. Thái Bình                                         :   4 ( 4.65%)
+   8. Hưng Yên                                          :   3 ( 3.49%)
+   9. Hải Phòng                                         :   3 ( 3.49%)
+  10. Đà Nẵng                                           :   3 ( 3.49%)
+
+3.2. POSITION
+Total: 743
+Top 10:
+   1. Bí thư Đảng ủy                                    :  29 ( 3.90%)
+   2. Ủy viên Đảng ủy Công an Trung ương                :  14 ( 1.88%)
+   3. Cục trưởng                                        :  11 ( 1.48%)
+   4. Phó Tư lệnh                                       :  11 ( 1.48%)
+   5. Phó Chủ tịch Ủy ban nhân dân Thành phố Hồ Chí Minh:  10 ( 1.35%)
+   6. Thành ủy viên                                     :   9 ( 1.21%)
+   7. Phó Tổng cục trưởng                               :   9 ( 1.21%)
+   8. Ủy viên Ban Thường vụ Thành ủy                    :   7 ( 0.94%)
+   9. Tư lệnh                                           :   7 ( 0.94%)
+  10. Ủy viên Ban Thường vụ Thành ủy Thành phố Hồ Chí Minh:   6 ( 0.81%)
+
+3.3. AWARD
+Total: 39
+Top 10:
+   1. Anh hùng lực lượng vũ trang nhân dân              :   8 (20.51%)
+   2. Huân chương Chiến công hạng Nhất                  :   3 ( 7.69%)
+   3. Huân chương Chiến công hạng Ba                    :   3 ( 7.69%)
+   4. Huân chương Chiến sĩ vẻ vang hạng Nhất            :   2 ( 5.13%)
+   5. Huân chương Quân công hạng Ba                     :   2 ( 5.13%)
+   6. Huân chương Chiến công hạng Nhì                   :   2 ( 5.13%)
+   7. Huân chương Lao động hạng Ba                      :   1 ( 2.56%)
+   8. Huân chương Bảo vệ Tổ quốc                        :   1 ( 2.56%)
+   9. Anh hùng Lao động                                 :   1 ( 2.56%)
+  10. Huân chương Bảo vệ Tổ quốc hạng Ba                :   1 ( 2.56%)
+
+3.4. ALMAMATER
+Total: 34
+Top 10:
+   1. Học viện Chính trị Quốc gia Hồ Chí Minh           :   4 (11.76%)
+   2. Đại học An ninh nhân dân                          :   3 ( 8.82%)
+   3. Học viện Cảnh sát nhân dân                        :   3 ( 8.82%)
+   4. Trường Đại học Cảnh sát Nhân dân                  :   2 ( 5.88%)
+   5. Học viện Kỹ thuật Quân sự                         :   2 ( 5.88%)
+   6. Trường Đại học Kinh tế                            :   2 ( 5.88%)
+   7. Học viện An ninh Nhân dân                         :   2 ( 5.88%)
+   8. Trường Đại học Tài chính Kế toán                  :   1 ( 2.94%)
+   9. Đại học Harvard                                   :   1 ( 2.94%)
+  10. Học viện Tài chính                                :   1 ( 2.94%)
+
+3.5. ACADEMICTITLE
+Total: 107
+Top 10:
+   1. Tiến sĩ                                           :  18 (16.82%)
+   2. 'Tiến sĩ'                                         :   9 ( 8.41%)
+   3. Thạc sĩ Luật                                      :   7 ( 6.54%)
+   4. Cao cấp lý luận chính trị                         :   6 ( 5.61%)
+   5. Giáo sư                                           :   4 ( 3.74%)
+   6. Thạc sĩ                                           :   4 ( 3.74%)
+   7. Cử nhân Luật                                      :   4 ( 3.74%)
+   8. Phó Giáo sư                                       :   3 ( 2.80%)
+   9. Cử nhân Kinh tế                                   :   3 ( 2.80%)
+  10. Thạc sĩ Kinh tế                                   :   2 ( 1.87%)
+
+3.6. MILITARYRANK
+Total: 127
+Top 10:
+   1. Thiếu tướng                                       :  62 (48.82%)
+   2. Trung tướng                                       :  50 (39.37%)
+   3. Thiếu tướng Công an nhân dân Việt Nam             :   8 ( 6.30%)
+   4. Thượng tướng                                      :   3 ( 2.36%)
+   5. Chuẩn Đô đốc                                      :   2 ( 1.57%)
+   6. Trung tướng Công an nhân dân Việt Nam             :   1 ( 0.79%)
+   7. Phó đô đốc                                        :   1 ( 0.79%)
+
+3.7. MILITARYCAREER
+Total: 128
+Top 10:
+   1. Công an nhân dân Việt Nam                         : 104 (81.25%)
+   2. Quân đội nhân dân Việt Nam                        :  19 (14.84%)
+   3. Quân chủng Hải quân Việt Nam                      :   2 ( 1.56%)
+   4. Binh đoàn 15                                      :   1 ( 0.78%)
+   5. Tổng cục Tình báo, Quân đội nhân dân Việt Nam     :   1 ( 0.78%)
+   6. Quân chủng Hải quân                               :   1 ( 0.78%)
+
+3.8. CAMPAIGNS
+Total: 3
+Top 10:
+   1. Chiến dịch Đường 9-Khe Sanh                       :   1 (33.33%)
+   2. Chiến dịch Xuân-Hè 1972                           :   1 (33.33%)
+   3. Chiến dịch Lam Sơn 719                            :   1 (33.33%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Trung tướng, Tiến sĩ Đinh Văn Nơi
+Party: Đảng Cộng sản Việt Nam
+Birth: 1976-01-01
+Degree Centrality: 0.2768
+Connections: 49
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Trung tướng, Tiến sĩ Đinh Văn Nơi
+Party: Đảng Cộng sản Việt Nam
+Birth: 1976-01-01
+Eigenvector Centrality: 0.2236
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1922-1983 (span: 61 years)
+Average: 1960.0
+Count: 109/178
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1951-2025 (span: 74 years)
+Average: 2011.6
+Count: 421
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Trung tướng, Tiến sĩ Đinh Văn Nơi -  49 connections - Đảng Cộng sản Việt Nam
+ 2. Nguyễn Ngọc Toàn               -  47 connections - Đảng Cộng sản Việt Nam
+ 3. Lê Văn Sao                     -  45 connections - Đảng Cộng sản Việt Nam
+ 4. Mai Hoàng                      -  44 connections - Đảng Cộng sản Việt Nam
+ 5. Phan Nguyễn Như Khuê           -  39 connections - Đảng Cộng sản Việt Nam
+ 6. Phạm Ngọc Việt                 -  39 connections - Đảng Cộng sản Việt Nam
+ 7. Đồng Đại Lộc                   -  36 connections - Đảng Cộng sản Việt Nam
+ 8. Lê Hồng Nam                    -  36 connections - Đảng Cộng sản Việt Nam
+ 9. Đoàn Hùng Sơn                  -  35 connections - Đảng Cộng sản Việt Nam
+10. Trần Minh Lệ                   -  35 connections - Đảng Cộng sản Việt Nam
+
+
+====================================================================================================
+COMMUNITY #2
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 139
+Edges: 1099
+Density: 0.1146
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 135 (97.12%)
+  • Đã bị khai trừ khỏi Đảng: 3 (2.16%)
+  • Đảng Cộng sản Đông Dương: 1 (0.72%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 186
+Top 10:
+   1. Hà Nội                                            :  60 (32.26%)
+   2. Hồ Chí Minh                                       :  17 ( 9.14%)
+   3. Nam Định                                          :  13 ( 6.99%)
+   4. Nghệ An                                           :  10 ( 5.38%)
+   5. Hưng Yên                                          :   6 ( 3.23%)
+   6. Quảng Nam                                         :   6 ( 3.23%)
+   7. Bắc Ninh                                          :   6 ( 3.23%)
+   8. Hà Tĩnh                                           :   5 ( 2.69%)
+   9. Quảng Bình                                        :   5 ( 2.69%)
+  10. Bến Tre                                           :   5 ( 2.69%)
+
+3.2. POSITION
+Total: 1048
+Top 10:
+   1. Ủy viên Bộ Chính trị                              :  29 ( 2.77%)
+   2. Bí thư Trung ương Đảng                            :  18 ( 1.72%)
+   3. Thứ trưởng Bộ Công an Việt Nam                    :  10 ( 0.95%)
+   4. Thứ trưởng Bộ Công an                             :  10 ( 0.95%)
+   5. Bí thư Thành ủy Hà Nội                            :  10 ( 0.95%)
+   6. Phó Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam:  10 ( 0.95%)
+   7. Thường trực Ban Bí thư                            :   9 ( 0.86%)
+   8. Chánh Văn phòng Trung ương Đảng                   :   8 ( 0.76%)
+   9. Trưởng ban Tổ chức Trung ương                     :   8 ( 0.76%)
+  10. Chủ nhiệm Ủy ban Kiểm tra Trung ương              :   7 ( 0.67%)
+
+3.3. AWARD
+Total: 115
+Top 10:
+   1. Huân chương Hồ Chí Minh                           :   8 ( 6.96%)
+   2. Huy chương Quân kỳ Quyết thắng                    :   6 ( 5.22%)
+   3. Huân chương Sao vàng                              :   6 ( 5.22%)
+   4. Huân chương Quân công hạng Nhất                   :   5 ( 4.35%)
+   5. Huân chương Chiến sĩ vẻ vang hạng Nhất            :   5 ( 4.35%)
+   6. Huân chương Chiến sĩ vẻ vang hạng Nhì             :   5 ( 4.35%)
+   7. Huân chương Chiến sĩ vẻ vang hạng Ba              :   5 ( 4.35%)
+   8. Huân chương Kháng chiến hạng Nhất                 :   5 ( 4.35%)
+   9. Huân chương Chiến công hạng Nhì                   :   3 ( 2.61%)
+  10. Anh hùng lực lượng vũ trang nhân dân              :   3 ( 2.61%)
+
+3.4. ALMAMATER
+Total: 29
+Top 10:
+   1. Học viện Chính trị Quốc gia Hồ Chí Minh           :   6 (20.69%)
+   2. Học viện An ninh Nhân dân                         :   2 ( 6.90%)
+   3. Học viện Hành chính Quốc gia                      :   2 ( 6.90%)
+   4. Trường Đại học Kinh tế Bratislava                 :   1 ( 3.45%)
+   5. Trường Đại học Ngoại ngữ                          :   1 ( 3.45%)
+   6. Trường Đại học Tài chính-Kế toán Hà Nội           :   1 ( 3.45%)
+   7. Trường Đại học Tổng hợp Thành phố Hồ Chí Minh     :   1 ( 3.45%)
+   8. Trường Đại học Khoa học Xã hội và Nhân văn        :   1 ( 3.45%)
+   9. Trường Đại học Kinh tế Quốc dân                   :   1 ( 3.45%)
+  10. Đại học Quốc gia Singapore                        :   1 ( 3.45%)
+
+3.5. ACADEMICTITLE
+Total: 81
+Top 10:
+   1. Tiến sĩ                                           :  11 (13.58%)
+   2. Cử nhân Luật                                      :   5 ( 6.17%)
+   3. Giáo sư                                           :   5 ( 6.17%)
+   4. Phó Giáo sư                                       :   5 ( 6.17%)
+   5. Cao cấp lý luận chính trị                         :   4 ( 4.94%)
+   6. Cao cấp lí luận chính trị                         :   3 ( 3.70%)
+   7. Tiến sĩ Kinh tế                                   :   3 ( 3.70%)
+   8. Thạc sĩ                                           :   2 ( 2.47%)
+   9. Chủ tịch nước                                     :   2 ( 2.47%)
+  10. Cử nhân Kinh tế                                   :   2 ( 2.47%)
+
+3.6. MILITARYRANK
+Total: 41
+Top 10:
+   1. Thượng tướng                                      :  11 (26.83%)
+   2. Trung tướng                                       :  10 (24.39%)
+   3. Thiếu tướng                                       :   8 (19.51%)
+   4. Đại tướng                                         :   7 (17.07%)
+   5. Thiếu tướng Công an nhân dân Việt Nam             :   3 ( 7.32%)
+   6. Đại tá                                            :   1 ( 2.44%)
+   7. Trung tá                                          :   1 ( 2.44%)
+
+3.7. MILITARYCAREER
+Total: 50
+Top 10:
+   1. Công an nhân dân Việt Nam                         :  33 (66.00%)
+   2. Quân đội nhân dân Việt Nam                        :  17 (34.00%)
+
+3.8. CAMPAIGNS
+Total: 56
+Top 10:
+   1. Chiến dịch Hồ Chí Minh                            :   5 ( 8.93%)
+   2. Chiến dịch Điện Biên Phủ                          :   4 ( 7.14%)
+   3. Chiến dịch Biên giới                              :   2 ( 3.57%)
+   4. Chiến dịch Thượng Lào                             :   2 ( 3.57%)
+   5. Chiến dịch Trị Thiên                              :   2 ( 3.57%)
+   6. Chiến tranh biên giới Tây Nam                     :   2 ( 3.57%)
+   7. Chiến dịch Biên giới thu đông 1950                :   2 ( 3.57%)
+   8. Kháng chiến chống Mỹ                              :   2 ( 3.57%)
+   9. Chiến tranh Đông Dương                            :   2 ( 3.57%)
+  10. Chiến dịch Hòa Bình                               :   2 ( 3.57%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Nguyễn Duy Trinh
+Party: Đảng Cộng sản Việt Nam
+Birth: 1910-01-01
+Degree Centrality: 0.3406
+Connections: 47
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Lê Văn Lương
+Party: Đảng Cộng sản Việt Nam
+Birth: 1912-01-01
+Eigenvector Centrality: 0.2412
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1905-1988 (span: 83 years)
+Average: 1935.2
+Count: 132/139
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1941-2025 (span: 84 years)
+Average: 1986.1
+Count: 733
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Nguyễn Duy Trinh               -  47 connections - Đảng Cộng sản Việt Nam
+ 2. Võ Văn Thưởng                  -  45 connections - Đảng Cộng sản Việt Nam
+ 3. Lê Văn Lương                   -  44 connections - Đảng Cộng sản Việt Nam
+ 4. Nguyễn Thanh Bình              -  44 connections - Đảng Cộng sản Việt Nam
+ 5. Tô Huy Rứa                     -  43 connections - Đảng Cộng sản Việt Nam
+ 6. Phạm Quang Nghị                -  42 connections - Đảng Cộng sản Việt Nam
+ 7. Ngô Văn Dụ, Hai Dụ             -  42 connections - Đảng Cộng sản Việt Nam
+ 8. Trương Vĩnh Trọng, Hai Nghĩa   -  40 connections - Đảng Cộng sản Việt Nam
+ 9. Nguyễn Đình Tứ                 -  40 connections - Đảng Cộng sản Việt Nam
+10. Nguyễn Cơ Thạch, Phạm Văn Cương -  40 connections - Đảng Cộng sản Việt Nam
+
+
+====================================================================================================
+COMMUNITY #3
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 138
+Edges: 5094
+Density: 0.5389
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 135 (97.83%)
+  • Đã bị khai trừ khỏi Đảng: 2 (1.45%)
+  • Đảng viên Đảng Cộng sản Việt Nam: 1 (0.72%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 121
+Top 10:
+   1. Hà Nội                                            :  12 ( 9.92%)
+   2. Phú Thọ                                           :   9 ( 7.44%)
+   3. Ninh Bình                                         :   8 ( 6.61%)
+   4. Thừa Thiên Huế                                    :   6 ( 4.96%)
+   5. Hưng Yên                                          :   6 ( 4.96%)
+   6. Bến Tre                                           :   5 ( 4.13%)
+   7. Quảng Nam                                         :   4 ( 3.31%)
+   8. Hà Tĩnh                                           :   4 ( 3.31%)
+   9. Hải Dương                                         :   4 ( 3.31%)
+  10. Nam Định                                          :   4 ( 3.31%)
+
+3.2. POSITION
+Total: 1221
+Top 10:
+   1. Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XIII:  85 ( 6.96%)
+   2. Ủy viên Trung ương Đảng khóa XIII                 :  56 ( 4.59%)
+   3. Đại biểu Quốc hội khóa XV                         :  29 ( 2.38%)
+   4. Ủy viên Trung ương Đảng khóa XII, XIII            :  29 ( 2.38%)
+   5. Đại biểu Quốc hội khóa XIV                        :  14 ( 1.15%)
+   6. Bí thư Tỉnh ủy                                    :   9 ( 0.74%)
+   7. Đại biểu Quốc hội khóa XIV, XV                    :   9 ( 0.74%)
+   8. Phó Trưởng Ban Tổ chức Trung ương                 :   8 ( 0.66%)
+   9. Đại biểu Quốc hội Việt Nam khóa XV                :   7 ( 0.57%)
+  10. Đại biểu Quốc hội Việt Nam khóa XIV               :   7 ( 0.57%)
+
+3.3. AWARD
+Total: 7
+Top 10:
+   1. Huân chương Lao động hạng Ba                      :   2 (28.57%)
+   2. Huân chương Lao động hạng Nhì                     :   1 (14.29%)
+   3. Huy chương vì sự nghiệp Ngoại giao Việt Nam       :   1 (14.29%)
+   4. Huy chương vì sự nghiệp bảo vệ và chăm sóc trẻ em :   1 (14.29%)
+   5. Huân chương Bảo vệ Tổ quốc hạng Ba                :   1 (14.29%)
+   6. Huân chương Chiến công hạng Nhì                   :   1 (14.29%)
+
+3.4. ALMAMATER
+Total: 47
+Top 10:
+   1. Học viện Chính trị Quốc gia Hồ Chí Minh           :   9 (19.15%)
+   2. Trường Đại học Ngoại thương                       :   2 ( 4.26%)
+   3. Trường Đại học Kinh tế Quốc dân                   :   2 ( 4.26%)
+   4. Học viện Cảnh sát nhân dân                        :   2 ( 4.26%)
+   5. Trường ĐH Sĩ quan Chính trị                       :   1 ( 2.13%)
+   6. Trường Đại học Kiến trúc Thành phố Hồ Chí Minh    :   1 ( 2.13%)
+   7. Đại học George Washington                         :   1 ( 2.13%)
+   8. Trường Đại học Luật Hà Nội                        :   1 ( 2.13%)
+   9. Đại học Waseda, Nhật Bản                          :   1 ( 2.13%)
+  10. Học viện Khoa học Xã hội                          :   1 ( 2.13%)
+
+3.5. ACADEMICTITLE
+Total: 223
+Top 10:
+   1. Cao cấp lý luận chính trị                         :  13 ( 5.83%)
+   2. Tiến sĩ Kinh tế                                   :  12 ( 5.38%)
+   3. Cử nhân Kinh tế                                   :  10 ( 4.48%)
+   4. Phó Giáo sư                                       :   9 ( 4.04%)
+   5. Tiến sĩ Luật                                      :   8 ( 3.59%)
+   6. Tiến sĩ                                           :   8 ( 3.59%)
+   7. Cử nhân Luật                                      :   8 ( 3.59%)
+   8. Thạc sĩ Kinh tế                                   :   7 ( 3.14%)
+   9. Cao cấp lí luận chính trị                         :   7 ( 3.14%)
+  10. Thạc sĩ Luật                                      :   6 ( 2.69%)
+
+3.6. MILITARYRANK
+Total: 19
+Top 10:
+   1. Thượng tướng                                      :   7 (36.84%)
+   2. Trung tướng                                       :   3 (15.79%)
+   3. Thiếu tướng                                       :   3 (15.79%)
+   4. Đại tá                                            :   3 (15.79%)
+   5. Đại tướng                                         :   2 (10.53%)
+   6. Phó đô đốc                                        :   1 ( 5.26%)
+
+3.7. MILITARYCAREER
+Total: 23
+Top 10:
+   1. Quân đội nhân dân Việt Nam                        :  16 (69.57%)
+   2. Công an nhân dân Việt Nam                         :   7 (30.43%)
+
+3.8. CAMPAIGNS
+Total: 2
+Top 10:
+   1. Chiến tranh biên giới Tây Nam                     :   1 (50.00%)
+   2. Chiến tranh biên giới Việt-Trung                  :   1 (50.00%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Nguyễn Hữu Đông
+Party: Đảng Cộng sản Việt Nam
+Birth: 1972-09-20
+Degree Centrality: 0.8175
+Connections: 112
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Nguyễn Hữu Đông
+Party: Đảng Cộng sản Việt Nam
+Birth: 1972-09-20
+Eigenvector Centrality: 0.1513
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1917-1978 (span: 61 years)
+Average: 1965.8
+Count: 134/138
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1954-2025 (span: 71 years)
+Average: 2017.0
+Count: 874
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Nguyễn Hữu Đông                - 112 connections - Đảng Cộng sản Việt Nam
+ 2. Đặng Xuân Phong                - 111 connections - Đảng Cộng sản Việt Nam
+ 3. Hà Thị Nga                     - 111 connections - Đảng Cộng sản Việt Nam
+ 4. Dương Văn An                   - 111 connections - Đảng Cộng sản Việt Nam
+ 5. Lương Quốc Đoàn                - 110 connections - Đảng Cộng sản Việt Nam
+ 6. Lê Khánh Hải                   - 110 connections - Đảng Cộng sản Việt Nam
+ 7. Ngô Văn Tuấn                   - 110 connections - Đảng Cộng sản Việt Nam
+ 8. Lê Quang Mạnh                  - 110 connections - Đảng Cộng sản Việt Nam
+ 9. Trần Hồng Minh                 - 110 connections - Đảng Cộng sản Việt Nam
+10. Đỗ Đức Duy                     - 110 connections - Đảng Cộng sản Việt Nam
+
+
+====================================================================================================
+COMMUNITY #4
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 129
+Edges: 4898
+Density: 0.5933
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 126 (97.67%)
+  • Đã bị khai trừ khỏi Đảng: 3 (2.33%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 105
+Top 10:
+   1. Nam Định                                          :   4 ( 3.81%)
+   2. Ninh Bình                                         :   4 ( 3.81%)
+   3. Quảng Nam                                         :   4 ( 3.81%)
+   4. Hà Nội                                            :   4 ( 3.81%)
+   5. Bắc Ninh                                          :   4 ( 3.81%)
+   6. Đồng Tháp                                         :   4 ( 3.81%)
+   7. Quảng Ngãi                                        :   4 ( 3.81%)
+   8. Hà Tĩnh                                           :   3 ( 2.86%)
+   9. Bạc Liêu                                          :   3 ( 2.86%)
+  10. Tây Ninh                                          :   3 ( 2.86%)
+
+3.2. POSITION
+Total: 844
+Top 10:
+   1. Phó Bí thư Tỉnh ủy                                :  96 (11.37%)
+   2. Chủ tịch Ủy ban nhân dân tỉnh                     :  70 ( 8.29%)
+   3. Ủy viên Ban Thường vụ Tỉnh ủy                     :   9 ( 1.07%)
+   4. Phó Chủ tịch Ủy ban nhân dân tỉnh                 :   9 ( 1.07%)
+   5. Bí thư Huyện ủy                                   :   9 ( 1.07%)
+   6. Tỉnh ủy viên                                      :   9 ( 1.07%)
+   7. Bí thư Ban Cán sự Đảng                            :   8 ( 0.95%)
+   8. Bí thư Tỉnh ủy                                    :   6 ( 0.71%)
+   9. Chủ tịch Hội đồng nhân dân                        :   6 ( 0.71%)
+  10. Thường vụ Tỉnh ủy                                 :   6 ( 0.71%)
+
+3.3. AWARD
+Total: 13
+Top 10:
+   1. Huân chương Lao động hạng Ba                      :   9 (69.23%)
+   2. Huân chương Lao động hạng Nhì                     :   3 (23.08%)
+   3. Anh hùng lực lượng vũ trang nhân dân              :   1 ( 7.69%)
+
+3.4. ALMAMATER
+Total: 50
+Top 10:
+   1. Học viện Chính trị Quốc gia Hồ Chí Minh           :  24 (48.00%)
+   2. Trường Đại học Kinh tế Quốc dân                   :   3 ( 6.00%)
+   3. Học viện Tài chính                                :   2 ( 4.00%)
+   4. Đại học Thái Nguyên                               :   2 ( 4.00%)
+   5. Trường Đại học Kinh tế Thành phố Hồ Chí Minh      :   1 ( 2.00%)
+   6. Đại học Bách khoa Thành phố Hồ Chí Minh           :   1 ( 2.00%)
+   7. Đại học Kinh tế-Luật ( ĐHQG TP.HCM )              :   1 ( 2.00%)
+   8. Trường Đại học Xây dựng Hà Nội                    :   1 ( 2.00%)
+   9. Trường Đại học Kinh doanh và Công nghệ Hà Nội     :   1 ( 2.00%)
+  10. Trường THPT Mường Lay                             :   1 ( 2.00%)
+
+3.5. ACADEMICTITLE
+Total: 151
+Top 10:
+   1. Cao cấp lý luận chính trị                         :  25 (16.56%)
+   2. Cử nhân Kinh tế                                   :   8 ( 5.30%)
+   3. Cử nhân Luật                                      :   7 ( 4.64%)
+   4. Thạc sĩ Kinh tế                                   :   4 ( 2.65%)
+   5. Cử nhân Chính trị                                 :   4 ( 2.65%)
+   6. Tiến sĩ                                           :   4 ( 2.65%)
+   7. Thạc sĩ Quản lý giáo dục                          :   4 ( 2.65%)
+   8. Tiến sĩ Kinh tế                                   :   3 ( 1.99%)
+   9. Thạc sĩ Luật                                      :   3 ( 1.99%)
+  10. Cử nhân Ngữ văn                                   :   3 ( 1.99%)
+
+3.6. MILITARYRANK
+Total: 3
+Top 10:
+   1. Thiếu tướng                                       :   2 (66.67%)
+   2. Thiếu tướng Công an nhân dân Việt Nam             :   1 (33.33%)
+
+3.7. MILITARYCAREER
+Total: 5
+Top 10:
+   1. Công an nhân dân Việt Nam                         :   4 (80.00%)
+   2. Quân đội nhân dân Việt Nam                        :   1 (20.00%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Phạm Quang Ngọc
+Party: Đảng Cộng sản Việt Nam
+Birth: 1973-01-20
+Degree Centrality: 0.8125
+Connections: 104
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Phạm Quang Ngọc
+Party: Đảng Cộng sản Việt Nam
+Birth: 1973-01-20
+Eigenvector Centrality: 0.1377
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1937-1980 (span: 43 years)
+Average: 1964.8
+Count: 122/129
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1954-2025 (span: 71 years)
+Average: 2012.6
+Count: 461
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Phạm Quang Ngọc                - 104 connections - Đảng Cộng sản Việt Nam
+ 2. Trần Văn Hiệp                  - 102 connections - Đảng Cộng sản Việt Nam
+ 3. Lê Trí Thanh                   - 102 connections - Đảng Cộng sản Việt Nam
+ 4. Lê Văn Hẳn                     - 102 connections - Đảng Cộng sản Việt Nam
+ 5. Lê Quân                        - 102 connections - Đảng Cộng sản Việt Nam
+ 6. Vương Quốc Tuấn                - 101 connections - Đảng Cộng sản Việt Nam
+ 7. Đỗ Minh Tuấn                   - 101 connections - Đảng Cộng sản Việt Nam
+ 8. Lê Tuấn Phong                  - 101 connections - Đảng Cộng sản Việt Nam
+ 9. Trịnh Xuân Trường              - 101 connections - Đảng Cộng sản Việt Nam
+10. Trần Quốc Nam                  - 101 connections - Đảng Cộng sản Việt Nam
+
+
+====================================================================================================
+COMMUNITY #5
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 105
+Edges: 1362
+Density: 0.2495
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 101 (96.19%)
+  • Đã bị khai trừ khỏi Đảng: 4 (3.81%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 112
+Top 10:
+   1. Hà Nội                                            :  17 (15.18%)
+   2. Nam Định                                          :  10 ( 8.93%)
+   3. Hồ Chí Minh                                       :   7 ( 6.25%)
+   4. Hà Tĩnh                                           :   6 ( 5.36%)
+   5. Thái Bình                                         :   6 ( 5.36%)
+   6. Hải Dương                                         :   5 ( 4.46%)
+   7. Trà Vinh                                          :   4 ( 3.57%)
+   8. Ninh Bình                                         :   4 ( 3.57%)
+   9. Quảng Nam                                         :   3 ( 2.68%)
+  10. Nghệ An                                           :   3 ( 2.68%)
+
+3.2. POSITION
+Total: 704
+Top 10:
+   1. Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XI:  33 ( 4.69%)
+   2. Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa X:  30 ( 4.26%)
+   3. Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa IX:  21 ( 2.98%)
+   4. Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XII:  20 ( 2.84%)
+   5. Đại biểu Quốc hội Việt Nam khóa X                 :  17 ( 2.41%)
+   6. Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa VIII:  10 ( 1.42%)
+   7. Phó Trưởng ban Tuyên giáo Trung ương              :   8 ( 1.14%)
+   8. Đại biểu Quốc hội khóa XI                         :   7 ( 0.99%)
+   9. Đại biểu Quốc hội Việt Nam khóa XII               :   7 ( 0.99%)
+  10. Đại biểu Quốc hội Việt Nam khóa XI                :   6 ( 0.85%)
+
+3.3. AWARD
+Total: 25
+Top 10:
+   1. Huân chương Lao động hạng Ba                      :   2 ( 8.00%)
+   2. Huân chương Tự do hạng Hai (Lào)                  :   2 ( 8.00%)
+   3. Nhà giáo ưu tú                                    :   1 ( 4.00%)
+   4. Huân chương Độc lập hạng nhì                      :   1 ( 4.00%)
+   5. Huy chương vì sự nghiệp giải phóng phụ nữ         :   1 ( 4.00%)
+   6. Huy hiệu 75 năm tuổi Đảng                         :   1 ( 4.00%)
+   7. Huy hiệu 50 năm tuổi Đảng                         :   1 ( 4.00%)
+   8. Huân chương lao động hạng Hai                     :   1 ( 4.00%)
+   9. Huân chương Quyết thắng hạng Nhất                 :   1 ( 4.00%)
+  10. Huân chương Kháng chiến Cách mạng hạng Hai        :   1 ( 4.00%)
+
+3.4. ALMAMATER
+Total: 19
+Top 10:
+   1. Đại học Quốc gia Hà Nội                           :   3 (15.79%)
+   2. Học viện Chính trị Quốc gia Hồ Chí Minh           :   2 (10.53%)
+   3. Học viện Quan hệ Quốc tế                          :   1 ( 5.26%)
+   4. Đại học Tufts                                     :   1 ( 5.26%)
+   5. Đại học Kiến trúc Hà Nội                          :   1 ( 5.26%)
+   6. Trường Đại học Xây dựng Hà Nội                    :   1 ( 5.26%)
+   7. Đại học Tổng hợp Quốc gia mang tên M.V.Lomonosov  :   1 ( 5.26%)
+   8. Trường Đại học Tổng hợp Thành phố Hồ Chí Minh     :   1 ( 5.26%)
+   9. Trường Đại học Nông nghiệp                        :   1 ( 5.26%)
+  10. Trường Đại học Tài chính Kế toán                  :   1 ( 5.26%)
+
+3.5. ACADEMICTITLE
+Total: 68
+Top 10:
+   1. Tiến sĩ                                           :   8 (11.76%)
+   2. Cử nhân Luật                                      :   3 ( 4.41%)
+   3. Tiến sĩ Kinh tế                                   :   3 ( 4.41%)
+   4. đại học                                           :   2 ( 2.94%)
+   5. Thạc sĩ Luật                                      :   2 ( 2.94%)
+   6. Cao cấp lí luận chính trị                         :   2 ( 2.94%)
+   7. Thạc sĩ Quản trị kinh doanh                       :   2 ( 2.94%)
+   8. Cử nhân Chính trị                                 :   2 ( 2.94%)
+   9. Tiến sĩ Luật                                      :   2 ( 2.94%)
+  10. Phó Giáo sư                                       :   2 ( 2.94%)
+
+3.6. MILITARYRANK
+Total: 9
+Top 10:
+   1. Thượng tướng                                      :   5 (55.56%)
+   2. Thượng sĩ                                         :   1 (11.11%)
+   3. Trung tướng                                       :   1 (11.11%)
+   4. Thượng Uý                                         :   1 (11.11%)
+   5. Thiếu tướng                                       :   1 (11.11%)
+
+3.7. MILITARYCAREER
+Total: 10
+Top 10:
+   1. Quân đội nhân dân Việt Nam                        :   7 (70.00%)
+   2. Công an nhân dân Việt Nam                         :   3 (30.00%)
+
+3.8. CAMPAIGNS
+Total: 3
+Top 10:
+   1. Chiến tranh biên giới Tây Nam                     :   1 (33.33%)
+   2. Chiến dịch Hồ Chí Minh                            :   1 (33.33%)
+   3. Chiến dịch Mậu Thân 1968                          :   1 (33.33%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Hoàng Bình Quân
+Party: Đảng Cộng sản Việt Nam
+Birth: 1959-06-16
+Degree Centrality: 0.6250
+Connections: 65
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Hoàng Bình Quân
+Party: Đảng Cộng sản Việt Nam
+Birth: 1959-06-16
+Eigenvector Centrality: 0.2545
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1904-1983 (span: 79 years)
+Average: 1952.4
+Count: 103/105
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1942-2025 (span: 83 years)
+Average: 2005.3
+Count: 443
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Hoàng Bình Quân                -  65 connections - Đảng Cộng sản Việt Nam
+ 2. Lê Thị Thu Ba                  -  57 connections - Đảng Cộng sản Việt Nam
+ 3. Phạm Thị Hải Chuyền            -  56 connections - Đảng Cộng sản Việt Nam
+ 4. Phạm Bình Minh                 -  55 connections - Đảng Cộng sản Việt Nam
+ 5. Nguyễn Thị Doan                -  55 connections - Đảng Cộng sản Việt Nam
+ 6. Ksor Phước                     -  54 connections - Đảng Cộng sản Việt Nam
+ 7. Nguyễn Thái Bình               -  53 connections - Đảng Cộng sản Việt Nam
+ 8. Giàng Seo Phử                  -  51 connections - Đảng Cộng sản Việt Nam
+ 9. Võ Đức Huy                     -  51 connections - Đảng Cộng sản Việt Nam
+10. Nguyễn Đức Kiên                -  51 connections - Đảng Cộng sản Việt Nam
+
+
+====================================================================================================
+COMMUNITY #6
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 97
+Edges: 1976
+Density: 0.4244
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 92 (94.85%)
+  • Đã bị khai trừ khỏi Đảng: 5 (5.15%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 88
+Top 10:
+   1. Hà Nội                                            :  10 (11.36%)
+   2. Bến Tre                                           :   7 ( 7.95%)
+   3. Nam Định                                          :   5 ( 5.68%)
+   4. Hà Tĩnh                                           :   5 ( 5.68%)
+   5. Thái Bình                                         :   4 ( 4.55%)
+   6. Hải Phòng                                         :   3 ( 3.41%)
+   7. Long An                                           :   3 ( 3.41%)
+   8. Đồng Tháp                                         :   3 ( 3.41%)
+   9. Quảng Nam                                         :   3 ( 3.41%)
+  10. Phú Thọ                                           :   2 ( 2.27%)
+
+3.2. POSITION
+Total: 727
+Top 10:
+   1. Đại biểu Quốc hội Việt Nam khóa XIV               :  46 ( 6.33%)
+   2. Đại biểu Quốc hội Việt Nam khóa XIII              :  39 ( 5.36%)
+   3. Đại biểu Quốc hội Việt Nam khóa XII               :  24 ( 3.30%)
+   4. Đại biểu Quốc hội Việt Nam                        :  12 ( 1.65%)
+   5. Đại biểu Quốc hội Việt Nam khóa XI                :  11 ( 1.51%)
+   6. Ủy viên Bộ Chính trị khóa XII                     :   7 ( 0.96%)
+   7. Ủy viên Trung ương Đảng khóa XII                  :   7 ( 0.96%)
+   8. Phó Trưởng Ban Kinh tế Trung ương                 :   7 ( 0.96%)
+   9. Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XII:   5 ( 0.69%)
+  10. Đại biểu Quốc hội khóa XIV                        :   4 ( 0.55%)
+
+3.3. AWARD
+Total: 32
+Top 10:
+   1. Anh hùng lực lượng vũ trang nhân dân              :   5 (15.62%)
+   2. Huân chương Chiến công hạng Nhất                  :   3 ( 9.38%)
+   3. Huân chương Mặt trời mọc hạng nhất Đại thập tự    :   1 ( 3.12%)
+   4. Huân chương Lao động hạng Ba                      :   1 ( 3.12%)
+   5. Huân chương lao động hạng Hai                     :   1 ( 3.12%)
+   6. Chiến sĩ thi đua toàn quốc                        :   1 ( 3.12%)
+   7. Huân chương Chiến sĩ vẻ vang hạng Nhất            :   1 ( 3.12%)
+   8. Huân chương Chiến công hạng Nhì                   :   1 ( 3.12%)
+   9. Huy chương Quân kỳ Quyết thắng                    :   1 ( 3.12%)
+  10. Huân chương Chiến sĩ vẻ vang hạng Nhì             :   1 ( 3.12%)
+
+3.4. ALMAMATER
+Total: 28
+Top 10:
+   1. Học viện Chính trị Quốc gia Hồ Chí Minh           :   4 (14.29%)
+   2. Đại học Bách khoa Thành phố Hồ Chí Minh           :   2 ( 7.14%)
+   3. Đại học Bách khoa Hà Nội                          :   2 ( 7.14%)
+   4. Trường Đại học An ninh Nhân dân                   :   2 ( 7.14%)
+   5. Đại học Tổng hợp Luân Đôn                         :   1 ( 3.57%)
+   6. Trường Đại học Tài chính Kế toán                  :   1 ( 3.57%)
+   7. Trường Đại học Giao thông Vận tải                 :   1 ( 3.57%)
+   8. Đại học Cần Thơ                                   :   1 ( 3.57%)
+   9. Trường Đại học Luật Hà Nội                        :   1 ( 3.57%)
+  10. Trường Đại học Kiểm sát Hà Nội                    :   1 ( 3.57%)
+
+3.5. ACADEMICTITLE
+Total: 114
+Top 10:
+   1. Cao cấp lí luận chính trị                         :   7 ( 6.14%)
+   2. Cử nhân Luật                                      :   6 ( 5.26%)
+   3. Thạc sĩ Kinh tế                                   :   5 ( 4.39%)
+   4. Thạc sĩ Luật                                      :   4 ( 3.51%)
+   5. Thạc sĩ                                           :   4 ( 3.51%)
+   6. Tiến sĩ                                           :   4 ( 3.51%)
+   7. Thạc sĩ Quản trị kinh doanh                       :   3 ( 2.63%)
+   8. Thạc sĩ Xây dựng Đảng và chính quyền nhà nước     :   3 ( 2.63%)
+   9. Tiến sĩ Nông nghiệp                               :   2 ( 1.75%)
+  10. Tiến sĩ Luật                                      :   2 ( 1.75%)
+
+3.6. MILITARYRANK
+Total: 20
+Top 10:
+   1. Trung tướng                                       :   7 (35.00%)
+   2. Thượng tướng                                      :   6 (30.00%)
+   3. Thiếu tướng                                       :   5 (25.00%)
+   4. Đại tướng                                         :   2 (10.00%)
+
+3.7. MILITARYCAREER
+Total: 24
+Top 10:
+   1. Quân đội nhân dân Việt Nam                        :  12 (50.00%)
+   2. Công an nhân dân Việt Nam                         :  11 (45.83%)
+   3. Bộ Tư lệnh Bộ đội Biên phòng                      :   1 ( 4.17%)
+
+3.8. CAMPAIGNS
+Total: 4
+Top 10:
+   1. Chiến dịch Hồ Chí Minh                            :   2 (50.00%)
+   2. Chiến tranh biên giới Tây Nam                     :   1 (25.00%)
+   3. Chiến dịch Mậu Thân 1968                          :   1 (25.00%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Đinh Thế Huynh
+Party: Đảng Cộng sản Việt Nam
+Birth: 1953-05-15
+Degree Centrality: 0.8542
+Connections: 82
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Đặng Thuần Phong
+Party: Đảng Cộng sản Việt Nam
+Birth: 1964-07-08
+Eigenvector Centrality: 0.2292
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1936-1981 (span: 45 years)
+Average: 1960.3
+Count: 95/97
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1945-2025 (span: 80 years)
+Average: 2010.7
+Count: 461
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Đinh Thế Huynh                 -  82 connections - Đảng Cộng sản Việt Nam
+ 2. Đặng Thuần Phong               -  81 connections - Đảng Cộng sản Việt Nam
+ 3. Nguyễn Văn Tuyết               -  81 connections - Đảng Cộng sản Việt Nam
+ 4. Trần Quốc Vượng                -  80 connections - Đảng Cộng sản Việt Nam
+ 5. Lê Quang Huy                   -  79 connections - Đảng Cộng sản Việt Nam
+ 6. Hoàng Trung Hải                -  74 connections - Đảng Cộng sản Việt Nam
+ 7. Lê Minh Hoan                   -  72 connections - Đảng Cộng sản Việt Nam
+ 8. Võ Văn Kim, (Vũ Trọng Kim)     -  70 connections - Đảng Cộng sản Việt Nam
+ 9. Nguyễn Phước Lộc               -  69 connections - Đảng Cộng sản Việt Nam
+10. Nguyễn Văn Giàu                -  68 connections - Đảng Cộng sản Việt Nam
+
+
+====================================================================================================
+COMMUNITY #7
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 81
+Edges: 706
+Density: 0.2179
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 77 (95.06%)
+  • Đã bị khai trừ khỏi Đảng: 4 (4.94%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 75
+Top 10:
+   1. Hà Nội                                            :   8 (10.67%)
+   2. Kiên Giang                                        :   6 ( 8.00%)
+   3. Vĩnh Phúc                                         :   4 ( 5.33%)
+   4. Hải Dương                                         :   4 ( 5.33%)
+   5. Thừa Thiên Huế                                    :   3 ( 4.00%)
+   6. Phú Thọ                                           :   3 ( 4.00%)
+   7. Hà Nam                                            :   3 ( 4.00%)
+   8. Hồ Chí Minh                                       :   3 ( 4.00%)
+   9. Long An                                           :   3 ( 4.00%)
+  10. Yên Bái                                           :   3 ( 4.00%)
+
+3.2. POSITION
+Total: 498
+Top 10:
+   1. Bí thư Tỉnh ủy                                    :  29 ( 5.82%)
+   2. Chủ tịch Hội đồng nhân dân tỉnh                   :  16 ( 3.21%)
+   3. Phó Bí thư thường trực Tỉnh ủy                    :  12 ( 2.41%)
+   4. Ủy viên Ban Chấp hành Trung ương Đảng khóa XII    :   8 ( 1.61%)
+   5. Bí thư Đảng đoàn                                  :   7 ( 1.41%)
+   6. Phó Chủ nhiệm Ủy ban Kiểm tra Trung ương          :   6 ( 1.20%)
+   7. Phó Bí thư Thường trực Thành ủy                   :   5 ( 1.00%)
+   8. Ủy viên Trung ương Đảng                           :   5 ( 1.00%)
+   9. Ủy viên Ban Chấp hành Trung ương Đảng khóa XIII   :   4 ( 0.80%)
+  10. Chủ tịch Hội đồng nhân dân                        :   4 ( 0.80%)
+
+3.3. AWARD
+Total: 7
+Top 10:
+   1. Huân chương Lao động hạng Ba                      :   3 (42.86%)
+   2. Huân chương hữu nghị của Nhà nước Campuchia       :   1 (14.29%)
+   3. Huân chương Bảo vệ Tổ quốc hạng Nhất              :   1 (14.29%)
+   4. Huân chương Cách mạng Tháng Mười                  :   1 (14.29%)
+   5. Huân chương Lao động hạng Nhì                     :   1 (14.29%)
+
+3.4. ALMAMATER
+Total: 16
+Top 10:
+   1. Học viện Chính trị Quốc gia Hồ Chí Minh           :   7 (43.75%)
+   2. Trường Đại học Bách khoa                          :   1 ( 6.25%)
+   3. Đại học Quốc gia Thành phố Hồ Chí Minh            :   1 ( 6.25%)
+   4. Học viện Hành chính Quốc gia                      :   1 ( 6.25%)
+   5. Đại học Nông nghiệp Hà Nội                        :   1 ( 6.25%)
+   6. Trường Đại học Nông nghiệp Hà Nội                 :   1 ( 6.25%)
+   7. Đại học Xây dựng                                  :   1 ( 6.25%)
+   8. Đại học Sư phạm Hà Nội 1                          :   1 ( 6.25%)
+   9. Trường Cao đẳng An ninh nhân dân II               :   1 ( 6.25%)
+  10. Trường Đại học Công đoàn                          :   1 ( 6.25%)
+
+3.5. ACADEMICTITLE
+Total: 78
+Top 10:
+   1. Cử nhân Kinh tế                                   :   8 (10.26%)
+   2. Cao cấp lý luận chính trị                         :   8 (10.26%)
+   3. Cử nhân Luật                                      :   8 (10.26%)
+   4. Tiến sĩ Kinh tế                                   :   5 ( 6.41%)
+   5. Thạc sĩ Kinh tế                                   :   4 ( 5.13%)
+   6. Cao cấp lí luận chính trị                         :   3 ( 3.85%)
+   7. Cử nhân Chính trị                                 :   3 ( 3.85%)
+   8. Cử nhân Lý luận chính trị                         :   2 ( 2.56%)
+   9. Tiến sĩ                                           :   2 ( 2.56%)
+  10. Cử nhân Lí luận chính trị                         :   2 ( 2.56%)
+
+3.6. MILITARYRANK
+Total: 3
+Top 10:
+   1. Trung tướng                                       :   1 (33.33%)
+   2. Thượng tá                                         :   1 (33.33%)
+   3. Thượng tướng                                      :   1 (33.33%)
+
+3.7. MILITARYCAREER
+Total: 4
+Top 10:
+   1. Công an nhân dân Việt Nam                         :   2 (50.00%)
+   2. Bộ Công An                                        :   1 (25.00%)
+   3. Quân đội nhân dân Việt Nam                        :   1 (25.00%)
+
+3.8. CAMPAIGNS
+Total: 3
+Top 10:
+   1. Chiến trường Tây Nguyên                           :   1 (33.33%)
+   2. Miền đông Nam Bộ                                  :   1 (33.33%)
+   3. Biên giới phía Bắc                                :   1 (33.33%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Nguyễn Xuân Tiến
+Party: Đảng Cộng sản Việt Nam
+Birth: 1958-05-15
+Degree Centrality: 0.5625
+Connections: 45
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Hồ Thị Hoàng Yến
+Party: Đảng Cộng sản Việt Nam
+Birth: 1971-01-01
+Eigenvector Centrality: 0.2517
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1914-1975 (span: 61 years)
+Average: 1956.5
+Count: 77/81
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1938-2025 (span: 87 years)
+Average: 2006.2
+Count: 322
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Nguyễn Xuân Tiến               -  45 connections - Đảng Cộng sản Việt Nam
+ 2. Hồ Thị Hoàng Yến               -  45 connections - Đảng Cộng sản Việt Nam
+ 3. Đồng Văn Thanh                 -  40 connections - Đảng Cộng sản Việt Nam
+ 4. Hồ Văn Niên                    -  40 connections - Đảng Cộng sản Việt Nam
+ 5. Lê Hữu Phúc                    -  40 connections - Đảng Cộng sản Việt Nam
+ 6. Nguyễn Thanh Tùng              -  38 connections - Đảng Cộng sản Việt Nam
+ 7. Trần Lưu Quang                 -  37 connections - Đảng Cộng sản Việt Nam
+ 8. Trần Văn Túy                   -  36 connections - Đảng Cộng sản Việt Nam
+ 9. Nguyễn Văn Lộc                 -  34 connections - Đảng Cộng sản Việt Nam
+10. Nguyễn Mạnh Hiển               -  33 connections - Đảng Cộng sản Việt Nam
+
+
+====================================================================================================
+COMMUNITY #8
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 81
+Edges: 1175
+Density: 0.3627
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 77 (95.06%)
+  • Đã bị khai trừ khỏi Đảng: 2 (2.47%)
+  • Đảng Xã hội Việt Nam: 1 (1.23%)
+  • Linh mục Công giáo Việt Nam: 1 (1.23%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 88
+Top 10:
+   1. Hà Nội                                            :  17 (19.32%)
+   2. Bắc Ninh                                          :   6 ( 6.82%)
+   3. Nam Định                                          :   6 ( 6.82%)
+   4. Thái Bình                                         :   5 ( 5.68%)
+   5. Hưng Yên                                          :   4 ( 4.55%)
+   6. Nghệ An                                           :   4 ( 4.55%)
+   7. Quảng Nam                                         :   4 ( 4.55%)
+   8. Hải Dương                                         :   4 ( 4.55%)
+   9. Hà Tĩnh                                           :   3 ( 3.41%)
+  10. Long An                                           :   3 ( 3.41%)
+
+3.2. POSITION
+Total: 516
+Top 10:
+   1. Đại biểu Quốc hội Việt Nam                        :  35 ( 6.78%)
+   2. Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam:  33 ( 6.40%)
+   3. Phó Chủ tịch Quốc hội Việt Nam                    :   7 ( 1.36%)
+   4. Bí thư Tỉnh ủy Lào Cai                            :   6 ( 1.16%)
+   5. Đại biểu Quốc hội Việt Nam khóa 14                :   6 ( 1.16%)
+   6. Ủy viên Ủy ban Thường vụ Quốc hội                 :   4 ( 0.78%)
+   7. Ủy viên Đảng đoàn Quốc hội                        :   4 ( 0.78%)
+   8. Chủ tịch Ủy ban nhân dân tỉnh Thái Nguyên         :   4 ( 0.78%)
+   9. Chủ nhiệm Văn phòng Quốc hội                      :   3 ( 0.58%)
+  10. Bí thư Tỉnh ủy                                    :   3 ( 0.58%)
+
+3.3. AWARD
+Total: 7
+Top 10:
+   1. Anh hùng lực lượng vũ trang nhân dân              :   2 (28.57%)
+   2. Thầy thuốc Nhân dân                               :   1 (14.29%)
+   3. Anh hùng Lao động                                 :   1 (14.29%)
+   4. Giải thưởng Lênin                                 :   1 (14.29%)
+   5. Huân chương Hữu nghị                              :   1 (14.29%)
+   6. Giải thưởng Hồ Chí Minh                           :   1 (14.29%)
+
+3.4. ALMAMATER
+Total: 14
+Top 10:
+   1. Trường Đại học Khoa học Xã hội và Nhân văn – Đại học Quốc gia Hà Nội:   1 ( 7.14%)
+   2. Học viện Hành chính Quốc gia                      :   1 ( 7.14%)
+   3. Trường Đại học Luật Thành phố Hồ Chí Minh         :   1 ( 7.14%)
+   4. Học viện Khoa học Xã hội Nguyễn Ái Quốc           :   1 ( 7.14%)
+   5. Đại học Bách khoa Hà Nội                          :   1 ( 7.14%)
+   6. Học viện Chính trị Quốc gia Hồ Chí Minh           :   1 ( 7.14%)
+   7. Đại học Thái Nguyên                               :   1 ( 7.14%)
+   8. Trường Đại học Nông lâm Thái Nguyên               :   1 ( 7.14%)
+   9. THPT Đức Hoà                                      :   1 ( 7.14%)
+  10. Trường Quân sự Hoàng Phố                          :   1 ( 7.14%)
+
+3.5. ACADEMICTITLE
+Total: 66
+Top 10:
+   1. Cử nhân Luật                                      :   5 ( 7.58%)
+   2. Thạc sĩ Luật                                      :   4 ( 6.06%)
+   3. Tiến sĩ Kinh tế                                   :   3 ( 4.55%)
+   4. Giáo sư                                           :   3 ( 4.55%)
+   5. Thạc sĩ                                           :   3 ( 4.55%)
+   6. Tiến sĩ                                           :   2 ( 3.03%)
+   7. 'Tiến sĩ'                                         :   2 ( 3.03%)
+   8. Thạc sĩ Quản lý kinh tế                           :   2 ( 3.03%)
+   9. Tiến sĩ Luật                                      :   1 ( 1.52%)
+  10. Kĩ sư Xây dựng                                    :   1 ( 1.52%)
+
+3.6. MILITARYRANK
+Total: 3
+Top 10:
+   1. Trung tướng                                       :   3 (100.00%)
+
+3.7. MILITARYCAREER
+Total: 5
+Top 10:
+   1. Quân đội nhân dân Việt Nam                        :   3 (60.00%)
+   2. Công an nhân dân Việt Nam                         :   2 (40.00%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Phùng Quốc Hiển
+Party: Đảng Cộng sản Việt Nam
+Birth: 1958-04-06
+Degree Centrality: 0.8125
+Connections: 65
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Vũ Văn Hiến
+Party: Đảng Cộng sản Việt Nam
+Birth: 1947-08-20
+Eigenvector Centrality: 0.2267
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1905-1977 (span: 72 years)
+Average: 1949.5
+Count: 81/81
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1946-2025 (span: 79 years)
+Average: 2000.3
+Count: 311
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Phùng Quốc Hiển                -  65 connections - Đảng Cộng sản Việt Nam
+ 2. Đặng Thị Ngọc Thịnh            -  60 connections - Đảng Cộng sản Việt Nam
+ 3. Vũ Văn Hiến                    -  60 connections - Đảng Cộng sản Việt Nam
+ 4. Đỗ Quốc Sam                    -  60 connections - Đảng Cộng sản Việt Nam
+ 5. Hà Thị Khiết, Hà Thị Khích     -  60 connections - Đảng Cộng sản Việt Nam
+ 6. Trần Bình Minh                 -  60 connections - Đảng Cộng sản Việt Nam
+ 7. Lê Doãn Hợp                    -  60 connections - Đảng Cộng sản Việt Nam
+ 8. Hà Ngọc Chiến                  -  39 connections - Đảng Cộng sản Việt Nam
+ 9. Hoàng Trường Minh              -  39 connections - Đảng Cộng sản Việt Nam
+10. Võ Thị Như Hoa                 -  37 connections - Đảng Cộng sản Việt Nam
+
+
+====================================================================================================
+COMMUNITY #9
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 80
+Edges: 2606
+Density: 0.8247
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 79 (98.75%)
+  • Đảng Xã hội Việt Nam: 1 (1.25%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 102
+Top 10:
+   1. Hà Nội                                            :  22 (21.57%)
+   2. Hải Dương                                         :   5 ( 4.90%)
+   3. Thái Bình                                         :   5 ( 4.90%)
+   4. Hồ Chí Minh                                       :   5 ( 4.90%)
+   5. Nghệ An                                           :   5 ( 4.90%)
+   6. Ninh Bình                                         :   5 ( 4.90%)
+   7. Hưng Yên                                          :   5 ( 4.90%)
+   8. Nam Định                                          :   4 ( 3.92%)
+   9. Việt Nam                                          :   4 ( 3.92%)
+  10. Bến Tre                                           :   4 ( 3.92%)
+
+3.2. POSITION
+Total: 648
+Top 10:
+   1. Đại biểu Quốc hội                                 :  72 (11.11%)
+   2. Chủ tịch                                          :  10 ( 1.54%)
+   3. Ủy viên                                           :   9 ( 1.39%)
+   4. Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam:   9 ( 1.39%)
+   5. Đại biểu Quốc hội Việt Nam khóa XIV               :   8 ( 1.23%)
+   6. Ủy viên Bộ Chính trị                              :   7 ( 1.08%)
+   7. Đại biểu Quốc hội Việt Nam                        :   7 ( 1.08%)
+   8. Bộ trưởng                                         :   6 ( 0.93%)
+   9. Đại biểu Quốc hội Việt Nam khóa XV                :   5 ( 0.77%)
+  10. Ủy viên Trung ương Đảng                           :   5 ( 0.77%)
+
+3.3. AWARD
+Total: 25
+Top 10:
+   1. Huân chương Hồ Chí Minh                           :   5 (20.00%)
+   2. Huân chương Lao động hạng Nhất                    :   2 ( 8.00%)
+   3. Huân chương Độc lập hạng Nhất                     :   2 ( 8.00%)
+   4. Huân chương Lao động hạng Nhì                     :   1 ( 4.00%)
+   5. Huân chương Lao động hạng Ba                      :   1 ( 4.00%)
+   6. Huy chương "Chiến sĩ vẻ vang" hạng Nhất           :   1 ( 4.00%)
+   7. Huy hiệu 75 năm tuổi Đảng                         :   1 ( 4.00%)
+   8. Giải thưởng Hồ Chí Minh về khoa học kỹ thuật      :   1 ( 4.00%)
+   9. Huân chương Sao vàng                              :   1 ( 4.00%)
+  10. Huân chương Quân công                             :   1 ( 4.00%)
+
+3.4. ALMAMATER
+Total: 28
+Top 10:
+   1. Học viện Chính trị Quốc gia Hồ Chí Minh           :   5 (17.86%)
+   2. Trường Đại học Kinh tế Quốc dân                   :   3 (10.71%)
+   3. Đại học Bách khoa Hà Nội                          :   2 ( 7.14%)
+   4. Đại học Quốc gia Hà Nội                           :   2 ( 7.14%)
+   5. Đại học Xây dựng Hà Nội                           :   1 ( 3.57%)
+   6. Đại học Nông nghiệp II                            :   1 ( 3.57%)
+   7. Liên Xô                                           :   1 ( 3.57%)
+   8. Đại học Bách khoa Khác-cốp                        :   1 ( 3.57%)
+   9. Trường Đại học Hàng hải Việt Nam                  :   1 ( 3.57%)
+  10. Trường Đại học Luật Hà Nội                        :   1 ( 3.57%)
+
+3.5. ACADEMICTITLE
+Total: 84
+Top 10:
+   1. Cao cấp lý luận chính trị                         :   6 ( 7.14%)
+   2. Thạc sĩ Quản trị kinh doanh                       :   6 ( 7.14%)
+   3. Giáo sư                                           :   6 ( 7.14%)
+   4. Cử nhân Luật                                      :   5 ( 5.95%)
+   5. Tiến sĩ                                           :   4 ( 4.76%)
+   6. Cử nhân Kinh tế                                   :   3 ( 3.57%)
+   7. Tiến sĩ Luật                                      :   2 ( 2.38%)
+   8. Thạc sĩ Luật                                      :   2 ( 2.38%)
+   9. Kỹ sư Xây dựng                                    :   2 ( 2.38%)
+  10. Tiến sĩ Kinh tế                                   :   2 ( 2.38%)
+
+3.6. MILITARYRANK
+Total: 9
+Top 10:
+   1. Thiếu tướng                                       :   3 (33.33%)
+   2. Trung tướng                                       :   3 (33.33%)
+   3. Thượng tướng                                      :   2 (22.22%)
+   4. Đại tướng                                         :   1 (11.11%)
+
+3.7. MILITARYCAREER
+Total: 16
+Top 10:
+   1. Quân đội nhân dân Việt Nam                        :  10 (62.50%)
+   2. Công an nhân dân Việt Nam                         :   6 (37.50%)
+
+3.8. CAMPAIGNS
+Total: 8
+Top 10:
+   1. Kháng chiến chống Mỹ                              :   3 (37.50%)
+   2. Chiến tranh Đông Dương                            :   2 (25.00%)
+   3. Chiến dịch biên giới Tây Nam                      :   1 (12.50%)
+   4. Chiến tranh biên giới Việt-Trung                  :   1 (12.50%)
+   5. Chiến dịch Tết Mậu Thân 1968                      :   1 (12.50%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Phạm Đức Ấn
+Party: Đảng Cộng sản Việt Nam
+Birth: 1970-01-01
+Degree Centrality: 0.9620
+Connections: 76
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Phạm Thành Tâm
+Party: Đảng Cộng sản Việt Nam
+Birth: 1960-12-15
+Eigenvector Centrality: 0.1394
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1902-1981 (span: 79 years)
+Average: 1947.1
+Count: 78/80
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1914-2025 (span: 111 years)
+Average: 1996.8
+Count: 393
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Phạm Đức Ấn                    -  76 connections - Đảng Cộng sản Việt Nam
+ 2. Đào Trọng Thi                  -  75 connections - Đảng Cộng sản Việt Nam
+ 3. Trần Công Thuật                -  75 connections - Đảng Cộng sản Việt Nam
+ 4. Vũ Xuân Hồng                   -  75 connections - Đảng Cộng sản Việt Nam
+ 5. Nguyễn Bá Sơn                  -  75 connections - Đảng Cộng sản Việt Nam
+ 6. Đặng Ngọc Tùng                 -  75 connections - Đảng Cộng sản Việt Nam
+ 7. Nguyễn Quyết, Nguyễn Tiến Văn  -  73 connections - Đảng Cộng sản Việt Nam
+ 8. Nguyễn Thị Định                -  73 connections - Đảng Cộng sản Việt Nam
+ 9. Phạm Thế Duyệt                 -  73 connections - Đảng Cộng sản Việt Nam
+10. Bùi Quang Tạo                  -  72 connections - Đảng Cộng sản Việt Nam
+
+
+====================================================================================================
+COMMUNITY #10
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 79
+Edges: 331
+Density: 0.1074
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 74 (93.67%)
+  • Đã bị khai trừ khỏi Đảng: 5 (6.33%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 69
+Top 10:
+   1. Hà Nội                                            :  16 (23.19%)
+   2. Hưng Yên                                          :   7 (10.14%)
+   3. Quảng Nam                                         :   5 ( 7.25%)
+   4. Đà Nẵng                                           :   5 ( 7.25%)
+   5. Hà Tĩnh                                           :   4 ( 5.80%)
+   6. Hồ Chí Minh                                       :   3 ( 4.35%)
+   7. Phú Thọ                                           :   2 ( 2.90%)
+   8. Sóc Trăng                                         :   2 ( 2.90%)
+   9. Bình Thuận                                        :   2 ( 2.90%)
+  10. Yên Bái                                           :   2 ( 2.90%)
+
+3.2. POSITION
+Total: 456
+Top 10:
+   1. Thứ trưởng                                        :  14 ( 3.07%)
+   2. Ủy viên Ban Cán sự Đảng                           :  11 ( 2.41%)
+   3. Phó Bí thư Thành ủy                               :   9 ( 1.97%)
+   4. Ủy viên dự khuyết Trung ương Đảng khóa XIII       :   7 ( 1.54%)
+   5. Bí thư Ban Cán sự Đảng                            :   7 ( 1.54%)
+   6. Phó Bí thư Thành ủy Đà Nẵng                       :   7 ( 1.54%)
+   7. Chủ tịch Ủy ban nhân dân thành phố Đà Nẵng        :   7 ( 1.54%)
+   8. Phó Bí thư Thành ủy Cần Thơ                       :   5 ( 1.10%)
+   9. Chủ tịch Ủy ban nhân dân thành phố Cần Thơ        :   5 ( 1.10%)
+  10. Phó Bí thư Thành ủy Thành phố Hồ Chí Minh         :   5 ( 1.10%)
+
+3.3. AWARD
+Total: 17
+Top 10:
+   1. Nhà giáo nhân dân                                 :   4 (23.53%)
+   2. Thầy thuốc Nhân dân                               :   1 ( 5.88%)
+   3. Nhà giáo ưu tú                                    :   1 ( 5.88%)
+   4. Huân chương Lao động hạng Nhì                     :   1 ( 5.88%)
+   5. Huân chương Lao động hạng Nhất                    :   1 ( 5.88%)
+   6. Anh hùng Lao động                                 :   1 ( 5.88%)
+   7. Huân chương Độc lập hạng Ba năm 2019              :   1 ( 5.88%)
+   8. Nhân tài Đất Việt                                 :   1 ( 5.88%)
+   9. Danh hiệu Trí thức tiêu biểu của Tổng hội Y học Việt Nam:   1 ( 5.88%)
+  10. Danh hiệu Nhà quản lý xuất sắc thời kỳ đổi mới    :   1 ( 5.88%)
+
+3.4. ALMAMATER
+Total: 25
+Top 10:
+   1. Học viện Chính trị Quốc gia Hồ Chí Minh           :   6 (24.00%)
+   2. Trường Đại học Y Hà Nội                           :   2 ( 8.00%)
+   3. Học viện Ngoại giao Việt Nam                      :   1 ( 4.00%)
+   4. Học viện Khoa học Xã hội                          :   1 ( 4.00%)
+   5. Trường Kinh tế và Khoa học Chính trị Luân Đôn     :   1 ( 4.00%)
+   6. Học viện Ngoại giao                               :   1 ( 4.00%)
+   7. Đại học Sư phạm Hà Nội                            :   1 ( 4.00%)
+   8. Học viện Quân y                                   :   1 ( 4.00%)
+   9. Viện Khoa học Xã hội La Hay (Hà Lan)              :   1 ( 4.00%)
+  10. Trường Đại học Thủy lợi                           :   1 ( 4.00%)
+
+3.5. ACADEMICTITLE
+Total: 108
+Top 10:
+   1. Cao cấp lý luận chính trị                         :   6 ( 5.56%)
+   2. Tiến sĩ Kinh tế                                   :   4 ( 3.70%)
+   3. Cử nhân Luật                                      :   4 ( 3.70%)
+   4. Phó Giáo sư                                       :   4 ( 3.70%)
+   5. Tiến sĩ                                           :   4 ( 3.70%)
+   6. Giáo sư                                           :   4 ( 3.70%)
+   7. Cử nhân Kinh tế                                   :   3 ( 2.78%)
+   8. Cao cấp lí luận chính trị                         :   3 ( 2.78%)
+   9. tiến sĩ y khoa                                    :   3 ( 2.78%)
+  10. Thạc sĩ Khoa học chính trị                        :   2 ( 1.85%)
+
+3.6. MILITARYRANK
+Total: 1
+Top 10:
+   1. Đại tá                                            :   1 (100.00%)
+
+3.7. MILITARYCAREER
+Total: 1
+Top 10:
+   1. Công an nhân dân Việt Nam                         :   1 (100.00%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Võ Thành Thống
+Party: Đảng Cộng sản Việt Nam
+Birth: 1963-05-19
+Degree Centrality: 0.3462
+Connections: 27
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Võ Thành Thống
+Party: Đảng Cộng sản Việt Nam
+Birth: 1963-05-19
+Eigenvector Centrality: 0.3465
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1926-1979 (span: 53 years)
+Average: 1961.1
+Count: 77/79
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1944-2025 (span: 81 years)
+Average: 2011.9
+Count: 290
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Võ Thành Thống                 -  27 connections - Đảng Cộng sản Việt Nam
+ 2. Lê Trung Chinh                 -  21 connections - Đảng Cộng sản Việt Nam
+ 3. Lương Nguyễn Minh Triết        -  21 connections - Đảng Cộng sản Việt Nam
+ 4. Trần Tuấn Anh                  -  20 connections - Đảng Cộng sản Việt Nam
+ 5. Phạm Lê Tuấn                   -  19 connections - Đảng Cộng sản Việt Nam
+ 6. Nguyễn Thị Nghĩa               -  19 connections - Đảng Cộng sản Việt Nam
+ 7. Nguyễn Văn Công                -  18 connections - Đảng Cộng sản Việt Nam
+ 8. Phạm Ngọc Thưởng               -  17 connections - Đảng Cộng sản Việt Nam
+ 9. Bùi Văn Ga                     -  16 connections - Đảng Cộng sản Việt Nam
+10. Huỳnh Vĩnh Ái                  -  16 connections - Đảng Cộng sản Việt Nam
+
+
+====================================================================================================
+COMMUNITY #11
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 78
+Edges: 1943
+Density: 0.6470
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 76 (97.44%)
+  • (từ 1930): 1 (1.28%)
+  • Đảng Cộng sản Đông Dương: 1 (1.28%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 81
+Top 10:
+   1. Hà Nội                                            :  11 (13.58%)
+   2. Nghệ An                                           :   8 ( 9.88%)
+   3. Hà Tĩnh                                           :   7 ( 8.64%)
+   4. Thanh Hóa                                         :   6 ( 7.41%)
+   5. Hồ Chí Minh                                       :   4 ( 4.94%)
+   6. Hưng Yên                                          :   4 ( 4.94%)
+   7. Hải Dương                                         :   3 ( 3.70%)
+   8. Hậu Giang                                         :   2 ( 2.47%)
+   9. Đắk Lắk                                           :   2 ( 2.47%)
+  10. Quảng Ninh                                        :   2 ( 2.47%)
+
+3.2. POSITION
+Total: 667
+Top 10:
+   1. Đại biểu Quốc hội Việt Nam khóa XV                :  62 ( 9.30%)
+   2. Đại biểu Quốc hội khóa XV                         :  18 ( 2.70%)
+   3. Đại biểu Quốc hội khóa XIV, XV                    :   8 ( 1.20%)
+   4. Ủy viên Bộ Chính trị khóa XIII                    :   8 ( 1.20%)
+   5. Đại biểu Quốc hội Việt Nam khóa XIV               :   6 ( 0.90%)
+   6. Bí thư Trung ương Đảng khóa XIII                  :   5 ( 0.75%)
+   7. Chủ tịch Ủy ban nhân dân tỉnh Nghệ An             :   5 ( 0.75%)
+   8. Phó Bí thư Tỉnh ủy Nghệ An                        :   5 ( 0.75%)
+   9. Tổng Bí thư                                       :   5 ( 0.75%)
+  10. Trưởng ban Tổ chức Trung ương                     :   4 ( 0.60%)
+
+3.3. AWARD
+Total: 19
+Top 10:
+   1. Huân chương Lao động hạng Ba                      :   8 (42.11%)
+   2. Huân chương Lao động hạng Nhì                     :   3 (15.79%)
+   3. Huân chương Quân công hạng Ba                     :   1 ( 5.26%)
+   4. Huân chương Chiến công hạng Hai                   :   1 ( 5.26%)
+   5. Huân chương Chiến sĩ vẻ vang hạng Nhất            :   1 ( 5.26%)
+   6. Huân chương Lao động hạng Nhất                    :   1 ( 5.26%)
+   7. Huân chương Bảo vệ Tổ quốc hạng Ba                :   1 ( 5.26%)
+   8. Huân chương Sao vàng                              :   1 ( 5.26%)
+   9. Huy chương Chiến sĩ vẻ vang hạng Nhất             :   1 ( 5.26%)
+  10. Huy chương Vì an ninh Tổ quốc                     :   1 ( 5.26%)
+
+3.4. ALMAMATER
+Total: 63
+Top 10:
+   1. Học viện Chính trị Quốc gia Hồ Chí Minh           :  31 (49.21%)
+   2. Đại học Quốc gia Hà Nội                           :   3 ( 4.76%)
+   3. Học viện Hành chính Quốc gia                      :   2 ( 3.17%)
+   4. Trường Đại học Luật Hà Nội                        :   2 ( 3.17%)
+   5. Học viện Thanh thiếu niên Việt Nam                :   2 ( 3.17%)
+   6. Trường Đại học Kinh tế Quốc dân                   :   2 ( 3.17%)
+   7. Học viện Quan hệ Quốc tế                          :   1 ( 1.59%)
+   8. Trường Đại học Ngoại ngữ Hà Nội                   :   1 ( 1.59%)
+   9. Đại học Xây dựng Bucarest                         :   1 ( 1.59%)
+  10. Đại học Saitama                                   :   1 ( 1.59%)
+
+3.5. ACADEMICTITLE
+Total: 170
+Top 10:
+   1. Cao cấp lý luận chính trị                         :  26 (15.29%)
+   2. Cử nhân Luật                                      :  11 ( 6.47%)
+   3. Tiến sĩ Kinh tế                                   :   8 ( 4.71%)
+   4. Tiến sĩ                                           :   7 ( 4.12%)
+   5. Thạc sĩ Luật                                      :   5 ( 2.94%)
+   6. Tiến sĩ Luật                                      :   4 ( 2.35%)
+   7. Giáo sư                                           :   4 ( 2.35%)
+   8. Thạc sĩ Luật học                                  :   4 ( 2.35%)
+   9. Cao cấp lí luận chính trị                         :   3 ( 1.76%)
+  10. Tổng Bí thư                                       :   3 ( 1.76%)
+
+3.6. MILITARYRANK
+Total: 13
+Top 10:
+   1. Thiếu tướng                                       :   4 (30.77%)
+   2. Trung tướng                                       :   3 (23.08%)
+   3. Thượng tướng                                      :   2 (15.38%)
+   4. Đại tướng                                         :   2 (15.38%)
+   5. Đại tá                                            :   1 ( 7.69%)
+   6. Thượng úy                                         :   1 ( 7.69%)
+
+3.7. MILITARYCAREER
+Total: 14
+Top 10:
+   1. Công an nhân dân Việt Nam                         :   9 (64.29%)
+   2. Quân đội nhân dân Việt Nam                        :   5 (35.71%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Hồ Đức Phớc
+Party: Đảng Cộng sản Việt Nam
+Birth: 1963-11-01
+Degree Centrality: 0.8701
+Connections: 67
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Lê Minh Hưng
+Party: Đảng Cộng sản Việt Nam
+Birth: 1970-12-11
+Eigenvector Centrality: 0.1666
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1907-1985 (span: 78 years)
+Average: 1965.1
+Count: 78/78
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1938-2025 (span: 87 years)
+Average: 2013.7
+Count: 430
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Hồ Đức Phớc                    -  67 connections - Đảng Cộng sản Việt Nam
+ 2. Thái Thanh Quý                 -  66 connections - Đảng Cộng sản Việt Nam
+ 3. Phan Đình Trạc                 -  66 connections - Đảng Cộng sản Việt Nam
+ 4. Nguyễn Phú Trọng               -  65 connections - Đảng Cộng sản Việt Nam
+ 5. Tô Lâm                         -  64 connections - Đảng Cộng sản Việt Nam
+ 6. Lê Minh Trí                    -  63 connections - Đảng Cộng sản Việt Nam
+ 7. Đỗ Văn Chiến                   -  63 connections - Đảng Cộng sản Việt Nam
+ 8. Nguyễn Trọng Nghĩa             -  63 connections - Đảng Cộng sản Việt Nam
+ 9. Hà Quốc Trị                    -  62 connections - Đảng Cộng sản Việt Nam
+10. Trương Thị Mai                 -  62 connections - Đảng Cộng sản Việt Nam
+
+
+====================================================================================================
+COMMUNITY #12
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 58
+Edges: 644
+Density: 0.3896
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 57 (98.28%)
+  • Đã bị khai trừ khỏi Đảng: 1 (1.72%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 71
+Top 10:
+   1. Hà Nội                                            :  21 (29.58%)
+   2. Nam Định                                          :   8 (11.27%)
+   3. Phú Thọ                                           :   4 ( 5.63%)
+   4. Quảng Ngãi                                        :   3 ( 4.23%)
+   5. Hồ Chí Minh                                       :   3 ( 4.23%)
+   6. Cao Bằng                                          :   2 ( 2.82%)
+   7. Bình Định                                         :   2 ( 2.82%)
+   8. Cà Mau                                            :   2 ( 2.82%)
+   9. Quảng Nam                                         :   2 ( 2.82%)
+  10. Hải Phòng                                         :   2 ( 2.82%)
+
+3.2. POSITION
+Total: 432
+Top 10:
+   1. Thứ trưởng Bộ Quốc phòng                          :  27 ( 6.25%)
+   2. Phó Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam:  21 ( 4.86%)
+   3. Thứ trưởng Bộ Quốc phòng Việt Nam                 :  16 ( 3.70%)
+   4. Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam   :   9 ( 2.08%)
+   5. Ủy viên Quân ủy Trung ương                        :   7 ( 1.62%)
+   6. Phó Tổng Tham mưu trưởng                          :   6 ( 1.39%)
+   7. Tư lệnh Quân khu 7                                :   5 ( 1.16%)
+   8. Chủ nhiệm Tổng cục Kỹ thuật                       :   5 ( 1.16%)
+   9. Tư lệnh Quân khu 1                                :   4 ( 0.93%)
+  10. Tư lệnh Quân đoàn 1                               :   4 ( 0.93%)
+
+3.3. AWARD
+Total: 119
+Top 10:
+   1. Huân chương Quân công hạng Nhất                   :  10 ( 8.40%)
+   2. Huân chương Kháng chiến hạng Nhất                 :   9 ( 7.56%)
+   3. Anh hùng lực lượng vũ trang nhân dân              :   8 ( 6.72%)
+   4. Huân chương Hồ Chí Minh                           :   8 ( 6.72%)
+   5. Huân chương Chiến thắng hạng Nhất                 :   6 ( 5.04%)
+   6. Huy chương Quân kỳ Quyết thắng                    :   5 ( 4.20%)
+   7. Huân chương Sao vàng                              :   5 ( 4.20%)
+   8. Huân chương Độc lập hạng Nhất                     :   4 ( 3.36%)
+   9. Huân chương Chiến công hạng Nhất                  :   4 ( 3.36%)
+  10. Huân chương Chiến sĩ vẻ vang hạng Nhất            :   4 ( 3.36%)
+
+3.4. ALMAMATER
+Total: 5
+Top 10:
+   1. Học viện Chính trị Quốc gia Hồ Chí Minh           :   2 (40.00%)
+   2. Trường Đại học Sĩ quan Tăng-Thiết giáp            :   1 (20.00%)
+   3. Học viện Quốc phòng                               :   1 (20.00%)
+   4. Trường Sĩ quan Lục quân 2                         :   1 (20.00%)
+
+3.5. ACADEMICTITLE
+Total: 23
+Top 10:
+   1. Tiến sĩ                                           :   3 (13.04%)
+   2. Cử nhân Quân sự                                   :   2 ( 8.70%)
+   3. Anh hùng Lực lượng vũ trang nhân dân              :   2 ( 8.70%)
+   4. Cử nhân Chỉ huy-Tham mưu Tăng Thiết giáp          :   1 ( 4.35%)
+   5. Tiến sĩ Khoa học quân sự                          :   1 ( 4.35%)
+   6. Lý luận chính trị cao cấp                         :   1 ( 4.35%)
+   7. Cao cấp lý luận chính trị                         :   1 ( 4.35%)
+   8. Kỹ sư Hàng hải                                    :   1 ( 4.35%)
+   9. Cử nhân Quân sự chuyên ngành Chỉ huy Tham mưu     :   1 ( 4.35%)
+  10. Binh chủng hợp thành                              :   1 ( 4.35%)
+
+3.6. MILITARYRANK
+Total: 39
+Top 10:
+   1. Thượng tướng                                      :  16 (41.03%)
+   2. Trung tướng                                       :  11 (28.21%)
+   3. Đại tướng                                         :   6 (15.38%)
+   4. Thiếu tướng                                       :   4 (10.26%)
+   5. Chuẩn Đô đốc Hải quân                             :   1 ( 2.56%)
+   6. tướng                                             :   1 ( 2.56%)
+
+3.7. MILITARYCAREER
+Total: 56
+Top 10:
+   1. Quân đội nhân dân Việt Nam                        :  51 (91.07%)
+   2. Không quân Nhân dân Việt Nam                      :   2 ( 3.57%)
+   3. Quân khu 9                                        :   1 ( 1.79%)
+   4. Bộ Quốc phòng                                     :   1 ( 1.79%)
+   5. Đại đoàn 308                                      :   1 ( 1.79%)
+
+3.8. CAMPAIGNS
+Total: 49
+Top 10:
+   1. Kháng chiến chống Mỹ                              :   8 (16.33%)
+   2. Chiến dịch Hồ Chí Minh                            :   7 (14.29%)
+   3. Chiến tranh Đông Dương                            :   5 (10.20%)
+   4. Chiến tranh biên giới Tây Nam                     :   4 ( 8.16%)
+   5. Chiến dịch Mậu Thân 1968                          :   3 ( 6.12%)
+   6. Kháng chiến chống Pháp                            :   3 ( 6.12%)
+   7. Chiến dịch Điện Biên Phủ                          :   2 ( 4.08%)
+   8. Cách mạng tháng 8                                 :   1 ( 2.04%)
+   9. Chiến dịch Junction City                          :   1 ( 2.04%)
+  10. Chiến dịch Đường 14-Phước Long                    :   1 ( 2.04%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Trần Văn Quang, Bảy Tiến
+Party: Đảng Cộng sản Việt Nam
+Birth: 1917-01-01
+Degree Centrality: 0.7368
+Connections: 42
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Phan Văn Giang
+Party: Đảng Cộng sản Việt Nam
+Birth: 1960-10-14
+Eigenvector Centrality: 0.2848
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1910-1970 (span: 60 years)
+Average: 1942.1
+Count: 53/58
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1934-2025 (span: 91 years)
+Average: 1990.1
+Count: 334
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Trần Văn Quang, Bảy Tiến       -  42 connections - Đảng Cộng sản Việt Nam
+ 2. Phan Văn Giang                 -  42 connections - Đảng Cộng sản Việt Nam
+ 3. Thượng tướng, Bế Xuân Trường   -  42 connections - Đảng Cộng sản Việt Nam
+ 4. Trần Văn Trà, Tư Chi, Tư Nguyễn, Ba Trà -  41 connections - Đảng Cộng sản Việt Nam
+ 5. Thượng tướng Nguyễn Khắc Nghiên -  41 connections - Đảng Cộng sản Việt Nam
+ 6. Lê Chiêm                       -  41 connections - Đảng Cộng sản Việt Nam
+ 7. Lê Trọng Tấn                   -  39 connections - Đảng Cộng sản Việt Nam
+ 8. Trần Quý Hai, (Bùi Chấn)       -  38 connections - Đảng Cộng sản Việt Nam
+ 9. Lê Huy Vịnh                    -  38 connections - Đảng Cộng sản Việt Nam
+10. Nguyễn Quang Ngọc              -  37 connections - Đảng Cộng sản Việt Nam
+
+
+====================================================================================================
+COMMUNITY #13
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 57
+Edges: 281
+Density: 0.1761
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 57 (100.00%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 20
+Top 10:
+   1. Hà Nội                                            :   3 (15.00%)
+   2. Hà Tĩnh                                           :   2 (10.00%)
+   3. Phú Thọ                                           :   2 (10.00%)
+   4. Nam Định                                          :   2 (10.00%)
+   5. Quảng Nam                                         :   2 (10.00%)
+   6. Long An                                           :   1 ( 5.00%)
+   7. Bắc Ninh                                          :   1 ( 5.00%)
+   8. Đồng Tháp                                         :   1 ( 5.00%)
+   9. Thái Bình                                         :   1 ( 5.00%)
+  10. Bắc Giang                                         :   1 ( 5.00%)
+
+3.2. POSITION
+Total: 242
+Top 10:
+   1. Viện trưởng                                       :  19 ( 7.85%)
+   2. Kiểm sát viên cao cấp                             :   8 ( 3.31%)
+   3. Thành viên Hội đồng Thẩm phán Tòa án nhân dân tối cao:   6 ( 2.48%)
+   4. Phó Viện trưởng Viện Kiểm sát Nhân dân Tối cao    :   6 ( 2.48%)
+   5. Phó Chánh án Tòa án nhân dân tối cao              :   6 ( 2.48%)
+   6. Phó Viện trưởng                                   :   6 ( 2.48%)
+   7. Thẩm phán Tòa án nhân dân tối cao                 :   5 ( 2.07%)
+   8. Phó Viện trưởng Viện kiểm sát nhân dân tối cao Việt Nam:   4 ( 1.65%)
+   9. Phó Chánh án Tòa án nhân dân tối cao Việt Nam     :   4 ( 1.65%)
+  10. Viện trưởng Viện kiểm sát nhân dân thành phố Đà Nẵng:   4 ( 1.65%)
+
+3.3. AWARD
+Total: 2
+Top 10:
+   1. Huân chương Độc Lập hạng Ba                       :   1 (50.00%)
+   2. Anh hùng lực lượng vũ trang nhân dân              :   1 (50.00%)
+
+3.4. ALMAMATER
+Total: 2
+Top 10:
+   1. Trường Cán bộ kiểm sát trung ương                 :   1 (50.00%)
+   2. Đại học Luật Hà Nội                               :   1 (50.00%)
+
+3.5. ACADEMICTITLE
+Total: 29
+Top 10:
+   1. Cử nhân Luật                                      :   8 (27.59%)
+   2. Tiến sĩ Luật học                                  :   4 (13.79%)
+   3. Tiến sĩ                                           :   4 (13.79%)
+   4. Tiến sĩ Luật                                      :   3 (10.34%)
+   5. Thạc sĩ Luật                                      :   2 ( 6.90%)
+   6. Cử nhân                                           :   1 ( 3.45%)
+   7. Phó Giáo sư-Tiến sĩ Luật                          :   1 ( 3.45%)
+   8. Tiến sĩ chuyên ngành Tội phạm học và điều tra Tội phạm:   1 ( 3.45%)
+   9. Phó Giáo sư                                       :   1 ( 3.45%)
+  10. trung học cơ sở                                   :   1 ( 3.45%)
+
+3.6. MILITARYCAREER
+Total: 5
+Top 10:
+   1. Quân đội nhân dân Việt Nam                        :   4 (80.00%)
+   2. Không quân Nhân dân Việt Nam                      :   1 (20.00%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Huỳnh Văn Lưu
+Party: Đảng Cộng sản Việt Nam
+Birth: 1961-10-26
+Degree Centrality: 0.4286
+Connections: 24
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Tạ Quang Khải
+Party: Đảng Cộng sản Việt Nam
+Birth: 1964-01-01
+Eigenvector Centrality: 0.2775
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1941-1978 (span: 37 years)
+Average: 1962.4
+Count: 44/57
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1957-2025 (span: 68 years)
+Average: 2012.0
+Count: 123
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Huỳnh Văn Lưu                  -  24 connections - Đảng Cộng sản Việt Nam
+ 2. Tạ Quang Khải                  -  23 connections - Đảng Cộng sản Việt Nam
+ 3. Vũ Văn Diến                    -  23 connections - Đảng Cộng sản Việt Nam
+ 4. Lại Anh Tuấn                   -  22 connections - Đảng Cộng sản Việt Nam
+ 5. Nguyễn Xuân Sanh               -  22 connections - Đảng Cộng sản Việt Nam
+ 6. Trần Phước Tới                 -  22 connections - Đảng Cộng sản Việt Nam
+ 7. Lê Đức Xuân                    -  21 connections - Đảng Cộng sản Việt Nam
+ 8. Nguyễn Đăng Kính               -  21 connections - Đảng Cộng sản Việt Nam
+ 9. Trần Thanh Vân                 -  21 connections - Đảng Cộng sản Việt Nam
+10. Bùi Mạnh Cường                 -  21 connections - Đảng Cộng sản Việt Nam
+
+
+====================================================================================================
+COMMUNITY #14
+====================================================================================================
+
+1. BASIC INFO
+----------------------------------------------------------------------------------------------------
+Members: 32
+Edges: 163
+Density: 0.3286
+
+2. PARTY DISTRIBUTION
+----------------------------------------------------------------------------------------------------
+  • Đảng Cộng sản Việt Nam: 32 (100.00%)
+
+3. CONNECTED NODES
+----------------------------------------------------------------------------------------------------
+
+3.1. LOCATION
+Total: 30
+Top 10:
+   1. Hà Nội                                            :  13 (43.33%)
+   2. Nam Định                                          :   3 (10.00%)
+   3. Phú Thọ                                           :   2 ( 6.67%)
+   4. Đắk Lắk                                           :   1 ( 3.33%)
+   5. Thái Bình                                         :   1 ( 3.33%)
+   6. Vĩnh Phúc                                         :   1 ( 3.33%)
+   7. Trà Vinh                                          :   1 ( 3.33%)
+   8. Thanh Hóa                                         :   1 ( 3.33%)
+   9. chưa rõ                                           :   1 ( 3.33%)
+  10. Bắc Giang                                         :   1 ( 3.33%)
+
+3.2. POSITION
+Total: 158
+Top 10:
+   1. Đại biểu Quốc hội Việt Nam khóa 13                :  14 ( 8.86%)
+   2. Thứ trưởng Bộ Ngoại giao                          :  11 ( 6.96%)
+   3. Thứ trưởng Bộ Ngoại giao Việt Nam                 :   4 ( 2.53%)
+   4. Đại sứ Đặc mệnh toàn quyền Việt Nam               :   3 ( 1.90%)
+   5. Đại sứ đặc mệnh toàn quyền                        :   3 ( 1.90%)
+   6. Đại sứ Việt Nam tại Hoa Kỳ                        :   3 ( 1.90%)
+   7. Trợ lý Bộ trưởng Bộ ngoại giao                    :   2 ( 1.27%)
+   8. Trưởng SOM ASEAN Việt Nam                         :   2 ( 1.27%)
+   9. Vụ trưởng Vụ Thông tin báo chí                    :   2 ( 1.27%)
+  10. Vụ trưởng Vụ Thông tin Báo chí, Người Phát ngôn của Bộ Ngoại giao:   2 ( 1.27%)
+
+3.3. AWARD
+Total: 12
+Top 10:
+   1. Huân chương Chiến công hạng Nhất                  :   1 ( 8.33%)
+   2. Huân chương Lao động hạng Ba                      :   1 ( 8.33%)
+   3. Huân chương Lao động hạng Nhất                    :   1 ( 8.33%)
+   4. Huân chương Độc lập hạng Nhất                     :   1 ( 8.33%)
+   5. Huy hiệu 55 năm tuổi Đảng                         :   1 ( 8.33%)
+   6. Huy hiệu 60 năm tuổi Đảng                         :   1 ( 8.33%)
+   7. Huân chương Kháng chiến hạng Nhì                  :   1 ( 8.33%)
+   8. Huân chương Kháng chiến chống Mỹ cứu nước hạng Nhì:   1 ( 8.33%)
+   9. Hàm Đại sứ Đặc mệnh toàn quyền                    :   1 ( 8.33%)
+  10. Huân chương Hữu nghị các dân tộc (Liên Xô)        :   1 ( 8.33%)
+
+3.4. ALMAMATER
+Total: 8
+Top 10:
+   1. Đại học Quốc gia Quan hệ Quốc tế Mát-xcơ-va       :   2 (25.00%)
+   2. Đại học Quốc gia Quan hệ Quốc tế Moskva           :   1 (12.50%)
+   3. Đại học Tài chính Kế toán Hà Nội                  :   1 (12.50%)
+   4. Đại học Sư phạm Ngoại ngữ Hà Nội                  :   1 (12.50%)
+   5. Đại học Sourthern California                      :   1 (12.50%)
+   6. Đại học Quốc gia Úc                               :   1 (12.50%)
+   7. Trường Đại học Cảnh sát Nhân dân                  :   1 (12.50%)
+
+3.5. ACADEMICTITLE
+Total: 23
+Top 10:
+   1. Cao cấp Quân sự                                   :   1 ( 4.35%)
+   2. Thạc sĩ về Quản trị Công (MPA)                    :   1 ( 4.35%)
+   3. Học viện Ngoại giao Việt Nam Đại học Tổng hợp Kiev Đại học Birmingham (Thạc sĩ Quan hệ Quốc tế):   1 ( 4.35%)
+   4. Đại học Kiev                                      :   1 ( 4.35%)
+   5. Học viện Ngoại giao Việt Nam                      :   1 ( 4.35%)
+   6. Cử nhân đại học luật                              :   1 ( 4.35%)
+   7. Cử nhân Đại học Ngoại giao (nay là Học viện Ngoại giao Việt Nam) năm 1988. Thạc sĩ Nghiên cứu phát triển tại Đại học Carleton:   1 ( 4.35%)
+   8. Canada (1996-1998). Tiến sĩ Sử học                :   1 ( 4.35%)
+   9. Học viện Khoa học Xã hội                          :   1 ( 4.35%)
+  10. Hà Nội                                            :   1 ( 4.35%)
+
+3.6. MILITARYRANK
+Total: 3
+Top 10:
+   1. Trung tướng                                       :   3 (100.00%)
+
+3.7. MILITARYCAREER
+Total: 3
+Top 10:
+   1. Công an nhân dân Việt Nam                         :   3 (100.00%)
+
+4. CENTRAL NODE (Degree)
+----------------------------------------------------------------------------------------------------
+Name: Thạch Dư
+Party: Đảng Cộng sản Việt Nam
+Birth: 1957-08-25
+Degree Centrality: 0.8065
+Connections: 25
+
+5. CENTRAL NODE (Eigenvector)
+----------------------------------------------------------------------------------------------------
+Name: Thạch Dư
+Party: Đảng Cộng sản Việt Nam
+Birth: 1957-08-25
+Eigenvector Centrality: 0.3262
+
+6. BIRTH YEAR STATS
+----------------------------------------------------------------------------------------------------
+Range: 1927-1977 (span: 50 years)
+Average: 1958.4
+Count: 31/32
+
+7. TERM START STATS
+----------------------------------------------------------------------------------------------------
+Range: 1966-2025 (span: 59 years)
+Average: 2009.7
+Count: 107
+
+8. TOP 10 CONNECTED MEMBERS
+----------------------------------------------------------------------------------------------------
+ 1. Thạch Dư                       -  25 connections - Đảng Cộng sản Việt Nam
+ 2. Nguyễn Văn Hiện                -  14 connections - Đảng Cộng sản Việt Nam
+ 3. Nguyễn Thanh Nam               -  14 connections - Đảng Cộng sản Việt Nam
+ 4. Y Thông                        -  14 connections - Đảng Cộng sản Việt Nam
+ 5. Bùi Nguyên Súy                 -  13 connections - Đảng Cộng sản Việt Nam
+ 6. Niê Thuật                      -  13 connections - Đảng Cộng sản Việt Nam
+ 7. Nguyễn Sáng Vang               -  13 connections - Đảng Cộng sản Việt Nam
+ 8. Nguyễn Sỹ Cương                -  13 connections - Đảng Cộng sản Việt Nam
+ 9. Võ Tuấn Nhân                   -  13 connections - Đảng Cộng sản Việt Nam
+10. Nguyễn Kim Khoa                -  13 connections - Đảng Cộng sản Việt Nam
+
+
