@@ -50,4 +50,5 @@ def get_logger(
 #     log = get_logger()
 #     for i in range(5):
 #         log.info(f"Log message {i}")
+
 #     print("Done.")

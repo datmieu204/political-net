@@ -40,6 +40,11 @@ class Settings():
     INPUT_GRAPH_POLITICIAN_FILE = OUTPUT_FINAL_POLITICIAN_FILE
     OUTPUT_CYPHER_FILE = OUTPUT_DIR + "/processed/graph/neo4j_import.cypher"
     OUTPUT_GRAPH_FILE = OUTPUT_DIR + "/processed/graph/knowledge_graph.json"
+    OUTPUT_ENRICHED_GRAPH_FILE = OUTPUT_DIR + "/processed/graph/knowledge_graph_enriched.json"
+
+    #Analysis settings
+    OUTPUT_ANALYSIS_DIR = "./analysis/results"
+    OUTPUT_LIST_MEMBERS = OUTPUT_ANALYSIS_DIR + "/list_members"
 
     # Neo4j settings
     NEO4J_URI = "neo4j://127.0.0.1:7687"
