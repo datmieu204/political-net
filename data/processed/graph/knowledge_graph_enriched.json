@@ -167,7 +167,7 @@
         "type": "Politician",
         "name": "Nguyễn Duy Ngọc",
         "properties": {
-          "birth_date": "1964-01-01",
+          "birth_date": "1964",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -207,7 +207,7 @@
         "type": "Politician",
         "name": "Y Thanh Hà Niê Kđăm",
         "properties": {
-          "birth_date": "1973-01-01",
+          "birth_date": "1973",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -347,7 +347,7 @@
         "type": "Politician",
         "name": "Nguyễn Doãn Anh",
         "properties": {
-          "birth_date": "1967-01-01",
+          "birth_date": "1967",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -367,7 +367,7 @@
         "type": "Politician",
         "name": "Bùi Thị Minh Hoài",
         "properties": {
-          "birth_date": "1965-01-01",
+          "birth_date": "1965",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -377,7 +377,7 @@
         "type": "Politician",
         "name": "Mai Văn Chính",
         "properties": {
-          "birth_date": "1961-01-01",
+          "birth_date": "1961",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -467,7 +467,7 @@
         "type": "Politician",
         "name": "Bùi Đức Hinh",
         "properties": {
-          "birth_date": "1968-01-01",
+          "birth_date": "1968",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -537,7 +537,7 @@
         "type": "Politician",
         "name": "Cao Ngọc Oánh",
         "properties": {
-          "birth_date": "1954-01-01",
+          "birth_date": "1954",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -557,7 +557,7 @@
         "type": "Politician",
         "name": "Hà Ban",
         "properties": {
-          "birth_date": "1957-01-01",
+          "birth_date": "1957",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -607,9 +607,9 @@
         "type": "Politician",
         "name": "Lê Văn Minh",
         "properties": {
-          "birth_date": "1958-01-01",
+          "birth_date": "1958",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2021-01-01"
+          "death_date": "2021"
         }
       },
       {
@@ -707,7 +707,7 @@
         "type": "Politician",
         "name": "Lê Thị Bích Trân",
         "properties": {
-          "birth_date": "1958-01-01",
+          "birth_date": "1958",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -817,7 +817,7 @@
         "type": "Politician",
         "name": "Lê Ngọc Châu",
         "properties": {
-          "birth_date": "1972-01-01",
+          "birth_date": "1972",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -847,7 +847,7 @@
         "type": "Politician",
         "name": "Lê Văn Hiệu",
         "properties": {
-          "birth_date": "1967-01-01",
+          "birth_date": "1967",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -867,7 +867,7 @@
         "type": "Politician",
         "name": "Lữ Văn Hùng",
         "properties": {
-          "birth_date": "1963-01-01",
+          "birth_date": "1963",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -877,7 +877,7 @@
         "type": "Politician",
         "name": "Đỗ Mạnh Hiến",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -897,7 +897,7 @@
         "type": "Politician",
         "name": "Đồng Văn Thanh",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -967,7 +967,7 @@
         "type": "Politician",
         "name": "Phạm Quốc Hưng",
         "properties": {
-          "birth_date": "1973-01-01",
+          "birth_date": "1973",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -977,7 +977,7 @@
         "type": "Politician",
         "name": "Nguyễn Thị Thu Hà",
         "properties": {
-          "birth_date": "1956-01-01",
+          "birth_date": "1956",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -997,7 +997,7 @@
         "type": "Politician",
         "name": "Nguyễn Quang Dũng",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -1007,7 +1007,7 @@
         "type": "Politician",
         "name": "Trần Công Phàn",
         "properties": {
-          "birth_date": "1960-01-01",
+          "birth_date": "1960",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -1087,7 +1087,7 @@
         "type": "Politician",
         "name": "Nguyễn Hải Trâm",
         "properties": {
-          "birth_date": "1975-01-01",
+          "birth_date": "1975",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -1097,7 +1097,7 @@
         "type": "Politician",
         "name": "Tạ Quang Khải",
         "properties": {
-          "birth_date": "1964-01-01",
+          "birth_date": "1964",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -1107,7 +1107,7 @@
         "type": "Politician",
         "name": "Nguyễn Huy Tiến",
         "properties": {
-          "birth_date": "1968-01-01",
+          "birth_date": "1968",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -1127,7 +1127,7 @@
         "type": "Politician",
         "name": "Lê Hữu Thể",
         "properties": {
-          "birth_date": "1958-01-01",
+          "birth_date": "1958",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -1267,7 +1267,7 @@
         "type": "Politician",
         "name": "Nguyễn Thiện Nhân",
         "properties": {
-          "birth_date": "1953-01-01",
+          "birth_date": "1953",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -1347,7 +1347,7 @@
         "type": "Politician",
         "name": "Lê Quang Minh",
         "properties": {
-          "birth_date": "1968-01-01",
+          "birth_date": "1968",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -1647,7 +1647,7 @@
         "type": "Politician",
         "name": "Phạm Duy Cường",
         "properties": {
-          "birth_date": "1958-01-01",
+          "birth_date": "1958",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2016-08-18"
         }
@@ -1687,7 +1687,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Long",
         "properties": {
-          "birth_date": "1974-01-01",
+          "birth_date": "1974",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -1717,7 +1717,7 @@
         "type": "Politician",
         "name": "Hà Quốc Trị",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -1787,7 +1787,7 @@
         "type": "Politician",
         "name": "Nguyễn Thế Mạnh",
         "properties": {
-          "birth_date": "1972-01-01",
+          "birth_date": "1972",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -1947,7 +1947,7 @@
         "type": "Politician",
         "name": "Êban Y Phu",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -1967,7 +1967,7 @@
         "type": "Politician",
         "name": "Trần Đức Quận",
         "properties": {
-          "birth_date": "1967-01-01",
+          "birth_date": "1967",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -1977,7 +1977,7 @@
         "type": "Politician",
         "name": "Trần Đình Văn",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2037,7 +2037,7 @@
         "type": "Politician",
         "name": "Phạm Dũng",
         "properties": {
-          "birth_date": "1956-01-01",
+          "birth_date": "1956",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2057,7 +2057,7 @@
         "type": "Politician",
         "name": "Ngô Phương Ly",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2077,7 +2077,7 @@
         "type": "Politician",
         "name": "Nguyễn Trường Thắng",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2157,9 +2157,9 @@
         "type": "Politician",
         "name": "Trần Anh Vinh",
         "properties": {
-          "birth_date": "1926-01-01",
+          "birth_date": "1926",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2016-01-01"
+          "death_date": "2016"
         }
       },
       {
@@ -2217,7 +2217,7 @@
         "type": "Politician",
         "name": "Nguyễn Quang Thuấn",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2227,7 +2227,7 @@
         "type": "Politician",
         "name": "Tạ Ngọc Tấn",
         "properties": {
-          "birth_date": "1954-01-01",
+          "birth_date": "1954",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2237,7 +2237,7 @@
         "type": "Politician",
         "name": "Phùng Hữu Phú",
         "properties": {
-          "birth_date": "1948-01-01",
+          "birth_date": "1948",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2247,7 +2247,7 @@
         "type": "Politician",
         "name": "Bùi Nhật Quang",
         "properties": {
-          "birth_date": "1975-01-01",
+          "birth_date": "1975",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2447,7 +2447,7 @@
         "type": "Politician",
         "name": "Phạm Minh Toản",
         "properties": {
-          "birth_date": "1953-01-01",
+          "birth_date": "1953",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2487,7 +2487,7 @@
         "type": "Politician",
         "name": "Nguyễn Minh Vũ",
         "properties": {
-          "birth_date": "1976-01-01",
+          "birth_date": "1976",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2497,7 +2497,7 @@
         "type": "Politician",
         "name": "Đỗ Hùng Việt",
         "properties": {
-          "birth_date": "1977-01-01",
+          "birth_date": "1977",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2577,7 +2577,7 @@
         "type": "Politician",
         "name": "Nguyễn Quốc Dũng",
         "properties": {
-          "birth_date": "1964-01-01",
+          "birth_date": "1964",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2587,7 +2587,7 @@
         "type": "Politician",
         "name": "Hà Kim Ngọc",
         "properties": {
-          "birth_date": "1963-01-01",
+          "birth_date": "1963",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2597,7 +2597,7 @@
         "type": "Politician",
         "name": "Huỳnh Thị Phúc",
         "properties": {
-          "birth_date": "1976-01-01",
+          "birth_date": "1976",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2617,7 +2617,7 @@
         "type": "Politician",
         "name": "Nguyễn Thị Ngọc Xuân",
         "properties": {
-          "birth_date": "1985-01-01",
+          "birth_date": "1985",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2787,7 +2787,7 @@
         "type": "Politician",
         "name": "Võ Công Trí",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2827,7 +2827,7 @@
         "type": "Politician",
         "name": "Nguyễn Danh Cộng",
         "properties": {
-          "birth_date": "1957-01-01",
+          "birth_date": "1957",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2837,7 +2837,7 @@
         "type": "Politician",
         "name": "Phạm Thế Tùng",
         "properties": {
-          "birth_date": "1972-01-01",
+          "birth_date": "1972",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2917,7 +2917,7 @@
         "type": "Politician",
         "name": "Huỳnh Quốc Việt",
         "properties": {
-          "birth_date": "1976-01-01",
+          "birth_date": "1976",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2937,7 +2937,7 @@
         "type": "Politician",
         "name": "Hồ Văn Mừng",
         "properties": {
-          "birth_date": "1977-01-01",
+          "birth_date": "1977",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2957,7 +2957,7 @@
         "type": "Politician",
         "name": "Trần Thị Thanh Hương",
         "properties": {
-          "birth_date": "1971-01-01",
+          "birth_date": "1971",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2987,7 +2987,7 @@
         "type": "Politician",
         "name": "Lâm Minh Thành",
         "properties": {
-          "birth_date": "1972-01-01",
+          "birth_date": "1972",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -2997,7 +2997,7 @@
         "type": "Politician",
         "name": "Nguyễn Hoài Anh",
         "properties": {
-          "birth_date": "1977-01-01",
+          "birth_date": "1977",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3007,7 +3007,7 @@
         "type": "Politician",
         "name": "Đỗ Minh Tuấn",
         "properties": {
-          "birth_date": "1972-01-01",
+          "birth_date": "1972",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3017,7 +3017,7 @@
         "type": "Politician",
         "name": "Nguyễn Hồng Phong",
         "properties": {
-          "birth_date": "1979-01-01",
+          "birth_date": "1979",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3037,7 +3037,7 @@
         "type": "Politician",
         "name": "Thạc Sĩ, Lại Thế Nguyên",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3077,7 +3077,7 @@
         "type": "Politician",
         "name": "Cao Tường Huy",
         "properties": {
-          "birth_date": "1973-01-01",
+          "birth_date": "1973",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3117,7 +3117,7 @@
         "type": "Politician",
         "name": "Nguyễn Công Nghiệp",
         "properties": {
-          "birth_date": "1953-01-01",
+          "birth_date": "1953",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3287,7 +3287,7 @@
         "type": "Politician",
         "name": "Phùng Thanh Kiểm",
         "properties": {
-          "birth_date": "1958-01-01",
+          "birth_date": "1958",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3347,7 +3347,7 @@
         "type": "Politician",
         "name": "Lê Xuân Tùng",
         "properties": {
-          "birth_date": "1936-01-01",
+          "birth_date": "1936",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3387,7 +3387,7 @@
         "type": "Politician",
         "name": "Phạm Anh Tuấn",
         "properties": {
-          "birth_date": "1973-01-01",
+          "birth_date": "1973",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3407,7 +3407,7 @@
         "type": "Politician",
         "name": "Phạm Ngọc Thưởng",
         "properties": {
-          "birth_date": "1968-01-01",
+          "birth_date": "1968",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3447,7 +3447,7 @@
         "type": "Politician",
         "name": "Hồ Tiến Thiệu",
         "properties": {
-          "birth_date": "1965-01-01",
+          "birth_date": "1965",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3567,7 +3567,7 @@
         "type": "Politician",
         "name": "Hồ Đức Việt",
         "properties": {
-          "birth_date": "1947-01-01",
+          "birth_date": "1947",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2013-05-31"
         }
@@ -3587,7 +3587,7 @@
         "type": "Politician",
         "name": "Nguyễn Tuấn Khanh",
         "properties": {
-          "birth_date": "1954-01-01",
+          "birth_date": "1954",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3677,7 +3677,7 @@
         "type": "Politician",
         "name": "Lê Mạnh Hùng",
         "properties": {
-          "birth_date": "1973-01-01",
+          "birth_date": "1973",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3687,7 +3687,7 @@
         "type": "Politician",
         "name": "Nguyễn Quốc Triệu",
         "properties": {
-          "birth_date": "1951-01-01",
+          "birth_date": "1951",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2025-01-24"
         }
@@ -3717,7 +3717,7 @@
         "type": "Politician",
         "name": "Phan Văn Khải, Sáu Khải",
         "properties": {
-          "birth_date": "1933-01-01",
+          "birth_date": "1933",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2018-03-17"
         }
@@ -3817,7 +3817,7 @@
         "type": "Politician",
         "name": "Nguyễn Tất Lợi",
         "properties": {
-          "birth_date": "1960-01-01",
+          "birth_date": "1960",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3897,7 +3897,7 @@
         "type": "Politician",
         "name": "Trương Hải Long",
         "properties": {
-          "birth_date": "1976-01-01",
+          "birth_date": "1976",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -3977,7 +3977,7 @@
         "type": "Politician",
         "name": "Trần Thị Nguyệt Thu",
         "properties": {
-          "birth_date": "1957-01-01",
+          "birth_date": "1957",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4057,7 +4057,7 @@
         "type": "Politician",
         "name": "Tạ Thị Yên",
         "properties": {
-          "birth_date": "1972-01-01",
+          "birth_date": "1972",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4067,7 +4067,7 @@
         "type": "Politician",
         "name": "Đinh Văn Điến",
         "properties": {
-          "birth_date": "1961-01-01",
+          "birth_date": "1961",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4197,9 +4197,9 @@
         "type": "Politician",
         "name": "Hà Mạnh Trí",
         "properties": {
-          "birth_date": "1942-01-01",
+          "birth_date": "1942",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2021-01-01"
+          "death_date": "2021"
         }
       },
       {
@@ -4257,7 +4257,7 @@
         "type": "Politician",
         "name": "Đỗ Xuân Tuyên",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4367,9 +4367,9 @@
         "type": "Politician",
         "name": "Phạm Hoàng Bê",
         "properties": {
-          "birth_date": "1955-01-01",
+          "birth_date": "1955",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2014-01-01"
+          "death_date": "2014"
         }
       },
       {
@@ -4397,7 +4397,7 @@
         "type": "Politician",
         "name": "Phạm Quốc Cương",
         "properties": {
-          "birth_date": "1962-01-01",
+          "birth_date": "1962",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4407,7 +4407,7 @@
         "type": "Politician",
         "name": "Lê Văn Sao",
         "properties": {
-          "birth_date": "1967-01-01",
+          "birth_date": "1967",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4417,7 +4417,7 @@
         "type": "Politician",
         "name": "Nguyễn Ngọc Vân",
         "properties": {
-          "birth_date": "1976-01-01",
+          "birth_date": "1976",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4427,7 +4427,7 @@
         "type": "Politician",
         "name": "Nguyễn Ngọc Thanh",
         "properties": {
-          "birth_date": "1965-01-01",
+          "birth_date": "1965",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4487,7 +4487,7 @@
         "type": "Politician",
         "name": "Phan Huy Ngọc",
         "properties": {
-          "birth_date": "1972-01-01",
+          "birth_date": "1972",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4507,9 +4507,9 @@
         "type": "Politician",
         "name": "Nguyễn Văn Vịnh",
         "properties": {
-          "birth_date": "1918-01-01",
+          "birth_date": "1918",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1978-01-01"
+          "death_date": "1978"
         }
       },
       {
@@ -4537,7 +4537,7 @@
         "type": "Politician",
         "name": "Y Vinh Tơr",
         "properties": {
-          "birth_date": "1976-01-01",
+          "birth_date": "1976",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4617,7 +4617,7 @@
         "type": "Politician",
         "name": "Phạm Văn Hiểu",
         "properties": {
-          "birth_date": "1964-01-01",
+          "birth_date": "1964",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4627,7 +4627,7 @@
         "type": "Politician",
         "name": "Trương Cảnh Tuyên",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4637,7 +4637,7 @@
         "type": "Politician",
         "name": "Nguyễn Thị Hiền",
         "properties": {
-          "birth_date": "1958-01-01",
+          "birth_date": "1958",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4667,7 +4667,7 @@
         "type": "Politician",
         "name": "Phạm Minh Tuyên",
         "properties": {
-          "birth_date": "1963-01-01",
+          "birth_date": "1963",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4677,7 +4677,7 @@
         "type": "Politician",
         "name": "Hà Quang Dĩnh",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4767,7 +4767,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Quang",
         "properties": {
-          "birth_date": "1967-01-01",
+          "birth_date": "1967",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4777,7 +4777,7 @@
         "type": "Politician",
         "name": "Lê Tiến",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4787,7 +4787,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Hòa",
         "properties": {
-          "birth_date": "1965-01-01",
+          "birth_date": "1965",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4797,7 +4797,7 @@
         "type": "Politician",
         "name": "Nguyễn Quang Thành",
         "properties": {
-          "birth_date": "1961-01-01",
+          "birth_date": "1961",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4827,7 +4827,7 @@
         "type": "Politician",
         "name": "Trương Vĩnh Trọng, Hai Nghĩa",
         "properties": {
-          "birth_date": "1942-01-01",
+          "birth_date": "1942",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2021-02-19"
         }
@@ -4837,7 +4837,7 @@
         "type": "Politician",
         "name": "Nguyễn Đức Hạt",
         "properties": {
-          "birth_date": "1945-01-01",
+          "birth_date": "1945",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4847,7 +4847,7 @@
         "type": "Politician",
         "name": "Văn Hữu Chiến",
         "properties": {
-          "birth_date": "1954-01-01",
+          "birth_date": "1954",
           "party": "Đã bị khai trừ khỏi Đảng",
           "death_date": ""
         }
@@ -4867,7 +4867,7 @@
         "type": "Politician",
         "name": "Trần Thọ",
         "properties": {
-          "birth_date": "1956-01-01",
+          "birth_date": "1956",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4887,9 +4887,9 @@
         "type": "Politician",
         "name": "Hồ Việt",
         "properties": {
-          "birth_date": "1945-01-01",
+          "birth_date": "1945",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2019-01-01"
+          "death_date": "2019"
         }
       },
       {
@@ -4897,7 +4897,7 @@
         "type": "Politician",
         "name": "Huỳnh Năm",
         "properties": {
-          "birth_date": "1944-01-01",
+          "birth_date": "1944",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4927,7 +4927,7 @@
         "type": "Politician",
         "name": "Lê Đức Xuân",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -4957,7 +4957,7 @@
         "type": "Politician",
         "name": "Dương Văn Phùng",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5177,7 +5177,7 @@
         "type": "Politician",
         "name": "Lê Nam Giới",
         "properties": {
-          "birth_date": "1947-01-01",
+          "birth_date": "1947",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5217,7 +5217,7 @@
         "type": "Politician",
         "name": "Lê Chiêm",
         "properties": {
-          "birth_date": "1958-01-01",
+          "birth_date": "1958",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5227,7 +5227,7 @@
         "type": "Politician",
         "name": "Phùng Quang Thanh",
         "properties": {
-          "birth_date": "1949-01-01",
+          "birth_date": "1949",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2021-09-11"
         }
@@ -5257,7 +5257,7 @@
         "type": "Politician",
         "name": "Trương Thiên Tô",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5307,7 +5307,7 @@
         "type": "Politician",
         "name": "Vương Quốc Tuấn",
         "properties": {
-          "birth_date": "1977-01-01",
+          "birth_date": "1977",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5337,9 +5337,9 @@
         "type": "Politician",
         "name": "Phạm Vũ Hồng",
         "properties": {
-          "birth_date": "1961-01-01",
+          "birth_date": "1961",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2021-01-01"
+          "death_date": "2021"
         }
       },
       {
@@ -5357,7 +5357,7 @@
         "type": "Politician",
         "name": "Trần Văn Lâu",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5427,7 +5427,7 @@
         "type": "Politician",
         "name": "Trần Thắng",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5447,7 +5447,7 @@
         "type": "Politician",
         "name": "Nguyễn Xuân Sang",
         "properties": {
-          "birth_date": "1951-01-01",
+          "birth_date": "1951",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5517,7 +5517,7 @@
         "type": "Politician",
         "name": "Nguyễn Thị Thúy Ngần",
         "properties": {
-          "birth_date": "1972-01-01",
+          "birth_date": "1972",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5537,7 +5537,7 @@
         "type": "Politician",
         "name": "Phạm Thúy Chinh",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5627,7 +5627,7 @@
         "type": "Politician",
         "name": "Nguyễn Thị Nghĩa",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5647,7 +5647,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Phúc",
         "properties": {
-          "birth_date": "1974-01-01",
+          "birth_date": "1974",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5667,7 +5667,7 @@
         "type": "Politician",
         "name": "Mai Trọng Nhuận",
         "properties": {
-          "birth_date": "1952-01-01",
+          "birth_date": "1952",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5687,7 +5687,7 @@
         "type": "Politician",
         "name": "Hoàng Trung Dũng",
         "properties": {
-          "birth_date": "1971-01-01",
+          "birth_date": "1971",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5737,7 +5737,7 @@
         "type": "Politician",
         "name": "Nguyễn Khắc Thận",
         "properties": {
-          "birth_date": "1974-01-01",
+          "birth_date": "1974",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5757,7 +5757,7 @@
         "type": "Politician",
         "name": "Hoàng Xuân Ánh",
         "properties": {
-          "birth_date": "1964-01-01",
+          "birth_date": "1964",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5777,7 +5777,7 @@
         "type": "Politician",
         "name": "Lê Đăng Dũng",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5787,7 +5787,7 @@
         "type": "Politician",
         "name": "Hồ Thị Hoàng Yến",
         "properties": {
-          "birth_date": "1971-01-01",
+          "birth_date": "1971",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5817,7 +5817,7 @@
         "type": "Politician",
         "name": "Nguyễn Đức Lợi",
         "properties": {
-          "birth_date": "1960-01-01",
+          "birth_date": "1960",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -5987,7 +5987,7 @@
         "type": "Politician",
         "name": "Vũ Hùng Vương",
         "properties": {
-          "birth_date": "1951-01-01",
+          "birth_date": "1951",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6007,7 +6007,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Sơn",
         "properties": {
-          "birth_date": "1961-01-01",
+          "birth_date": "1961",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6017,7 +6017,7 @@
         "type": "Politician",
         "name": "Mai Văn Hà",
         "properties": {
-          "birth_date": "1962-01-01",
+          "birth_date": "1962",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6027,7 +6027,7 @@
         "type": "Politician",
         "name": "Lê Minh Hùng",
         "properties": {
-          "birth_date": "1963-01-01",
+          "birth_date": "1963",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6047,7 +6047,7 @@
         "type": "Politician",
         "name": "Nguyễn Ngọc Lâm",
         "properties": {
-          "birth_date": "1973-01-01",
+          "birth_date": "1973",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6157,7 +6157,7 @@
         "type": "Politician",
         "name": "Nguyễn Thị Phú Hà",
         "properties": {
-          "birth_date": "1972-01-01",
+          "birth_date": "1972",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6187,7 +6187,7 @@
         "type": "Politician",
         "name": "Lâm Văn Đoan",
         "properties": {
-          "birth_date": "1976-01-01",
+          "birth_date": "1976",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6217,7 +6217,7 @@
         "type": "Politician",
         "name": "Tạ Anh Tuấn",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6347,7 +6347,7 @@
         "type": "Politician",
         "name": "Lê Hoàng Hải",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6377,7 +6377,7 @@
         "type": "Politician",
         "name": "Hoàng Kông Tư",
         "properties": {
-          "birth_date": "1953-01-01",
+          "birth_date": "1953",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6407,7 +6407,7 @@
         "type": "Politician",
         "name": "Phạm Hồng Hương",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6427,7 +6427,7 @@
         "type": "Politician",
         "name": "Phạm Mạnh Hùng",
         "properties": {
-          "birth_date": "1964-01-01",
+          "birth_date": "1964",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6467,7 +6467,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Nghĩa",
         "properties": {
-          "birth_date": "1964-01-01",
+          "birth_date": "1964",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6477,7 +6477,7 @@
         "type": "Politician",
         "name": "Trần Việt Khoa",
         "properties": {
-          "birth_date": "1965-01-01",
+          "birth_date": "1965",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6497,7 +6497,7 @@
         "type": "Politician",
         "name": "Nguyễn Quang Cường",
         "properties": {
-          "birth_date": "1965-01-01",
+          "birth_date": "1965",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6507,7 +6507,7 @@
         "type": "Politician",
         "name": "Phương Minh Hòa",
         "properties": {
-          "birth_date": "1955-01-01",
+          "birth_date": "1955",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6527,7 +6527,7 @@
         "type": "Politician",
         "name": "Vũ Ngọc Hải",
         "properties": {
-          "birth_date": "1931-01-01",
+          "birth_date": "1931",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6557,7 +6557,7 @@
         "type": "Politician",
         "name": "Phạm Hồng Chương",
         "properties": {
-          "birth_date": "1963-01-01",
+          "birth_date": "1963",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6567,7 +6567,7 @@
         "type": "Politician",
         "name": "Lê Quý Đạm",
         "properties": {
-          "birth_date": "1960-01-01",
+          "birth_date": "1960",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6637,9 +6637,9 @@
         "type": "Politician",
         "name": "Bùi Đức Hạnh",
         "properties": {
-          "birth_date": "1960-01-01",
+          "birth_date": "1960",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2023-01-01"
+          "death_date": "2023"
         }
       },
       {
@@ -6667,7 +6667,7 @@
         "type": "Politician",
         "name": "Phan Chí Hiếu",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6677,7 +6677,7 @@
         "type": "Politician",
         "name": "Lê Văn Tuyến",
         "properties": {
-          "birth_date": "1973-01-01",
+          "birth_date": "1973",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6707,7 +6707,7 @@
         "type": "Politician",
         "name": "Lê Văn Khoa",
         "properties": {
-          "birth_date": "1961-01-01",
+          "birth_date": "1961",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6737,7 +6737,7 @@
         "type": "Politician",
         "name": "Phạm Hùng Thái",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6767,7 +6767,7 @@
         "type": "Politician",
         "name": "Võ Văn Hoan",
         "properties": {
-          "birth_date": "1965-01-01",
+          "birth_date": "1965",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6847,7 +6847,7 @@
         "type": "Politician",
         "name": "Thái Bảo",
         "properties": {
-          "birth_date": "1974-01-01",
+          "birth_date": "1974",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -6997,7 +6997,7 @@
         "type": "Politician",
         "name": "Nguyễn Khánh",
         "properties": {
-          "birth_date": "1928-01-01",
+          "birth_date": "1928",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2023-07-19"
         }
@@ -7027,7 +7027,7 @@
         "type": "Politician",
         "name": "Phạm Quang Vinh",
         "properties": {
-          "birth_date": "1957-01-01",
+          "birth_date": "1957",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7047,7 +7047,7 @@
         "type": "Politician",
         "name": "Trịnh Ngọc Quyên",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7097,7 +7097,7 @@
         "type": "Politician",
         "name": "Phạm Văn Chánh",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7107,7 +7107,7 @@
         "type": "Politician",
         "name": "Lưu Xuân Vĩnh",
         "properties": {
-          "birth_date": "1961-01-01",
+          "birth_date": "1961",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7117,7 +7117,7 @@
         "type": "Politician",
         "name": "Trần Việt Trường",
         "properties": {
-          "birth_date": "1971-01-01",
+          "birth_date": "1971",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7157,7 +7157,7 @@
         "type": "Politician",
         "name": "Nguyễn Xuân Anh",
         "properties": {
-          "birth_date": "1976-01-01",
+          "birth_date": "1976",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7167,7 +7167,7 @@
         "type": "Politician",
         "name": "Nguyễn Ngọc Đông",
         "properties": {
-          "birth_date": "1962-01-01",
+          "birth_date": "1962",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7217,7 +7217,7 @@
         "type": "Politician",
         "name": "Lê Văn Dũng",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7227,9 +7227,9 @@
         "type": "Politician",
         "name": "Nguyễn Thanh Quang",
         "properties": {
-          "birth_date": "1964-01-01",
+          "birth_date": "1964",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2021-01-01"
+          "death_date": "2021"
         }
       },
       {
@@ -7247,7 +7247,7 @@
         "type": "Politician",
         "name": "Phạm Đức Ấn",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7257,7 +7257,7 @@
         "type": "Politician",
         "name": "Nguyễn Bá Cảnh",
         "properties": {
-          "birth_date": "1983-01-01",
+          "birth_date": "1983",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7267,7 +7267,7 @@
         "type": "Politician",
         "name": "Đặng Thị Kim Liên",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7287,7 +7287,7 @@
         "type": "Politician",
         "name": "Lý Anh Dũng",
         "properties": {
-          "birth_date": "1961-01-01",
+          "birth_date": "1961",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7317,7 +7317,7 @@
         "type": "Politician",
         "name": "Trung tướng, Tiến sĩ Đinh Văn Nơi",
         "properties": {
-          "birth_date": "1976-01-01",
+          "birth_date": "1976",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7387,7 +7387,7 @@
         "type": "Politician",
         "name": "Hoàng Văn Hà",
         "properties": {
-          "birth_date": "1976-01-01",
+          "birth_date": "1976",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7527,7 +7527,7 @@
         "type": "Politician",
         "name": "Hoàng Minh Sơn",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7537,7 +7537,7 @@
         "type": "Politician",
         "name": "Lê Dũng",
         "properties": {
-          "birth_date": "1961-01-01",
+          "birth_date": "1961",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7577,7 +7577,7 @@
         "type": "Politician",
         "name": "Đặng Hồng Sỹ",
         "properties": {
-          "birth_date": "1976-01-01",
+          "birth_date": "1976",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7607,7 +7607,7 @@
         "type": "Politician",
         "name": "Nguyễn Sỹ Quang",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7637,7 +7637,7 @@
         "type": "Politician",
         "name": "Trương Mạnh Dũng",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7657,7 +7657,7 @@
         "type": "Politician",
         "name": "Ngô Hoàng Ngân",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7667,7 +7667,7 @@
         "type": "Politician",
         "name": "Trương Quốc Huy",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7677,7 +7677,7 @@
         "type": "Politician",
         "name": "Huỳnh Cách Mạng",
         "properties": {
-          "birth_date": "1965-01-01",
+          "birth_date": "1965",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7767,7 +7767,7 @@
         "type": "Politician",
         "name": "Đoàn Duy Khương",
         "properties": {
-          "birth_date": "1960-01-01",
+          "birth_date": "1960",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7809,7 +7809,7 @@
         "properties": {
           "birth_date": "1937-05-05",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2025-01-01"
+          "death_date": "2025"
         }
       },
       {
@@ -7837,7 +7837,7 @@
         "type": "Politician",
         "name": "Võ Viết Thanh",
         "properties": {
-          "birth_date": "1943-01-01",
+          "birth_date": "1943",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7857,7 +7857,7 @@
         "type": "Politician",
         "name": "Trần Văn Chuyện",
         "properties": {
-          "birth_date": "1962-01-01",
+          "birth_date": "1962",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7887,7 +7887,7 @@
         "type": "Politician",
         "name": "Trần Quốc Văn",
         "properties": {
-          "birth_date": "1968-01-01",
+          "birth_date": "1968",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7897,7 +7897,7 @@
         "type": "Politician",
         "name": "Trần Quốc Toản",
         "properties": {
-          "birth_date": "1973-01-01",
+          "birth_date": "1973",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7917,9 +7917,9 @@
         "type": "Politician",
         "name": "Lê Huy Ngọ",
         "properties": {
-          "birth_date": "1938-01-01",
+          "birth_date": "1938",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2025-01-01"
+          "death_date": "2025"
         }
       },
       {
@@ -7977,7 +7977,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Linh",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -7987,7 +7987,7 @@
         "type": "Politician",
         "name": "Nguyễn Đăng Khoa",
         "properties": {
-          "birth_date": "1971-01-01",
+          "birth_date": "1971",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8007,7 +8007,7 @@
         "type": "Politician",
         "name": "Phạm Minh Hạc",
         "properties": {
-          "birth_date": "1935-01-01",
+          "birth_date": "1935",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8027,7 +8027,7 @@
         "type": "Politician",
         "name": "Nguyễn Hà Phan, Sáu Phan",
         "properties": {
-          "birth_date": "1933-01-01",
+          "birth_date": "1933",
           "party": "Đã bị khai trừ khỏi Đảng",
           "death_date": "2019-08-01"
         }
@@ -8147,7 +8147,7 @@
         "type": "Politician",
         "name": "Trịnh Xuân Trường",
         "properties": {
-          "birth_date": "1977-01-01",
+          "birth_date": "1977",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8177,7 +8177,7 @@
         "type": "Politician",
         "name": "Nguyễn Thanh Dương",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8237,7 +8237,7 @@
         "type": "Politician",
         "name": "Hồ Thanh Đình",
         "properties": {
-          "birth_date": "1960-01-01",
+          "birth_date": "1960",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8307,7 +8307,7 @@
         "type": "Politician",
         "name": "Song Hào",
         "properties": {
-          "birth_date": "1917-01-01",
+          "birth_date": "1917",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2004-01-09"
         }
@@ -8317,7 +8317,7 @@
         "type": "Politician",
         "name": "Nguyễn Kỳ Cẩm",
         "properties": {
-          "birth_date": "1929-01-01",
+          "birth_date": "1929",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8327,7 +8327,7 @@
         "type": "Politician",
         "name": "Vũ Đình Cự",
         "properties": {
-          "birth_date": "1936-01-01",
+          "birth_date": "1936",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2011-09-07"
         }
@@ -8357,7 +8357,7 @@
         "type": "Politician",
         "name": "Đặng Vũ Minh",
         "properties": {
-          "birth_date": "1946-01-01",
+          "birth_date": "1946",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8377,7 +8377,7 @@
         "type": "Politician",
         "name": "Nguyễn Trọng Nhân",
         "properties": {
-          "birth_date": "1930-01-01",
+          "birth_date": "1930",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2017-07-06"
         }
@@ -8447,7 +8447,7 @@
         "type": "Politician",
         "name": "Nguyễn Công Tạn",
         "properties": {
-          "birth_date": "1935-01-01",
+          "birth_date": "1935",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2014-11-01"
         }
@@ -8557,7 +8557,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Trung",
         "properties": {
-          "birth_date": "1967-01-01",
+          "birth_date": "1967",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8627,7 +8627,7 @@
         "type": "Politician",
         "name": "Nguyễn Đức Thuận",
         "properties": {
-          "birth_date": "1916-01-01",
+          "birth_date": "1916",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1985-10-04"
         }
@@ -8657,9 +8657,9 @@
         "type": "Politician",
         "name": "Huỳnh Cương",
         "properties": {
-          "birth_date": "1925-01-01",
+          "birth_date": "1925",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1997-01-01"
+          "death_date": "1997"
         }
       },
       {
@@ -8667,7 +8667,7 @@
         "type": "Politician",
         "name": "Nguyễn Chí Thanh, Sáu Vi, Trường Sơn",
         "properties": {
-          "birth_date": "1914-01-01",
+          "birth_date": "1914",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1967-07-06"
         }
@@ -8677,7 +8677,7 @@
         "type": "Politician",
         "name": "Bùi Thanh Khiết",
         "properties": {
-          "birth_date": "1924-01-01",
+          "birth_date": "1924",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1984-01-07"
         }
@@ -8717,7 +8717,7 @@
         "type": "Politician",
         "name": "Lê Hiến Mai",
         "properties": {
-          "birth_date": "1918-01-01",
+          "birth_date": "1918",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1992-11-06"
         }
@@ -8767,7 +8767,7 @@
         "type": "Politician",
         "name": "Trần Huy Tuấn",
         "properties": {
-          "birth_date": "1974-01-01",
+          "birth_date": "1974",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8787,7 +8787,7 @@
         "type": "Politician",
         "name": "Nguyễn Phong Quang",
         "properties": {
-          "birth_date": "1949-01-01",
+          "birth_date": "1949",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8837,7 +8837,7 @@
         "type": "Politician",
         "name": "Trương Văn Sáu",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8847,7 +8847,7 @@
         "type": "Politician",
         "name": "Phan Đức Hưởng",
         "properties": {
-          "birth_date": "1951-01-01",
+          "birth_date": "1951",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8857,7 +8857,7 @@
         "type": "Politician",
         "name": "Lâm Minh Chiếu",
         "properties": {
-          "birth_date": "1953-01-01",
+          "birth_date": "1953",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8897,7 +8897,7 @@
         "type": "Politician",
         "name": "Hoàng Anh Công",
         "properties": {
-          "birth_date": "1971-01-01",
+          "birth_date": "1971",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -8937,7 +8937,7 @@
         "type": "Politician",
         "name": "Trịnh Việt Hùng",
         "properties": {
-          "birth_date": "1977-01-01",
+          "birth_date": "1977",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9007,7 +9007,7 @@
         "type": "Politician",
         "name": "Nguyễn Đăng Kính",
         "properties": {
-          "birth_date": "1941-01-01",
+          "birth_date": "1941",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9027,7 +9027,7 @@
         "type": "Politician",
         "name": "Lê Đức Anh",
         "properties": {
-          "birth_date": "1920-01-01",
+          "birth_date": "1920",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2019-04-22"
         }
@@ -9037,9 +9037,9 @@
         "type": "Politician",
         "name": "Hoàng Quy",
         "properties": {
-          "birth_date": "1927-01-01",
+          "birth_date": "1927",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2009-01-01"
+          "death_date": "2009"
         }
       },
       {
@@ -9047,7 +9047,7 @@
         "type": "Politician",
         "name": "Lê Văn Triết",
         "properties": {
-          "birth_date": "1937-01-01",
+          "birth_date": "1937",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9087,7 +9087,7 @@
         "type": "Politician",
         "name": "Trần Hoàn",
         "properties": {
-          "birth_date": "1928-01-01",
+          "birth_date": "1928",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2003-11-23"
         }
@@ -9107,7 +9107,7 @@
         "type": "Politician",
         "name": "Mai Thúc Lân",
         "properties": {
-          "birth_date": "1935-01-01",
+          "birth_date": "1935",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2014-10-29"
         }
@@ -9117,7 +9117,7 @@
         "type": "Politician",
         "name": "Đỗ Quang Thắng",
         "properties": {
-          "birth_date": "1927-01-01",
+          "birth_date": "1927",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2009-08-17"
         }
@@ -9127,7 +9127,7 @@
         "type": "Politician",
         "name": "Bùi Tiến Cam",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9277,7 +9277,7 @@
         "type": "Politician",
         "name": "Huỳnh Thị Chiến Hòa",
         "properties": {
-          "birth_date": "1973-01-01",
+          "birth_date": "1973",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9327,7 +9327,7 @@
         "type": "Politician",
         "name": "Đàm Quang Trung",
         "properties": {
-          "birth_date": "1921-01-01",
+          "birth_date": "1921",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1995-03-03"
         }
@@ -9337,7 +9337,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Huyên",
         "properties": {
-          "birth_date": "1905-01-01",
+          "birth_date": "1905",
           "party": "Đảng Xã hội Việt Nam",
           "death_date": "1975-10-19"
         }
@@ -9377,7 +9377,7 @@
         "type": "Politician",
         "name": "Huỳnh Văn Be",
         "properties": {
-          "birth_date": "1949-01-01",
+          "birth_date": "1949",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9387,7 +9387,7 @@
         "type": "Politician",
         "name": "Phan Trường Sơn",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9397,7 +9397,7 @@
         "type": "Politician",
         "name": "Đỗ Mạnh Bổng",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9427,7 +9427,7 @@
         "type": "Politician",
         "name": "Nguyễn Thành Tài",
         "properties": {
-          "birth_date": "1952-01-01",
+          "birth_date": "1952",
           "party": "Đã bị khai trừ khỏi Đảng",
           "death_date": ""
         }
@@ -9447,7 +9447,7 @@
         "type": "Politician",
         "name": "Nguyễn Tiến Sơn",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9457,7 +9457,7 @@
         "type": "Politician",
         "name": "Tôn Thiện Phương",
         "properties": {
-          "birth_date": "1971-01-01",
+          "birth_date": "1971",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9467,7 +9467,7 @@
         "type": "Politician",
         "name": "Phan Văn Tâm",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9487,7 +9487,7 @@
         "type": "Politician",
         "name": "Phạm Thị Bích Thủy",
         "properties": {
-          "birth_date": "1979-01-01",
+          "birth_date": "1979",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9507,7 +9507,7 @@
         "type": "Politician",
         "name": "Trần Văn Cần",
         "properties": {
-          "birth_date": "1962-01-01",
+          "birth_date": "1962",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9517,7 +9517,7 @@
         "type": "Politician",
         "name": "Phạm Văn Rạnh",
         "properties": {
-          "birth_date": "1960-01-01",
+          "birth_date": "1960",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9537,7 +9537,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Út",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9547,7 +9547,7 @@
         "type": "Politician",
         "name": "Phạm Văn Tân",
         "properties": {
-          "birth_date": "1960-01-01",
+          "birth_date": "1960",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9597,7 +9597,7 @@
         "type": "Politician",
         "name": "Đặng Quân Thụy",
         "properties": {
-          "birth_date": "1928-01-01",
+          "birth_date": "1928",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9607,7 +9607,7 @@
         "type": "Politician",
         "name": "Nguyễn Trọng Xuyên",
         "properties": {
-          "birth_date": "1926-01-01",
+          "birth_date": "1926",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2012-06-21"
         }
@@ -9627,7 +9627,7 @@
         "type": "Politician",
         "name": "Nguyễn Đức Tâm",
         "properties": {
-          "birth_date": "1920-01-01",
+          "birth_date": "1920",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2010-07-29"
         }
@@ -9687,7 +9687,7 @@
         "type": "Politician",
         "name": "Phan Trung Kiên",
         "properties": {
-          "birth_date": "1946-01-01",
+          "birth_date": "1946",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9697,7 +9697,7 @@
         "type": "Politician",
         "name": "Vũ Văn Thược",
         "properties": {
-          "birth_date": "1928-01-01",
+          "birth_date": "1928",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2022-02-04"
         }
@@ -9707,7 +9707,7 @@
         "type": "Politician",
         "name": "Đào Trọng Lịch",
         "properties": {
-          "birth_date": "1939-01-01",
+          "birth_date": "1939",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1998-05-25"
         }
@@ -9757,9 +9757,9 @@
         "type": "Politician",
         "name": "Nguyễn Thành Cung",
         "properties": {
-          "birth_date": "1953-01-01",
+          "birth_date": "1953",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2022-01-01"
+          "death_date": "2022"
         }
       },
       {
@@ -9797,7 +9797,7 @@
         "type": "Politician",
         "name": "Lưu Đức Huy",
         "properties": {
-          "birth_date": "1954-01-01",
+          "birth_date": "1954",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9817,7 +9817,7 @@
         "type": "Politician",
         "name": "Phạm Văn Thịnh",
         "properties": {
-          "birth_date": "1981-01-01",
+          "birth_date": "1981",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9897,7 +9897,7 @@
         "type": "Politician",
         "name": "Trần Văn Hiệp",
         "properties": {
-          "birth_date": "1965-01-01",
+          "birth_date": "1965",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9927,7 +9927,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Phương",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9947,7 +9947,7 @@
         "type": "Politician",
         "name": "Đặng Huỳnh Mai",
         "properties": {
-          "birth_date": "1951-01-01",
+          "birth_date": "1951",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -9987,7 +9987,7 @@
         "type": "Politician",
         "name": "Lại Văn Hoàn",
         "properties": {
-          "birth_date": "1974-01-01",
+          "birth_date": "1974",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10107,7 +10107,7 @@
         "type": "Politician",
         "name": "Nguyễn Anh Tuấn",
         "properties": {
-          "birth_date": "1962-01-01",
+          "birth_date": "1962",
           "party": "Đã bị khai trừ khỏi Đảng",
           "death_date": ""
         }
@@ -10117,7 +10117,7 @@
         "type": "Politician",
         "name": "Đoàn Ngọc Hùng",
         "properties": {
-          "birth_date": "1961-01-01",
+          "birth_date": "1961",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10197,7 +10197,7 @@
         "type": "Politician",
         "name": "Đào Duy Tùng",
         "properties": {
-          "birth_date": "1924-01-01",
+          "birth_date": "1924",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1998-06-13"
         }
@@ -10237,7 +10237,7 @@
         "type": "Politician",
         "name": "Nguyễn Anh Tuấn",
         "properties": {
-          "birth_date": "1957-01-01",
+          "birth_date": "1957",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10257,9 +10257,9 @@
         "type": "Politician",
         "name": "Phan Xuân Sang",
         "properties": {
-          "birth_date": "1952-01-01",
+          "birth_date": "1952",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2011-01-01"
+          "death_date": "2011"
         }
       },
       {
@@ -10277,7 +10277,7 @@
         "type": "Politician",
         "name": "Trần Văn Vệ",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10367,7 +10367,7 @@
         "type": "Politician",
         "name": "Trần Hồng Thái",
         "properties": {
-          "birth_date": "1974-01-01",
+          "birth_date": "1974",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10377,7 +10377,7 @@
         "type": "Politician",
         "name": "Huỳnh Đức Hòa",
         "properties": {
-          "birth_date": "1954-01-01",
+          "birth_date": "1954",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10427,7 +10427,7 @@
         "type": "Politician",
         "name": "Phan Khuê Tảo",
         "properties": {
-          "birth_date": "1949-01-01",
+          "birth_date": "1949",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10447,7 +10447,7 @@
         "type": "Politician",
         "name": "Nguyễn Huy Cảnh",
         "properties": {
-          "birth_date": "1968-01-01",
+          "birth_date": "1968",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10467,7 +10467,7 @@
         "type": "Politician",
         "name": "Lương Đình Hồng",
         "properties": {
-          "birth_date": "1963-01-01",
+          "birth_date": "1963",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10487,7 +10487,7 @@
         "type": "Politician",
         "name": "Thái Phụng Nê",
         "properties": {
-          "birth_date": "1936-01-01",
+          "birth_date": "1936",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10577,7 +10577,7 @@
         "type": "Politician",
         "name": "Trần Mai Hạnh",
         "properties": {
-          "birth_date": "1943-01-01",
+          "birth_date": "1943",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2024-04-02"
         }
@@ -10587,7 +10587,7 @@
         "type": "Politician",
         "name": "Đỗ Quang Trung",
         "properties": {
-          "birth_date": "1946-01-01",
+          "birth_date": "1946",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10597,7 +10597,7 @@
         "type": "Politician",
         "name": "Lê Vinh Quy",
         "properties": {
-          "birth_date": "1967-01-01",
+          "birth_date": "1967",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10607,7 +10607,7 @@
         "type": "Politician",
         "name": "Hồ Văn Mười",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10637,7 +10637,7 @@
         "type": "Politician",
         "name": "Hoàng Đức Lừng",
         "properties": {
-          "birth_date": "1968-01-01",
+          "birth_date": "1968",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10657,7 +10657,7 @@
         "type": "Politician",
         "name": "Hoàng Công Hoàn",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10667,7 +10667,7 @@
         "type": "Politician",
         "name": "Nguyễn Khắc Chử",
         "properties": {
-          "birth_date": "1958-01-01",
+          "birth_date": "1958",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10787,9 +10787,9 @@
         "type": "Politician",
         "name": "Lê Khắc",
         "properties": {
-          "birth_date": "1916-01-01",
+          "birth_date": "1916",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1990-01-01"
+          "death_date": "1990"
         }
       },
       {
@@ -10809,7 +10809,7 @@
         "properties": {
           "birth_date": "1924-05-23",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2006-01-01"
+          "death_date": "2006"
         }
       },
       {
@@ -10817,7 +10817,7 @@
         "type": "Politician",
         "name": "Đoàn Trọng Truyến",
         "properties": {
-          "birth_date": "1922-01-01",
+          "birth_date": "1922",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2009-07-08"
         }
@@ -10837,7 +10837,7 @@
         "type": "Politician",
         "name": "Cầm Ngọc Minh",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10887,7 +10887,7 @@
         "type": "Politician",
         "name": "Đặng Việt Dũng",
         "properties": {
-          "birth_date": "1960-01-01",
+          "birth_date": "1960",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10907,7 +10907,7 @@
         "type": "Politician",
         "name": "Võ Văn Thương",
         "properties": {
-          "birth_date": "1962-01-01",
+          "birth_date": "1962",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10967,7 +10967,7 @@
         "type": "Politician",
         "name": "Trần Hải Quân",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -10997,7 +10997,7 @@
         "type": "Politician",
         "name": "Vũ Xuân Viên",
         "properties": {
-          "birth_date": "1964-01-01",
+          "birth_date": "1964",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11067,7 +11067,7 @@
         "type": "Politician",
         "name": "Tạ Đình Thi",
         "properties": {
-          "birth_date": "1973-01-01",
+          "birth_date": "1973",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11087,7 +11087,7 @@
         "type": "Politician",
         "name": "Trần Văn Khải",
         "properties": {
-          "birth_date": "1975-01-01",
+          "birth_date": "1975",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11117,7 +11117,7 @@
         "type": "Politician",
         "name": "Lê Tuấn Phong",
         "properties": {
-          "birth_date": "1974-01-01",
+          "birth_date": "1974",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11127,7 +11127,7 @@
         "type": "Politician",
         "name": "Đoàn Anh Dũng",
         "properties": {
-          "birth_date": "1977-01-01",
+          "birth_date": "1977",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11147,7 +11147,7 @@
         "type": "Politician",
         "name": "Mai Hoàng",
         "properties": {
-          "birth_date": "1979-01-01",
+          "birth_date": "1979",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11167,7 +11167,7 @@
         "type": "Politician",
         "name": "Lê Hồng Nam",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11177,7 +11177,7 @@
         "type": "Politician",
         "name": "Đinh Việt Dũng",
         "properties": {
-          "birth_date": "1972-01-01",
+          "birth_date": "1972",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11197,7 +11197,7 @@
         "type": "Politician",
         "name": "Trần Ngọc Tuấn",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11227,7 +11227,7 @@
         "type": "Politician",
         "name": "Nguyễn Trần Phượng Trân",
         "properties": {
-          "birth_date": "1976-01-01",
+          "birth_date": "1976",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11237,7 +11237,7 @@
         "type": "Politician",
         "name": "Trần Văn Hiển",
         "properties": {
-          "birth_date": "1922-01-01",
+          "birth_date": "1922",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11247,9 +11247,9 @@
         "type": "Politician",
         "name": "Lê Đức Thịnh",
         "properties": {
-          "birth_date": "1927-01-01",
+          "birth_date": "1927",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2001-01-01"
+          "death_date": "2001"
         }
       },
       {
@@ -11267,7 +11267,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Viện",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11287,9 +11287,9 @@
         "type": "Politician",
         "name": "Vũ Tuân",
         "properties": {
-          "birth_date": "1922-01-01",
+          "birth_date": "1922",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1993-01-01"
+          "death_date": "1993"
         }
       },
       {
@@ -11297,7 +11297,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Chính",
         "properties": {
-          "birth_date": "1924-01-01",
+          "birth_date": "1924",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2016-10-29"
         }
@@ -11317,7 +11317,7 @@
         "type": "Politician",
         "name": "Hoàng Anh",
         "properties": {
-          "birth_date": "1912-01-01",
+          "birth_date": "1912",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2016-05-10"
         }
@@ -11337,7 +11337,7 @@
         "type": "Politician",
         "name": "Nguyễn Côn",
         "properties": {
-          "birth_date": "1916-01-01",
+          "birth_date": "1916",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2022-01-09"
         }
@@ -11347,9 +11347,9 @@
         "type": "Politician",
         "name": "Bùi Quang Tạo",
         "properties": {
-          "birth_date": "1913-01-01",
+          "birth_date": "1913",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1995-01-01"
+          "death_date": "1995"
         }
       },
       {
@@ -11357,7 +11357,7 @@
         "type": "Politician",
         "name": "Trần Quyết",
         "properties": {
-          "birth_date": "1922-01-01",
+          "birth_date": "1922",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2010-03-01"
         }
@@ -11367,7 +11367,7 @@
         "type": "Politician",
         "name": "Võ Thái Hòa",
         "properties": {
-          "birth_date": "1937-01-01",
+          "birth_date": "1937",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11407,7 +11407,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Phóng",
         "properties": {
-          "birth_date": "1960-01-01",
+          "birth_date": "1960",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11427,7 +11427,7 @@
         "type": "Politician",
         "name": "Hà Văn Khoát",
         "properties": {
-          "birth_date": "1955-01-01",
+          "birth_date": "1955",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11457,7 +11457,7 @@
         "type": "Politician",
         "name": "Đôn Tuấn Phong",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11497,7 +11497,7 @@
         "type": "Politician",
         "name": "Lê Đức Thọ",
         "properties": {
-          "birth_date": "1911-01-01",
+          "birth_date": "1911",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1990-10-13"
         }
@@ -11507,7 +11507,7 @@
         "type": "Politician",
         "name": "Vũ Oanh",
         "properties": {
-          "birth_date": "1924-01-01",
+          "birth_date": "1924",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2022-11-30"
         }
@@ -11587,7 +11587,7 @@
         "type": "Politician",
         "name": "Đồng Đại Lộc",
         "properties": {
-          "birth_date": "1958-01-01",
+          "birth_date": "1958",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11627,7 +11627,7 @@
         "type": "Politician",
         "name": "Trần Kiên",
         "properties": {
-          "birth_date": "1920-01-01",
+          "birth_date": "1920",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2004-05-26"
         }
@@ -11637,9 +11637,9 @@
         "type": "Politician",
         "name": "Phạm Ngọc Mậu",
         "properties": {
-          "birth_date": "1919-01-01",
+          "birth_date": "1919",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1993-01-01"
+          "death_date": "1993"
         }
       },
       {
@@ -11647,7 +11647,7 @@
         "type": "Politician",
         "name": "Trần Văn Quang, Bảy Tiến",
         "properties": {
-          "birth_date": "1917-01-01",
+          "birth_date": "1917",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2013-11-03"
         }
@@ -11657,7 +11657,7 @@
         "type": "Politician",
         "name": "Lê Quang Hòa",
         "properties": {
-          "birth_date": "1914-01-01",
+          "birth_date": "1914",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1993-12-15"
         }
@@ -11667,9 +11667,9 @@
         "type": "Politician",
         "name": "Chu Huy Mân",
         "properties": {
-          "birth_date": "1913-01-01",
+          "birth_date": "1913",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2006-01-01"
+          "death_date": "2006"
         }
       },
       {
@@ -11677,7 +11677,7 @@
         "type": "Politician",
         "name": "Vương Thừa Vũ",
         "properties": {
-          "birth_date": "1910-01-01",
+          "birth_date": "1910",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1980-09-10"
         }
@@ -11697,9 +11697,9 @@
         "type": "Politician",
         "name": "Huỳnh Châu Sổ",
         "properties": {
-          "birth_date": "1923-01-01",
+          "birth_date": "1923",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2000-01-01"
+          "death_date": "2000"
         }
       },
       {
@@ -11707,7 +11707,7 @@
         "type": "Politician",
         "name": "Vũ Mão",
         "properties": {
-          "birth_date": "1939-01-01",
+          "birth_date": "1939",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2020-05-30"
         }
@@ -11737,7 +11737,7 @@
         "type": "Politician",
         "name": "Vũ Mạnh Hà",
         "properties": {
-          "birth_date": "1979-01-01",
+          "birth_date": "1979",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -11767,9 +11767,9 @@
         "type": "Politician",
         "name": "Nguyễn Văn Trân",
         "properties": {
-          "birth_date": "1917-01-01",
+          "birth_date": "1917",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2018-01-01"
+          "death_date": "2018"
         }
       },
       {
@@ -11777,7 +11777,7 @@
         "type": "Politician",
         "name": "Hoàng Văn Hoan",
         "properties": {
-          "birth_date": "1905-01-01",
+          "birth_date": "1905",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1991-05-18"
         }
@@ -11797,9 +11797,9 @@
         "type": "Politician",
         "name": "Nguyễn Hữu Mai",
         "properties": {
-          "birth_date": "1914-01-01",
+          "birth_date": "1914",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1987-01-01"
+          "death_date": "1987"
         }
       },
       {
@@ -11817,7 +11817,7 @@
         "type": "Politician",
         "name": "Lê Văn Lương",
         "properties": {
-          "birth_date": "1912-01-01",
+          "birth_date": "1912",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1995-04-25"
         }
@@ -11827,7 +11827,7 @@
         "type": "Politician",
         "name": "Trần Quỳnh",
         "properties": {
-          "birth_date": "1920-01-01",
+          "birth_date": "1920",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2005-10-07"
         }
@@ -11837,9 +11837,9 @@
         "type": "Politician",
         "name": "Lê Ất Hợi",
         "properties": {
-          "birth_date": "1935-01-01",
+          "birth_date": "1935",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2011-01-01"
+          "death_date": "2011"
         }
       },
       {
@@ -11857,7 +11857,7 @@
         "type": "Politician",
         "name": "Nguyễn Ngọc Trìu",
         "properties": {
-          "birth_date": "1926-01-01",
+          "birth_date": "1926",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2016-07-02"
         }
@@ -11867,9 +11867,9 @@
         "type": "Politician",
         "name": "Phan Lương Cầm",
         "properties": {
-          "birth_date": "1943-01-01",
+          "birth_date": "1943",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2025-01-01"
+          "death_date": "2025"
         }
       },
       {
@@ -11897,9 +11897,9 @@
         "type": "Politician",
         "name": "Châu Văn Đặng",
         "properties": {
-          "birth_date": "1917-01-01",
+          "birth_date": "1917",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1959-01-01"
+          "death_date": "1959"
         }
       },
       {
@@ -11927,7 +11927,7 @@
         "type": "Politician",
         "name": "Tố Hữu",
         "properties": {
-          "birth_date": "1920-01-01",
+          "birth_date": "1920",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2002-12-09"
         }
@@ -11939,7 +11939,7 @@
         "properties": {
           "birth_date": "1929-02-12",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1997-01-01"
+          "death_date": "1997"
         }
       },
       {
@@ -11977,7 +11977,7 @@
         "type": "Politician",
         "name": "Ma Văn Lả",
         "properties": {
-          "birth_date": "1958-01-01",
+          "birth_date": "1958",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12007,9 +12007,9 @@
         "type": "Politician",
         "name": "Trần Quý Hai, (Bùi Chấn)",
         "properties": {
-          "birth_date": "1913-01-01",
+          "birth_date": "1913",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1985-01-01"
+          "death_date": "1985"
         }
       },
       {
@@ -12017,9 +12017,9 @@
         "type": "Politician",
         "name": "Nguyễn Văn Lộc",
         "properties": {
-          "birth_date": "1914-01-01",
+          "birth_date": "1914",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1979-01-01"
+          "death_date": "1979"
         }
       },
       {
@@ -12027,9 +12027,9 @@
         "type": "Politician",
         "name": "Hoàng Quốc Thịnh",
         "properties": {
-          "birth_date": "1911-01-01",
+          "birth_date": "1911",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2009-01-01"
+          "death_date": "2009"
         }
       },
       {
@@ -12037,9 +12037,9 @@
         "type": "Politician",
         "name": "Hà Kế Tấn",
         "properties": {
-          "birth_date": "1912-01-01",
+          "birth_date": "1912",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1997-01-01"
+          "death_date": "1997"
         }
       },
       {
@@ -12047,7 +12047,7 @@
         "type": "Politician",
         "name": "Văn Tiến Dũng",
         "properties": {
-          "birth_date": "1917-01-01",
+          "birth_date": "1917",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2002-03-17"
         }
@@ -12097,9 +12097,9 @@
         "type": "Politician",
         "name": "Võ Thúc Đồng",
         "properties": {
-          "birth_date": "1914-01-01",
+          "birth_date": "1914",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2007-01-01"
+          "death_date": "2007"
         }
       },
       {
@@ -12107,7 +12107,7 @@
         "type": "Politician",
         "name": "Nguyễn Xiển",
         "properties": {
-          "birth_date": "1907-01-01",
+          "birth_date": "1907",
           "party": "Đảng Xã hội Việt Nam",
           "death_date": "1997-11-09"
         }
@@ -12117,9 +12117,9 @@
         "type": "Politician",
         "name": "Nghiêm Xuân Yêm",
         "properties": {
-          "birth_date": "1913-01-01",
+          "birth_date": "1913",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2001-01-01"
+          "death_date": "2001"
         }
       },
       {
@@ -12137,7 +12137,7 @@
         "type": "Politician",
         "name": "Xuân Thủy",
         "properties": {
-          "birth_date": "1912-01-01",
+          "birth_date": "1912",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1985-06-18"
         }
@@ -12147,7 +12147,7 @@
         "type": "Politician",
         "name": "Y Pah",
         "properties": {
-          "birth_date": "1939-01-01",
+          "birth_date": "1939",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2004-01-25"
         }
@@ -12157,9 +12157,9 @@
         "type": "Politician",
         "name": "Hoàng Văn Kiểu",
         "properties": {
-          "birth_date": "1921-01-01",
+          "birth_date": "1921",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2006-01-01"
+          "death_date": "2006"
         }
       },
       {
@@ -12167,9 +12167,9 @@
         "type": "Politician",
         "name": "Chu Văn Tấn",
         "properties": {
-          "birth_date": "1910-01-01",
+          "birth_date": "1910",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1984-01-01"
+          "death_date": "1984"
         }
       },
       {
@@ -12177,7 +12177,7 @@
         "type": "Politician",
         "name": "Nguyễn Bốn",
         "properties": {
-          "birth_date": "1962-01-01",
+          "birth_date": "1962",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12187,7 +12187,7 @@
         "type": "Politician",
         "name": "Tạ Văn Long",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12197,7 +12197,7 @@
         "type": "Politician",
         "name": "Cao Tấn Khổng",
         "properties": {
-          "birth_date": "1958-01-01",
+          "birth_date": "1958",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12207,7 +12207,7 @@
         "type": "Politician",
         "name": "Lê Xuân Trinh",
         "properties": {
-          "birth_date": "1933-01-01",
+          "birth_date": "1933",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2022-08-04"
         }
@@ -12237,7 +12237,7 @@
         "type": "Politician",
         "name": "Trần Thị Nhị Hà",
         "properties": {
-          "birth_date": "1973-01-01",
+          "birth_date": "1973",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12267,7 +12267,7 @@
         "type": "Politician",
         "name": "Đặng Xuân Trường",
         "properties": {
-          "birth_date": "1972-01-01",
+          "birth_date": "1972",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12277,7 +12277,7 @@
         "type": "Politician",
         "name": "Đồng Văn Lâm",
         "properties": {
-          "birth_date": "1961-01-01",
+          "birth_date": "1961",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2022-03-07"
         }
@@ -12297,7 +12297,7 @@
         "type": "Politician",
         "name": "Kim Ngọc Thái",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12317,7 +12317,7 @@
         "type": "Politician",
         "name": "Lê Tiến Phương",
         "properties": {
-          "birth_date": "1957-01-01",
+          "birth_date": "1957",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12337,7 +12337,7 @@
         "type": "Politician",
         "name": "Đồng Văn Cống, Bảy Cống",
         "properties": {
-          "birth_date": "1918-01-01",
+          "birth_date": "1918",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2005-08-06"
         }
@@ -12357,9 +12357,9 @@
         "type": "Politician",
         "name": "Nguyễn Chánh",
         "properties": {
-          "birth_date": "1917-01-01",
+          "birth_date": "1917",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2001-01-01"
+          "death_date": "2001"
         }
       },
       {
@@ -12367,7 +12367,7 @@
         "type": "Politician",
         "name": "Kim Ngọc",
         "properties": {
-          "birth_date": "1917-01-01",
+          "birth_date": "1917",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1979-05-26"
         }
@@ -12407,7 +12407,7 @@
         "type": "Politician",
         "name": "Nguyễn Hồng Nam",
         "properties": {
-          "birth_date": "1968-01-01",
+          "birth_date": "1968",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12467,7 +12467,7 @@
         "type": "Politician",
         "name": "Y Ngông Niê Kdăm",
         "properties": {
-          "birth_date": "1922-01-01",
+          "birth_date": "1922",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2001-05-09"
         }
@@ -12477,7 +12477,7 @@
         "type": "Politician",
         "name": "Đặng Thai Mai",
         "properties": {
-          "birth_date": "1902-01-01",
+          "birth_date": "1902",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1984-09-25"
         }
@@ -12507,9 +12507,9 @@
         "type": "Politician",
         "name": "Nguyễn Khang",
         "properties": {
-          "birth_date": "1919-01-01",
+          "birth_date": "1919",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1976-01-01"
+          "death_date": "1976"
         }
       },
       {
@@ -12517,7 +12517,7 @@
         "type": "Politician",
         "name": "Trần Sự",
         "properties": {
-          "birth_date": "1928-01-01",
+          "birth_date": "1928",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2018-10-22"
         }
@@ -12527,7 +12527,7 @@
         "type": "Politician",
         "name": "Trần Thanh Vân",
         "properties": {
-          "birth_date": "1959-01-01",
+          "birth_date": "1959",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12567,7 +12567,7 @@
         "type": "Politician",
         "name": "Vũ Đăng Khoa",
         "properties": {
-          "birth_date": "1957-01-01",
+          "birth_date": "1957",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12587,7 +12587,7 @@
         "type": "Politician",
         "name": "Phạm Thanh Từng",
         "properties": {
-          "birth_date": "1978-01-01",
+          "birth_date": "1978",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12607,7 +12607,7 @@
         "type": "Politician",
         "name": "Nguyễn Hữu Trí",
         "properties": {
-          "birth_date": "1962-01-01",
+          "birth_date": "1962",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12667,9 +12667,9 @@
         "type": "Politician",
         "name": "Nông Văn Phách, (Vũ Lập)",
         "properties": {
-          "birth_date": "1924-01-01",
+          "birth_date": "1924",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1987-01-01"
+          "death_date": "1987"
         }
       },
       {
@@ -12687,9 +12687,9 @@
         "type": "Politician",
         "name": "Nguyễn Thọ Chân",
         "properties": {
-          "birth_date": "1922-01-01",
+          "birth_date": "1922",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2023-01-01"
+          "death_date": "2023"
         }
       },
       {
@@ -12707,7 +12707,7 @@
         "type": "Politician",
         "name": "Nguyễn Xuân Sơn",
         "properties": {
-          "birth_date": "1962-01-01",
+          "birth_date": "1962",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12719,7 +12719,7 @@
         "properties": {
           "birth_date": "1946-06-15",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2019-01-01"
+          "death_date": "2019"
         }
       },
       {
@@ -12729,7 +12729,7 @@
         "properties": {
           "birth_date": "1942-05-10",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2010-01-01"
+          "death_date": "2010"
         }
       },
       {
@@ -12737,7 +12737,7 @@
         "type": "Politician",
         "name": "Thái Đại Ngọc",
         "properties": {
-          "birth_date": "1966-01-01",
+          "birth_date": "1966",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12747,7 +12747,7 @@
         "type": "Politician",
         "name": "Nguyễn Đức Sơn",
         "properties": {
-          "birth_date": "1950-01-01",
+          "birth_date": "1950",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12757,7 +12757,7 @@
         "type": "Politician",
         "name": "Trương Khánh Châu",
         "properties": {
-          "birth_date": "1934-01-01",
+          "birth_date": "1934",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2019-09-11"
         }
@@ -12767,7 +12767,7 @@
         "type": "Politician",
         "name": "Nguyễn Thế Trị",
         "properties": {
-          "birth_date": "1940-01-01",
+          "birth_date": "1940",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12777,9 +12777,9 @@
         "type": "Politician",
         "name": "Đào Đình Luyện",
         "properties": {
-          "birth_date": "1929-01-01",
+          "birth_date": "1929",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1999-01-01"
+          "death_date": "1999"
         }
       },
       {
@@ -12787,9 +12787,9 @@
         "type": "Politician",
         "name": "Lê Hoài Thanh",
         "properties": {
-          "birth_date": "1950-01-01",
+          "birth_date": "1950",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2021-01-01"
+          "death_date": "2021"
         }
       },
       {
@@ -12797,9 +12797,9 @@
         "type": "Politician",
         "name": "Trần Tiến Cung",
         "properties": {
-          "birth_date": "1929-01-01",
+          "birth_date": "1929",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2021-01-01"
+          "death_date": "2021"
         }
       },
       {
@@ -12837,7 +12837,7 @@
         "type": "Politician",
         "name": "Lê Văn Hẳn",
         "properties": {
-          "birth_date": "1970-01-01",
+          "birth_date": "1970",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12887,7 +12887,7 @@
         "type": "Politician",
         "name": "U Huấn",
         "properties": {
-          "birth_date": "1980-01-01",
+          "birth_date": "1980",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -12897,7 +12897,7 @@
         "type": "Politician",
         "name": "Hoàng Thế Thiện",
         "properties": {
-          "birth_date": "1922-01-01",
+          "birth_date": "1922",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1995-09-05"
         }
@@ -12907,9 +12907,9 @@
         "type": "Politician",
         "name": "Vũ Văn Cẩn",
         "properties": {
-          "birth_date": "1914-01-01",
+          "birth_date": "1914",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1982-01-01"
+          "death_date": "1982"
         }
       },
       {
@@ -12927,7 +12927,7 @@
         "type": "Politician",
         "name": "Hoàng Bích Sơn",
         "properties": {
-          "birth_date": "1924-01-01",
+          "birth_date": "1924",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "2000-03-13"
         }
@@ -12939,7 +12939,7 @@
         "properties": {
           "birth_date": "1920-01-14",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2010-01-01"
+          "death_date": "2010"
         }
       },
       {
@@ -12957,7 +12957,7 @@
         "type": "Politician",
         "name": "Lê Ngọc Nam 1953",
         "properties": {
-          "birth_date": "1953-01-01",
+          "birth_date": "1953",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -13007,7 +13007,7 @@
         "type": "Politician",
         "name": "Nguyễn Văn Mạnh",
         "properties": {
-          "birth_date": "1978-01-01",
+          "birth_date": "1978",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -13027,7 +13027,7 @@
         "type": "Politician",
         "name": "Lê Duy Thành",
         "properties": {
-          "birth_date": "1969-01-01",
+          "birth_date": "1969",
           "party": "Đã bị khai trừ khỏi Đảng",
           "death_date": ""
         }
@@ -13067,7 +13067,7 @@
         "type": "Politician",
         "name": "Ngô Lương Hanh",
         "properties": {
-          "birth_date": "1950-01-01",
+          "birth_date": "1950",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -13087,7 +13087,7 @@
         "type": "Politician",
         "name": "Nguyễn Như Hoạt",
         "properties": {
-          "birth_date": "1950-01-01",
+          "birth_date": "1950",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -13147,9 +13147,9 @@
         "type": "Politician",
         "name": "Bùi Văn Tường, (Phạm Hưng)",
         "properties": {
-          "birth_date": "1927-01-01",
+          "birth_date": "1927",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "2018-01-01"
+          "death_date": "2018"
         }
       },
       {
@@ -13157,7 +13157,7 @@
         "type": "Politician",
         "name": "Nguyễn Chí Thành",
         "properties": {
-          "birth_date": "1956-01-01",
+          "birth_date": "1956",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -13197,9 +13197,9 @@
         "type": "Politician",
         "name": "Lê Liêm",
         "properties": {
-          "birth_date": "1922-01-01",
+          "birth_date": "1922",
           "party": "Đảng Cộng sản Việt Nam",
-          "death_date": "1985-01-01"
+          "death_date": "1985"
         }
       },
       {
@@ -13237,7 +13237,7 @@
         "type": "Politician",
         "name": "Nguyễn Duy Trinh",
         "properties": {
-          "birth_date": "1910-01-01",
+          "birth_date": "1910",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": "1985-04-20"
         }
@@ -13257,7 +13257,7 @@
         "type": "Politician",
         "name": "Trần Đình Hồng",
         "properties": {
-          "birth_date": "1962-01-01",
+          "birth_date": "1962",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -13297,7 +13297,7 @@
         "type": "Politician",
         "name": "Phạm Tiến Cương",
         "properties": {
-          "birth_date": "1964-01-01",
+          "birth_date": "1964",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -13307,7 +13307,7 @@
         "type": "Politician",
         "name": "Đinh Thanh Nhàn",
         "properties": {
-          "birth_date": "1968-01-01",
+          "birth_date": "1968",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -13327,7 +13327,7 @@
         "type": "Politician",
         "name": "Trần Đức Tài",
         "properties": {
-          "birth_date": "1964-01-01",
+          "birth_date": "1964",
           "party": "Đảng Cộng sản Việt Nam",
           "death_date": ""
         }
@@ -38540,7 +38540,7 @@
         "to": "pos19547607_004",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2013-01-01",
+          "term_start": "2013",
           "term_end": "2015-01-21",
           "status": ""
         }
@@ -41065,7 +41065,7 @@
         "to": "pos3711586_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2014-01-01T00:00:00Z"
+          "term_start": "2014T00:00:00Z"
         }
       },
       {
@@ -41083,7 +41083,7 @@
         "to": "pos13653301_007",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2014-01-01T00:00:00Z"
+          "term_start": "2014T00:00:00Z"
         }
       },
       {
@@ -43599,7 +43599,7 @@
         "to": "pos459014_004",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2020-01-01",
+          "term_start": "2020",
           "term_end": "2020-12-31",
           "status": ""
         }
@@ -44186,7 +44186,7 @@
         "to": "pos808161_005",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2016-01-01T00:00:00Z"
+          "term_start": "2016T00:00:00Z"
         }
       },
       {
@@ -44194,7 +44194,7 @@
         "to": "pos3693720_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z"
+          "term_start": "2011T00:00:00Z"
         }
       },
       {
@@ -45956,7 +45956,7 @@
         "to": "pos13467572_003",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2001-01-01T00:00:00Z"
+          "term_start": "2001T00:00:00Z"
         }
       },
       {
@@ -46582,7 +46582,7 @@
         "to": "pos1463498_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2013-01-01",
+          "term_start": "2013",
           "term_end": "2015-02-13",
           "status": ""
         }
@@ -47679,7 +47679,7 @@
         "to": "pos459014_005",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2006-01-01T00:00:00Z/2011-12-31T00:00:00Z"
+          "term_start": "2006T00:00:00Z/2011-12-31T00:00:00Z"
         }
       },
       {
@@ -47737,7 +47737,7 @@
         "to": "pos18218_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z/2016-12-31T00:00:00Z"
+          "term_start": "2011T00:00:00Z/2016-12-31T00:00:00Z"
         }
       },
       {
@@ -48153,7 +48153,7 @@
         "to": "pos19604408_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2004-01-01",
+          "term_start": "2004",
           "term_end": "2011-06-16",
           "status": ""
         }
@@ -49487,7 +49487,7 @@
         "to": "pos3699081_003",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z"
+          "term_start": "2011T00:00:00Z"
         }
       },
       {
@@ -49525,7 +49525,7 @@
         "to": "pos1464924_007",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2007-01-01T00:00:00Z"
+          "term_start": "2007T00:00:00Z"
         }
       },
       {
@@ -49543,7 +49543,7 @@
         "to": "pos1463216_008",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2017-01-01T00:00:00Z"
+          "term_start": "2017T00:00:00Z"
         }
       },
       {
@@ -52116,7 +52116,7 @@
         "to": "pos3698499_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2016-01-01"
+          "term_start": "2016"
         }
       },
       {
@@ -52124,7 +52124,7 @@
         "to": "pos4149714_003",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2008-01-01"
+          "term_start": "2008"
         }
       },
       {
@@ -52227,7 +52227,7 @@
         "to": "pos436788_012",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2015-01-01T00:00:00Z/2015-12-31T00:00:00Z"
+          "term_start": "2015T00:00:00Z/2015-12-31T00:00:00Z"
         }
       },
       {
@@ -52235,7 +52235,7 @@
         "to": "pos1325815_015",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z/2011-12-31T00:00:00Z"
+          "term_start": "2011T00:00:00Z/2011-12-31T00:00:00Z"
         }
       },
       {
@@ -52243,7 +52243,7 @@
         "to": "pos3282315_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2015-01-01T00:00:00Z/2015-12-31T00:00:00Z"
+          "term_start": "2015T00:00:00Z/2015-12-31T00:00:00Z"
         }
       },
       {
@@ -54011,7 +54011,7 @@
         "to": "pos325204_007",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1995-01-01T00:00:00Z"
+          "term_start": "1995T00:00:00Z"
         }
       },
       {
@@ -54526,7 +54526,7 @@
         "to": "pos7497553_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2017-01-01",
+          "term_start": "2017",
           "term_end": "2020-08-24",
           "status": ""
         }
@@ -55383,7 +55383,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "",
-          "term_end": "2014-01-01",
+          "term_end": "2014",
           "status": ""
         }
       },
@@ -55392,7 +55392,7 @@
         "to": "pos15406891_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2014-01-01",
+          "term_start": "2014",
           "term_end": "",
           "status": ""
         }
@@ -57986,7 +57986,7 @@
         "to": "pos19498354_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z/2013-01-01T00:00:00Z"
+          "term_start": "2011T00:00:00Z/2013T00:00:00Z"
         }
       },
       {
@@ -58009,7 +58009,7 @@
         "to": "pos238122_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2010-01-01T00:00:00Z/2011-01-01T00:00:00Z"
+          "term_start": "2010T00:00:00Z/2011T00:00:00Z"
         }
       },
       {
@@ -58042,7 +58042,7 @@
         "to": "pos3706421_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2008-01-01T00:00:00Z/2010-01-01T00:00:00Z"
+          "term_start": "2008T00:00:00Z/2010T00:00:00Z"
         }
       },
       {
@@ -58050,7 +58050,7 @@
         "to": "pos3706421_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2008-01-01T00:00:00Z/2010-01-01T00:00:00Z"
+          "term_start": "2008T00:00:00Z/2010T00:00:00Z"
         }
       },
       {
@@ -60488,7 +60488,7 @@
         "to": "pos19498354_008",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2019-01-01",
+          "term_start": "2019",
           "term_end": "2021-06-10",
           "status": ""
         }
@@ -62134,7 +62134,7 @@
         "to": "pos1679324_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2013-01-01",
+          "term_start": "2013",
           "term_end": "2017-12-31",
           "status": ""
         }
@@ -62393,7 +62393,7 @@
         "to": "pos1463527_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z"
+          "term_start": "2011T00:00:00Z"
         }
       },
       {
@@ -62898,7 +62898,7 @@
         "to": "pos577161_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2007-01-01T00:00:00Z"
+          "term_start": "2007T00:00:00Z"
         }
       },
       {
@@ -62969,7 +62969,7 @@
         "to": "pos19498354_004",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2021-01-01T00:00:00Z/2024-03-21T00:00:00Z",
+          "term_start": "2021T00:00:00Z/2024-03-21T00:00:00Z",
           "term_end": "2024-03-21T00:00:00Z"
         }
       },
@@ -63002,7 +63002,7 @@
         "to": "pos808289_013",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2021-01-01T00:00:00Z/2024-03-21T00:00:00Z",
+          "term_start": "2021T00:00:00Z/2024-03-21T00:00:00Z",
           "term_end": "2026"
         }
       },
@@ -64950,7 +64950,7 @@
         "to": "pos346003_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2016-01-01T00:00:00Z"
+          "term_start": "2016T00:00:00Z"
         }
       },
       {
@@ -65034,7 +65034,7 @@
         "to": "pos14891090_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2018-01-01",
+          "term_start": "2018",
           "term_end": "2022-08-07",
           "status": ""
         }
@@ -66748,7 +66748,7 @@
         "to": "pos436788_004",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2003-01-01T00:00:00Z"
+          "term_start": "2003T00:00:00Z"
         }
       },
       {
@@ -69427,7 +69427,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "2011-09-30",
-          "term_end": "2015-01-01",
+          "term_end": "2015",
           "status": ""
         }
       },
@@ -69797,7 +69797,7 @@
         "to": "pos14382518_006",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2017-01-01T00:00:00Z"
+          "term_start": "2017T00:00:00Z"
         }
       },
       {
@@ -70343,7 +70343,7 @@
         "to": "pos3229307_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2015-01-01T00:00:00Z/2020-12-31T00:00:00Z"
+          "term_start": "2015T00:00:00Z/2020-12-31T00:00:00Z"
         }
       },
       {
@@ -70396,7 +70396,7 @@
         "to": "pos3281066_004",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z/2016-12-31T00:00:00Z"
+          "term_start": "2011T00:00:00Z/2016-12-31T00:00:00Z"
         }
       },
       {
@@ -71345,7 +71345,7 @@
         "to": "pos642061_013",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z"
+          "term_start": "2011T00:00:00Z"
         }
       },
       {
@@ -71353,7 +71353,7 @@
         "to": "pos642061_014",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z"
+          "term_start": "2011T00:00:00Z"
         }
       },
       {
@@ -71366,7 +71366,7 @@
         "to": "pos1464679_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2004-01-01",
+          "term_start": "2004",
           "term_end": "2005-11-25",
           "status": ""
         }
@@ -73733,7 +73733,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "2015-10-02",
-          "term_end": "2025-01-01",
+          "term_end": "2025",
           "status": ""
         }
       },
@@ -73742,7 +73742,7 @@
         "to": "pos3281005_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2025-01-01",
+          "term_start": "2025",
           "term_end": "nay",
           "status": ""
         }
@@ -74619,7 +74619,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "2018-07-31",
-          "term_end": "2022-01-01",
+          "term_end": "2022",
           "status": ""
         }
       },
@@ -75186,7 +75186,7 @@
         "to": "pos643797_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2004-01-01",
+          "term_start": "2004",
           "term_end": "2005-05-01",
           "status": ""
         }
@@ -75967,7 +75967,7 @@
         "to": "pos19778636_005",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1997-01-01T00:00:00Z"
+          "term_start": "1997T00:00:00Z"
         }
       },
       {
@@ -76197,7 +76197,7 @@
         "to": "pos577161_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2007-01-01T00:00:00Z"
+          "term_start": "2007T00:00:00Z"
         }
       },
       {
@@ -77557,7 +77557,7 @@
         "to": "pos1463498_007",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2015-01-01",
+          "term_start": "2015",
           "term_end": "2019-08-22"
         }
       },
@@ -78303,7 +78303,7 @@
         "to": "pos7504697_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2017-01-01",
+          "term_start": "2017",
           "term_end": "2018-05-07",
           "status": ""
         }
@@ -79420,7 +79420,7 @@
         "to": "pos3692767_004",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2016-01-01T00:00:00Z"
+          "term_start": "2016T00:00:00Z"
         }
       },
       {
@@ -80746,7 +80746,7 @@
         "to": "pos109020_006",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1986-01-01T00:00:00Z"
+          "term_start": "1986T00:00:00Z"
         }
       },
       {
@@ -80754,7 +80754,7 @@
         "to": "pos611726_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1986-01-01T00:00:00Z"
+          "term_start": "1986T00:00:00Z"
         }
       },
       {
@@ -80762,7 +80762,7 @@
         "to": "pos19359982_005",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1982-01-01T00:00:00Z"
+          "term_start": "1982T00:00:00Z"
         }
       },
       {
@@ -80780,7 +80780,7 @@
         "to": "pos24330_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1987-01-01T00:00:00Z"
+          "term_start": "1987T00:00:00Z"
         }
       },
       {
@@ -80831,7 +80831,7 @@
         "to": "pos474704_009",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1986-01-01T00:00:00Z"
+          "term_start": "1986T00:00:00Z"
         }
       },
       {
@@ -81275,7 +81275,7 @@
         "to": "pos19604585_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2013-01-01",
+          "term_start": "2013",
           "term_end": "2020-09-25",
           "status": ""
         }
@@ -81286,7 +81286,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "2010-08-24",
-          "term_end": "2013-01-01",
+          "term_end": "2013",
           "status": ""
         }
       },
@@ -81805,7 +81805,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "2019-01-03",
-          "term_end": "2024-01-01",
+          "term_end": "2024",
           "status": ""
         }
       },
@@ -81830,7 +81830,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "2019-07-10",
-          "term_end": "2024-01-01",
+          "term_end": "2024",
           "status": ""
         }
       },
@@ -82945,7 +82945,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "2017-07",
-          "term_end": "2020-01-01",
+          "term_end": "2020",
           "status": ""
         }
       },
@@ -82954,7 +82954,7 @@
         "to": "pos15793581_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2020-01-01",
+          "term_start": "2020",
           "term_end": "nay",
           "status": ""
         }
@@ -83177,7 +83177,7 @@
         "to": "pos3700182_005",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2016-01-01T00:00:00Z"
+          "term_start": "2016T00:00:00Z"
         }
       },
       {
@@ -83185,7 +83185,7 @@
         "to": "pos1463476_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2021-01-01T00:00:00Z"
+          "term_start": "2021T00:00:00Z"
         }
       },
       {
@@ -83193,7 +83193,7 @@
         "to": "pos3698642_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2021-01-01T00:00:00Z"
+          "term_start": "2021T00:00:00Z"
         }
       },
       {
@@ -83201,7 +83201,7 @@
         "to": "pos3698642_003",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2021-01-01T00:00:00Z"
+          "term_start": "2021T00:00:00Z"
         }
       },
       {
@@ -83209,7 +83209,7 @@
         "to": "pos3698642_004",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2021-01-01T00:00:00Z"
+          "term_start": "2021T00:00:00Z"
         }
       },
       {
@@ -83217,7 +83217,7 @@
         "to": "pos3698642_006",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2016-01-01T00:00:00Z"
+          "term_start": "2016T00:00:00Z"
         }
       },
       {
@@ -83225,7 +83225,7 @@
         "to": "pos3698642_007",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2016-01-01T00:00:00Z"
+          "term_start": "2016T00:00:00Z"
         }
       },
       {
@@ -84351,7 +84351,7 @@
         "to": "pos19624793_003",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1981-01-01T00:00:00Z"
+          "term_start": "1981T00:00:00Z"
         }
       },
       {
@@ -84359,7 +84359,7 @@
         "to": "pos478106_004",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1982-01-01T00:00:00Z"
+          "term_start": "1982T00:00:00Z"
         }
       },
       {
@@ -84367,7 +84367,7 @@
         "to": "pos478106_007",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1982-01-01T00:00:00Z"
+          "term_start": "1982T00:00:00Z"
         }
       },
       {
@@ -84375,7 +84375,7 @@
         "to": "pos478106_008",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1975-01-01T00:00:00Z"
+          "term_start": "1975T00:00:00Z"
         }
       },
       {
@@ -84383,7 +84383,7 @@
         "to": "pos478106_009",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2021-01-01T00:00:00Z"
+          "term_start": "2021T00:00:00Z"
         }
       },
       {
@@ -85963,7 +85963,7 @@
         "to": "pos808289_012",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1986-12-18T00:00:00Z/1991-01-01T00:00:00Z"
+          "term_start": "1986-12-18T00:00:00Z/1991T00:00:00Z"
         }
       },
       {
@@ -85971,7 +85971,7 @@
         "to": "pos6298_003",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1962-01-01T00:00:00Z"
+          "term_start": "1962T00:00:00Z"
         }
       },
       {
@@ -88793,7 +88793,7 @@
         "to": "pos808147_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z/2016-12-31T00:00:00Z"
+          "term_start": "2011T00:00:00Z/2016-12-31T00:00:00Z"
         }
       },
       {
@@ -89136,7 +89136,7 @@
         "to": "pos65893_007",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1997-01-01T00:00:00Z"
+          "term_start": "1997T00:00:00Z"
         }
       },
       {
@@ -90222,7 +90222,7 @@
         "to": "pos13464785_004",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2004-01-01",
+          "term_start": "2004",
           "term_end": "2017-09-20",
           "status": "bị cách chức"
         }
@@ -90619,7 +90619,7 @@
         "to": "pos13464785_005",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2004-01-01",
+          "term_start": "2004",
           "term_end": "2006-08-22",
           "status": ""
         }
@@ -90683,7 +90683,7 @@
         "to": "pos1463527_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z"
+          "term_start": "2011T00:00:00Z"
         }
       },
       {
@@ -92310,7 +92310,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "2016-01-27",
-          "term_end": "2024-01-01",
+          "term_end": "2024",
           "status": ""
         }
       },
@@ -92349,7 +92349,7 @@
         "to": "pos1463527_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z"
+          "term_start": "2011T00:00:00Z"
         }
       },
       {
@@ -92554,7 +92554,7 @@
         "to": "pos1463527_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z"
+          "term_start": "2011T00:00:00Z"
         }
       },
       {
@@ -93488,7 +93488,7 @@
         "to": "pos13486677_003",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2016-01-01",
+          "term_start": "2016",
           "term_end": "2016-10-01",
           "status": ""
         }
@@ -93499,7 +93499,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "",
-          "term_end": "2016-01-01",
+          "term_end": "2016",
           "status": ""
         }
       },
@@ -93841,7 +93841,7 @@
         "to": "pos19787414_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2016-01-01T00:00:00Z"
+          "term_start": "2016T00:00:00Z"
         }
       },
       {
@@ -93849,7 +93849,7 @@
         "to": "pos19609179_004",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2016-01-01T00:00:00Z"
+          "term_start": "2016T00:00:00Z"
         }
       },
       {
@@ -94333,7 +94333,7 @@
         "to": "pos13478452_003",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2010-01-01T00:00:00Z/2015-12-31T00:00:00Z"
+          "term_start": "2010T00:00:00Z/2015-12-31T00:00:00Z"
         }
       },
       {
@@ -94972,7 +94972,7 @@
         "to": "pos3170095_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1995-01-01T00:00:00Z/1995-12-31T00:00:00Z"
+          "term_start": "1995T00:00:00Z/1995-12-31T00:00:00Z"
         }
       },
       {
@@ -95927,7 +95927,7 @@
         "to": "pos19784314_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2022-01-01",
+          "term_start": "2022",
           "term_end": "nay",
           "status": ""
         }
@@ -97109,7 +97109,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "2018-08-10",
-          "term_end": "2020-01-01",
+          "term_end": "2020",
           "status": ""
         }
       },
@@ -97183,7 +97183,7 @@
         "to": "pos10572600_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2020-01-01",
+          "term_start": "2020",
           "term_end": "2024-02-01",
           "status": ""
         }
@@ -97193,7 +97193,7 @@
         "to": "pos19823645_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2020-01-01",
+          "term_start": "2020",
           "term_end": "2024-02-01",
           "status": ""
         }
@@ -97204,7 +97204,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "",
-          "term_end": "2014-01-01",
+          "term_end": "2014",
           "status": ""
         }
       },
@@ -97537,7 +97537,7 @@
         "to": "pos19912125_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2025-01-01",
+          "term_start": "2025",
           "term_end": "nay",
           "status": ""
         }
@@ -97907,7 +97907,7 @@
         "to": "pos1463021_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2017-01-01",
+          "term_start": "2017",
           "term_end": "2020-06-09",
           "status": ""
         }
@@ -99575,7 +99575,7 @@
         "to": "pos1463216_008",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2002-01-01T00:00:00Z"
+          "term_start": "2002T00:00:00Z"
         }
       },
       {
@@ -99583,7 +99583,7 @@
         "to": "pos19778636_004",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2010-01-01T00:00:00Z"
+          "term_start": "2010T00:00:00Z"
         }
       },
       {
@@ -100482,7 +100482,7 @@
         "to": "pos17593208_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2024-01-01",
+          "term_start": "2024",
           "term_end": "nay",
           "status": ""
         }
@@ -101381,7 +101381,7 @@
         "to": "pos3698499_001",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2011-01-01T00:00:00Z"
+          "term_start": "2011T00:00:00Z"
         }
       },
       {
@@ -102042,7 +102042,7 @@
         "to": "pos65893_007",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1997-01-01T00:00:00Z"
+          "term_start": "1997T00:00:00Z"
         }
       },
       {
@@ -104310,7 +104310,7 @@
         "to": "pos3281001_004",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1956-01-01T00:00:00Z/1956-12-31T00:00:00Z"
+          "term_start": "1956T00:00:00Z/1956-12-31T00:00:00Z"
         }
       },
       {
@@ -105626,7 +105626,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "1963-04-01T00:00:00Z",
-          "term_end": "1971-01-01T00:00:00Z"
+          "term_end": "1971T00:00:00Z"
         }
       },
       {
@@ -109310,7 +109310,7 @@
         "to": "pos7530202_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2013-01-01",
+          "term_start": "2013",
           "term_end": "2019-04-01",
           "status": ""
         }
@@ -109321,7 +109321,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "",
-          "term_end": "2013-01-01",
+          "term_end": "2013",
           "status": ""
         }
       },
@@ -110666,7 +110666,7 @@
         "type": "SERVED_AS",
         "properties": {
           "term_start": "2016-07-14",
-          "term_end": "2024-01-01",
+          "term_end": "2024",
           "status": ""
         }
       },
@@ -111020,7 +111020,7 @@
         "to": "pos65893_005",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "1957-01-01T00:00:00Z/1960-12-31T23:59:59Z"
+          "term_start": "1957T00:00:00Z/1960-12-31T23:59:59Z"
         }
       },
       {
@@ -112861,7 +112861,7 @@
         "to": "pos1464845_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2002-01-01T00:00:00Z/2007-12-31T23:59:59Z"
+          "term_start": "2002T00:00:00Z/2007-12-31T23:59:59Z"
         }
       },
       {
@@ -112879,7 +112879,7 @@
         "to": "pos1464779_002",
         "type": "SERVED_AS",
         "properties": {
-          "term_start": "2002-01-01T00:00:00Z/2007-12-31T23:59:59Z"
+          "term_start": "2002T00:00:00Z/2007-12-31T23:59:59Z"
         }
       },
       {
