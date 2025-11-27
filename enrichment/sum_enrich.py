@@ -1,8 +1,8 @@
 # enrichment/sum_enrich.py
 
 import json
-from collections import defaultdict
 from tqdm import tqdm
+from collections import defaultdict
 
 from utils.config import settings
 from graph.load_graph import load_graph_from_json
@@ -38,8 +38,19 @@ for u, v, k, data in graph.edges(keys=True, data=True):
 
 def build_summary(pol):
     name = pol.get("name", "")
+    props = pol.get("properties", {})
+    birth_date = props.get("birth_date", "")
+    death_date = props.get("death_date", "")
+    party = props.get("party", "")
     summary = []
     summary.append(f"{name} là một chính trị gia Việt Nam.")
+    if birth_date:
+        summary.append(f"Sinh ngày {birth_date}.")
+    if death_date:
+        summary.append(f"Mất ngày {death_date}.")
+    if party:
+        summary.append(f"Thuộc {party}.")
+
     # Positions
     positions = []
     for edge in edge_lookup.get(pol["id"], []):
