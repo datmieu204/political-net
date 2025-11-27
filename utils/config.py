@@ -44,7 +44,7 @@ class Settings():
     INPUT_SUM_ENRICH_FILE = OUTPUT_ENRICHED_GRAPH_FILE
     OUTPUT_SUM_ENRICH_FILE = OUTPUT_DIR + "/processed/graph/knowledge_graph_enriched_sum.json"
 
-    #Analysis settings
+    # Analysis settings
     OUTPUT_ANALYSIS_DIR = "./analysis/results"
     OUTPUT_LIST_MEMBERS = OUTPUT_ANALYSIS_DIR + "/list_members"
 
@@ -53,5 +53,8 @@ class Settings():
     NEO4J_USER = "neo4j"
     NEO4J_PASSWORD = "12345678"
     NEO4J_DATABASE = "mxh"
+
+    # Embeddings settings
+    EMBEDDING_MODEL_NAME = "BAAI/bge-m3"
 
 settings = Settings()
