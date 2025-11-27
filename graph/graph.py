@@ -133,5 +133,5 @@ def import_graph_from_json(driver, json_file_path):
 if __name__ == "__main__":
     driver = create_neo4j_driver()
     clear_neo4j_database(driver)
-    import_graph_from_json(driver, "data/processed/graph/knowledge_graph.json")
+    import_graph_from_json(driver, settings.OUTPUT_SUM_ENRICH_FILE)
     close_neo4j_driver(driver)
