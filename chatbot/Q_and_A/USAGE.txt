@@ -1,9 +1,0 @@
-python chatbot/generate_dataset.py \
-    --kg                # Đường dẫn file knowledge graph JSON
-    --total             # Tổng số câu hỏi cần sinh
-    --multi_ratio       # Tỉ lệ multi-hop (default: 0.65)
-    --single_ratio      # Tỉ lệ single-hop (default: 0.2)
-    --llm_model         # Model Gemini (default: gemini-2.5-flash-lite)
-    --seed              # Random seed cho reproducibility
-
-python chatbot/Q_and_A/generate_dataset.py --kg data/processed/graph/knowledge_graph_enriched.json --total 3000 --out_dir chatbot/Q_and_A/output
