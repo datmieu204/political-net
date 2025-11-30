@@ -297,7 +297,7 @@ class EntityExtractor:
         Process dataset và ghi tiếp vào file JSON
         
         Args:
-            target_total: Tổng số câu hỏi mục tiêu (ví dụ: 1000 cho MCQ)
+            target_total: Tổng số câu hỏi mục tiêu (ví dụ: 1500 cho MCQ)
         """
         from concurrent.futures import ThreadPoolExecutor, as_completed
         import threading
@@ -426,14 +426,14 @@ class EntityExtractor:
         return results
     
     def process_both_datasets(self, mcq_file: str, tf_file: str, 
-                            output_dir: str, mcq_target: int = 1000, 
-                            tf_target: int = 1000, workers: int = 1):
+                            output_dir: str, mcq_target: int = 1500, 
+                            tf_target: int = 1500, workers: int = 1):
         """
         Process both datasets with target totals.
         
         Args:
-            mcq_target: Target total for MCQ questions (default: 1000)
-            tf_target: Target total for True/False questions (default: 1000)
+            mcq_target: Target total for MCQ questions (default: 1500)
+            tf_target: Target total for True/False questions (default: 1500)
         """
         import os
         os.makedirs(output_dir, exist_ok=True)
@@ -471,7 +471,7 @@ def main():
     key_rotator = APIKeyRotator()
     
     # Use a subset of keys for testing
-    num_keys_to_use = 15  # Use first 15 keys
+    num_keys_to_use = 10  # Use first 15 keys
     num_keys = min(num_keys_to_use, len(key_rotator.keys))
     llm_clients = []
     
@@ -490,8 +490,8 @@ def main():
     output_dir = 'output'
     
     # Targets
-    mcq_target = 1000  # Target 1000 MCQ
-    tf_target = 1000   # Target 1000 True/False
+    mcq_target = 1500  # Target 1500 MCQ
+    tf_target = 1500   # Target 1500 True/False
     
     num_workers = 1  # Sequential processing
     
@@ -505,7 +505,7 @@ def main():
     print(f"  - Auto-detect quota exceeded (permanent) vs rate limit (temporary)")
     # Note: removed permanent alive/dead key bookkeeping; keys are rotated circularly
     print(f"  - Rate-limited keys get 180s (3 min) cooldown")
-    print(f"  - Min delay: 15s between requests (conservative)")
+    print(f"  - Min delay: 1s between requests (conservative)")
     print(f"  - Delay 5s after switching keys to avoid immediate rate limit")
     print(f"Output directory: {output_dir}")
     
