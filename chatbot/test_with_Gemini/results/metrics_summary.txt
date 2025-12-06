@@ -1,0 +1,86 @@
+======================================================================
+GEMINI MODEL EVALUATION METRICS
+======================================================================
+
+
+======================================================================
+MCQ QUESTIONS
+======================================================================
+Total Tested:          1500
+Valid Responses:       1500
+No Response:           0
+
+Performance Metrics:
+  Accuracy:            75.20%
+  Precision (weighted): 76.27%
+  Recall (weighted):    75.20%
+  F1-Score (weighted):  75.19%
+
+Per-Class Metrics:
+  A:
+    Support:   370
+    Precision: 67.04%
+    Recall:    81.35%
+    F1-Score:  73.50%
+  B:
+    Support:   375
+    Precision: 76.97%
+    Recall:    73.07%
+    F1-Score:  74.97%
+  C:
+    Support:   386
+    Precision: 75.30%
+    Recall:    80.57%
+    F1-Score:  77.85%
+  D:
+    Support:   369
+    Precision: 85.82%
+    Recall:    65.58%
+    F1-Score:  74.35%
+
+======================================================================
+TRUE_FALSE QUESTIONS
+======================================================================
+Total Tested:          1500
+Valid Responses:       1500
+No Response:           0
+
+Performance Metrics:
+  Accuracy:            45.80%
+  Precision (weighted): 46.88%
+  Recall (weighted):    45.80%
+  F1-Score (weighted):  40.09%
+
+Per-Class Metrics:
+  Không có dữ kiện:
+    Support:   244
+    Precision: 33.33%
+    Recall:    5.33%
+    F1-Score:  9.19%
+  Sai:
+    Support:   627
+    Precision: 43.91%
+    Recall:    81.66%
+    F1-Score:  57.11%
+  Đúng:
+    Support:   629
+    Precision: 55.10%
+    Recall:    25.76%
+    F1-Score:  35.10%
+
+======================================================================
+COMBINED QUESTIONS
+======================================================================
+Total Tested:          3000
+Valid Responses:       3000
+No Response:           0
+
+Performance Metrics:
+  Accuracy:            60.50%
+  Precision (weighted): 61.57%
+  Recall (weighted):    60.50%
+  F1-Score (weighted):  57.64%
+
+======================================================================
+Generated at: 2025-12-06 15:59:52
+======================================================================

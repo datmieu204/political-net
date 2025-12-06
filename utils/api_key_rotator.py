@@ -52,8 +52,8 @@ class APIKeyRotator:
         return keys
     
     def _activate_current_key(self):
-        if self.current_index >= len(self.keys):
-            raise Exception("All API keys have been exhausted!")
+        # Use modulo to ensure we always have a valid index
+        self.current_index = self.current_index % len(self.keys)
         
         key_name, key_value = self.keys[self.current_index]
         genai.configure(api_key=key_value)
@@ -75,9 +75,12 @@ class APIKeyRotator:
         
         self.current_index += 1
         
+        # Wrap around to the beginning if we've reached the end
         if self.current_index >= len(self.keys):
-            logger.error("All API keys exhausted!")
-            return False
+            logger.warning(f"All {len(self.keys)} keys exhausted, wrapping around to first key")
+            self.current_index = 0
+            # Clear failed keys set to allow retry
+            self.failed_keys.clear()
         
         self._activate_current_key()
         return True
