@@ -12,12 +12,6 @@
     "total_valid": 1500,
     "total_tested": 1500,
     "per_class": {
-      "Trần Đức Lương": {
-        "precision": 0.0,
-        "recall": 0,
-        "f1": 0,
-        "support": 0
-      },
       "Sai": {
         "precision": 43.910806174957116,
         "recall": 81.65869218500798,
