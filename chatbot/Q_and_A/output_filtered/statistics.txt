@@ -1,0 +1,51 @@
+======================================================================
+DATASET STATISTICS AFTER FILTERING
+======================================================================
+
+Total MCQ questions: 1500
+Total TRUE_FALSE questions: 1500
+
+----------------------------------------------------------------------
+MCQ QUESTIONS BY HOP COUNT
+----------------------------------------------------------------------
+
+1-hop: 750 total
+  - Normal: 750
+  - PARAPHRASE_HARD: 0
+  - UNANSWERABLE: 0
+
+2-hop: 450 total
+  - Normal: 250
+  - PARAPHRASE_HARD: 100
+  - UNANSWERABLE: 100
+
+3-hop: 300 total
+  - Normal: 198
+  - PARAPHRASE_HARD: 51
+  - UNANSWERABLE: 51
+
+----------------------------------------------------------------------
+TRUE_FALSE QUESTIONS BY HOP COUNT
+----------------------------------------------------------------------
+
+1-hop: 750 total
+  - Normal: 750
+  - PARAPHRASE_HARD: 0
+  - UNANSWERABLE: 0
+
+2-hop: 450 total
+  - Normal: 250
+  - PARAPHRASE_HARD: 100
+  - UNANSWERABLE: 100
+
+3-hop: 300 total
+  - Normal: 198
+  - PARAPHRASE_HARD: 51
+  - UNANSWERABLE: 51
+
+======================================================================
+SUMMARY
+======================================================================
+
+MCQ: 1-hop=750, 2-hop=450, 3-hop=300, 4-hop=0
+TF:  1-hop=750, 2-hop=450, 3-hop=300, 4-hop=0
