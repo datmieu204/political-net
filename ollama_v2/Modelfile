@@ -1,0 +1,1 @@
+FROM ./qwen2.5-0.5b_ner_fp16-f16_v2.gguf
