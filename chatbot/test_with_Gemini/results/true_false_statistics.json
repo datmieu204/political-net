@@ -1,0 +1,67 @@
+{
+  "total": 1500,
+  "correct": 687,
+  "incorrect": 813,
+  "no_response": 0,
+  "accuracy": 45.800000000000004,
+  "metrics": {
+    "accuracy": 45.800000000000004,
+    "precision": 46.88306165233389,
+    "recall": 45.800000000000004,
+    "f1_score": 40.08668336564063,
+    "total_valid": 1500,
+    "total_tested": 1500,
+    "per_class": {
+      "Sai": {
+        "precision": 43.910806174957116,
+        "recall": 81.65869218500798,
+        "f1": 57.11098717233687,
+        "support": 627
+      },
+      "Đúng": {
+        "precision": 55.10204081632652,
+        "recall": 25.75516693163752,
+        "f1": 35.10292524377031,
+        "support": 629
+      },
+      "Không có dữ kiện": {
+        "precision": 33.33333333333333,
+        "recall": 5.327868852459016,
+        "f1": 9.187279151943462,
+        "support": 244
+      }
+    }
+  },
+  "by_hop": {
+    "2": {
+      "total": 927,
+      "correct": 416
+    },
+    "4": {
+      "total": 48,
+      "correct": 16
+    },
+    "3": {
+      "total": 323,
+      "correct": 143
+    },
+    "1": {
+      "total": 202,
+      "correct": 112
+    }
+  },
+  "by_variant": {
+    "Normal": {
+      "total": 1000,
+      "correct": 547
+    },
+    "Unanswerable": {
+      "total": 244,
+      "correct": 13
+    },
+    "Paraphrase": {
+      "total": 256,
+      "correct": 127
+    }
+  }
+}

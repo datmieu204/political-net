@@ -1,0 +1,73 @@
+{
+  "total": 1500,
+  "correct": 1128,
+  "incorrect": 372,
+  "no_response": 0,
+  "accuracy": 75.2,
+  "metrics": {
+    "accuracy": 75.2,
+    "precision": 76.26610266214891,
+    "recall": 75.2,
+    "f1_score": 75.19461267221811,
+    "total_valid": 1500,
+    "total_tested": 1500,
+    "per_class": {
+      "A": {
+        "precision": 67.03786191536749,
+        "recall": 81.35135135135135,
+        "f1": 73.50427350427351,
+        "support": 370
+      },
+      "B": {
+        "precision": 76.96629213483146,
+        "recall": 73.06666666666666,
+        "f1": 74.96580027359781,
+        "support": 375
+      },
+      "D": {
+        "precision": 85.81560283687944,
+        "recall": 65.58265582655827,
+        "f1": 74.34715821812595,
+        "support": 369
+      },
+      "C": {
+        "precision": 75.30266343825666,
+        "recall": 80.56994818652849,
+        "f1": 77.84730913642053,
+        "support": 386
+      }
+    }
+  },
+  "by_hop": {
+    "2": {
+      "total": 929,
+      "correct": 727
+    },
+    "4": {
+      "total": 49,
+      "correct": 45
+    },
+    "3": {
+      "total": 322,
+      "correct": 268
+    },
+    "1": {
+      "total": 200,
+      "correct": 88
+    }
+  },
+  "by_variant": {
+    "Normal": {
+      "total": 1000,
+      "correct": 761
+    },
+    "Unanswerable": {
+      "total": 250,
+      "correct": 162
+    },
+    "Paraphrase": {
+      "total": 250,
+      "correct": 205
+    }
+  }
+}

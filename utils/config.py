@@ -41,6 +41,10 @@ class Settings():
     OUTPUT_CYPHER_FILE = OUTPUT_DIR + "/processed/graph/neo4j_import.cypher"
     OUTPUT_GRAPH_FILE = OUTPUT_DIR + "/processed/graph/knowledge_graph.json"
     OUTPUT_ENRICHED_GRAPH_FILE = OUTPUT_DIR + "/processed/graph/knowledge_graph_enriched.json"
+    INPUT_SUM_ENRICH_FILE = OUTPUT_ENRICHED_GRAPH_FILE
+    OUTPUT_SUM_ENRICH_FILE = OUTPUT_DIR + "/processed/graph/knowledge_graph_enriched_sum.json"
+
+    # Analysis settings
 
     #Analysis settings
     OUTPUT_ANALYSIS_DIR = "./analysis/results"
@@ -51,5 +55,8 @@ class Settings():
     NEO4J_USER = "neo4j"
     NEO4J_PASSWORD = "12345678"
     NEO4J_DATABASE = "mxh"
+
+    # Embeddings settings
+    EMBEDDING_MODEL_NAME = "BAAI/bge-m3"
 
 settings = Settings()

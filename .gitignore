@@ -22,3 +22,8 @@ data/database/
 
 # Test
 crawl/test*
+
+# Ollama model folders
+qwen2.5-0.5b_ner_fp16/
+qwen2.5-0.5b_ner_fp16_v2/
+llama.cpp/

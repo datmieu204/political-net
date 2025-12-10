@@ -1,0 +1,86 @@
+======================================================================
+POLITICAL CHATBOT EVALUATION METRICS
+======================================================================
+
+
+======================================================================
+MCQ QUESTIONS
+======================================================================
+Total Tested:          1500
+Valid Responses:       1470
+No Response:           30
+
+Performance Metrics:
+  Accuracy:             45.12%
+  Precision (weighted): 45.78%
+  Recall (weighted):    45.12%
+  F1-Score (weighted):  44.37%
+
+Per-Class Metrics:
+  A:
+    Support:   300
+    Precision: 40.00%
+    Recall:    33.33%
+    F1-Score:  36.36%
+  B:
+    Support:   410
+    Precision: 43.18%
+    Recall:    46.34%
+    F1-Score:  44.70%
+  C:
+    Support:   410
+    Precision: 48.78%
+    Recall:    51.22%
+    F1-Score:  50.00%
+  D:
+    Support:   350
+    Precision: 50.00%
+    Recall:    54.29%
+    F1-Score:  52.04%
+
+======================================================================
+TRUE_FALSE QUESTIONS
+======================================================================
+Total Tested:          1500
+Valid Responses:       1480
+No Response:           20
+
+Performance Metrics:
+  Accuracy:             45.80%
+  Precision (weighted): 44.35%
+  Recall (weighted):    45.80%
+  F1-Score (weighted):  39.62%
+
+Per-Class Metrics:
+  Không có dữ kiện:
+    Support:   16
+    Precision: 10.00%
+    Recall:    6.25%
+    F1-Score:  7.69%
+  Sai:
+    Support:   700
+    Precision: 43.21%
+    Recall:    22.86%
+    F1-Score:  29.82%
+  Đúng:
+    Support:   620
+    Precision: 55.00%
+    Recall:    82.26%
+    F1-Score:  66.06%
+
+======================================================================
+COMBINED QUESTIONS
+======================================================================
+Total Tested:          2950
+Valid Responses:       2950
+No Response:           0
+
+Performance Metrics:
+  Accuracy:             45.33%
+  Precision (weighted): 44.98%
+  Recall (weighted):    45.33%
+  F1-Score (weighted):  41.15%
+
+======================================================================
+Generated at: 2025-12-09 05:30:37
+======================================================================
