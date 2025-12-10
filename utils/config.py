@@ -45,6 +45,8 @@ class Settings():
     OUTPUT_SUM_ENRICH_FILE = OUTPUT_DIR + "/processed/graph/knowledge_graph_enriched_sum.json"
 
     # Analysis settings
+
+    #Analysis settings
     OUTPUT_ANALYSIS_DIR = "./analysis/results"
     OUTPUT_LIST_MEMBERS = OUTPUT_ANALYSIS_DIR + "/list_members"
 
